@@ -11,11 +11,11 @@
     "salary_min": null,
     "salary_max": null,
     "currency": null,
-    "posted_at": "2026-08-27T13:35:36.099Z",
+    "posted_at": "2026-08-27T13:53:25.719Z",
     "active": true,
     "first_seen_at": "2026-08-29T09:05:24.640Z",
-    "last_seen_at": "2026-08-31T13:35:05.222Z",
-    "updated_at": "2026-08-31T13:35:05.222Z"
+    "last_seen_at": "2026-08-31T13:53:02.042Z",
+    "updated_at": "2026-08-31T13:53:02.042Z"
   },
   {
     "id": "4a2aa74a261069f908d2b87c74b49c5c",
@@ -68,8 +68,8 @@
     "posted_at": "2026-08-25T23:08:03Z",
     "active": true,
     "first_seen_at": "2026-08-29T03:48:04.070Z",
-    "last_seen_at": "2026-08-31T13:35:05.222Z",
-    "updated_at": "2026-08-31T13:35:05.222Z"
+    "last_seen_at": "2026-08-31T13:53:02.042Z",
+    "updated_at": "2026-08-31T13:53:02.042Z"
   },
   {
     "id": "3f59b31a6c523adf10da0eaf82d44b7c",
@@ -83,11 +83,11 @@
     "salary_min": null,
     "salary_max": null,
     "currency": null,
-    "posted_at": "2026-08-25T13:35:23.756Z",
+    "posted_at": "2026-08-25T13:53:16.498Z",
     "active": true,
     "first_seen_at": "2026-08-29T04:49:05.969Z",
-    "last_seen_at": "2026-08-31T13:35:05.222Z",
-    "updated_at": "2026-08-31T13:35:05.222Z"
+    "last_seen_at": "2026-08-31T13:53:02.042Z",
+    "updated_at": "2026-08-31T13:53:02.042Z"
   },
   {
     "id": "90697e45f89789c547947e41241c606f",
@@ -104,8 +104,8 @@
     "posted_at": "2026-08-24T21:39:43Z",
     "active": true,
     "first_seen_at": "2026-08-28T03:46:50.956Z",
-    "last_seen_at": "2026-08-31T13:35:05.222Z",
-    "updated_at": "2026-08-31T13:35:05.222Z"
+    "last_seen_at": "2026-08-31T13:53:02.042Z",
+    "updated_at": "2026-08-31T13:53:02.042Z"
   },
   {
     "id": "d9ee9e9653f90f0d643ee68a2f15a1eb",
@@ -119,11 +119,11 @@
     "salary_min": null,
     "salary_max": null,
     "currency": null,
-    "posted_at": "2026-08-24T13:35:17.562Z",
+    "posted_at": "2026-08-24T13:53:13.367Z",
     "active": true,
     "first_seen_at": "2026-08-29T03:53:52.727Z",
-    "last_seen_at": "2026-08-31T13:35:05.222Z",
-    "updated_at": "2026-08-31T13:35:05.222Z"
+    "last_seen_at": "2026-08-31T13:53:02.042Z",
+    "updated_at": "2026-08-31T13:53:02.042Z"
   },
   {
     "id": "fdc7e09168f28e1caf66c47a2fb80fa0",
@@ -194,8 +194,8 @@
     "posted_at": "2026-08-21T05:22:43.944Z",
     "active": true,
     "first_seen_at": "2026-08-28T04:06:00.354Z",
-    "last_seen_at": "2026-08-31T13:35:05.222Z",
-    "updated_at": "2026-08-31T13:35:05.222Z"
+    "last_seen_at": "2026-08-31T13:53:02.042Z",
+    "updated_at": "2026-08-31T13:53:02.042Z"
   },
   {
     "id": "c78162c9449cbd7aa1b837cd880d9e40",
@@ -227,11 +227,11 @@
     "salary_min": null,
     "salary_max": null,
     "currency": null,
-    "posted_at": "2026-08-18T13:35:40.223Z",
+    "posted_at": "2026-08-18T13:53:29.012Z",
     "active": true,
     "first_seen_at": "2026-08-29T09:05:24.640Z",
-    "last_seen_at": "2026-08-31T13:35:05.222Z",
-    "updated_at": "2026-08-31T13:35:05.222Z"
+    "last_seen_at": "2026-08-31T13:53:02.042Z",
+    "updated_at": "2026-08-31T13:53:02.042Z"
   },
   {
     "id": "3bb2589a4af763a905e8bea7fc1fb1c3",
@@ -281,11 +281,11 @@
     "salary_min": null,
     "salary_max": null,
     "currency": null,
-    "posted_at": "2026-08-17T09:06:19.256Z",
+    "posted_at": "2026-08-17T13:53:37.075Z",
     "active": true,
     "first_seen_at": "2026-08-28T03:54:32.234Z",
-    "last_seen_at": "2026-08-29T09:05:24.640Z",
-    "updated_at": "2026-08-29T09:05:24.640Z"
+    "last_seen_at": "2026-08-31T13:53:02.042Z",
+    "updated_at": "2026-08-31T13:53:02.042Z"
   },
   {
     "id": "485ba0589f980485de384cba6dc9f586",
@@ -299,11 +299,11 @@
     "salary_min": null,
     "salary_max": null,
     "currency": null,
-    "posted_at": "2026-08-14T13:36:07.562Z",
+    "posted_at": "2026-08-14T13:54:02.489Z",
     "active": true,
     "first_seen_at": "2026-08-29T09:05:24.640Z",
-    "last_seen_at": "2026-08-31T13:35:05.222Z",
-    "updated_at": "2026-08-31T13:35:05.222Z"
+    "last_seen_at": "2026-08-31T13:53:02.042Z",
+    "updated_at": "2026-08-31T13:53:02.042Z"
   },
   {
     "id": "791e55d72f8c6d77d73f7dd3b122472a",
@@ -337,8 +337,8 @@
     "currency": null,
     "active": true,
     "first_seen_at": "2026-08-26T11:16:32.348Z",
-    "last_seen_at": "2026-08-31T13:35:05.222Z",
-    "updated_at": "2026-08-31T13:35:05.222Z",
+    "last_seen_at": "2026-08-31T13:53:02.042Z",
+    "updated_at": "2026-08-31T13:53:02.042Z",
     "posted_at": "2026-08-13T20:03:26-04:00"
   },
   {
@@ -355,9 +355,9 @@
     "currency": null,
     "posted_at": "2026-08-11T06:03:30.929Z",
     "active": true,
-    "first_seen_at": "2026-08-31T13:35:05.222Z",
-    "last_seen_at": "2026-08-31T13:35:05.222Z",
-    "updated_at": "2026-08-31T13:35:05.222Z"
+    "first_seen_at": "2026-08-31T13:53:02.042Z",
+    "last_seen_at": "2026-08-31T13:53:02.042Z",
+    "updated_at": "2026-08-31T13:53:02.042Z"
   },
   {
     "id": "4bf598b3e9334e5a3968e1cf3d87165b",
@@ -389,11 +389,11 @@
     "salary_min": null,
     "salary_max": null,
     "currency": null,
-    "posted_at": "2026-08-06T13:36:07.159Z",
+    "posted_at": "2026-08-06T13:54:02.134Z",
     "active": true,
     "first_seen_at": "2026-08-28T03:54:32.234Z",
-    "last_seen_at": "2026-08-31T13:35:05.222Z",
-    "updated_at": "2026-08-31T13:35:05.222Z"
+    "last_seen_at": "2026-08-31T13:53:02.042Z",
+    "updated_at": "2026-08-31T13:53:02.042Z"
   },
   {
     "id": "f9a569c1e7b61bf9b58b4d8b2fbe40e1",
@@ -407,11 +407,11 @@
     "salary_min": null,
     "salary_max": null,
     "currency": null,
-    "posted_at": "2026-08-06T13:35:24.319Z",
+    "posted_at": "2026-08-06T13:53:17.052Z",
     "active": true,
     "first_seen_at": "2026-08-29T04:49:05.969Z",
-    "last_seen_at": "2026-08-31T13:35:05.222Z",
-    "updated_at": "2026-08-31T13:35:05.222Z"
+    "last_seen_at": "2026-08-31T13:53:02.042Z",
+    "updated_at": "2026-08-31T13:53:02.042Z"
   },
   {
     "id": "4c2cc98df9d221a3d05b0976059ac2e7",
@@ -425,11 +425,11 @@
     "salary_min": null,
     "salary_max": null,
     "currency": null,
-    "posted_at": "2026-08-01T13:36:08.143Z",
+    "posted_at": "2026-08-01T13:54:02.895Z",
     "active": true,
     "first_seen_at": "2026-08-29T09:05:24.640Z",
-    "last_seen_at": "2026-08-31T13:35:05.222Z",
-    "updated_at": "2026-08-31T13:35:05.222Z"
+    "last_seen_at": "2026-08-31T13:53:02.042Z",
+    "updated_at": "2026-08-31T13:53:02.042Z"
   },
   {
     "id": "9f02c5e15ff4d1d4459bcaf486a6ae6f",
@@ -443,29 +443,29 @@
     "salary_min": null,
     "salary_max": null,
     "currency": null,
-    "posted_at": "2026-08-01T13:35:38.966Z",
+    "posted_at": "2026-08-01T13:53:34.699Z",
     "active": true,
     "first_seen_at": "2026-08-28T03:54:32.234Z",
-    "last_seen_at": "2026-08-31T13:35:05.222Z",
-    "updated_at": "2026-08-31T13:35:05.222Z"
+    "last_seen_at": "2026-08-31T13:53:02.042Z",
+    "updated_at": "2026-08-31T13:53:02.042Z"
   },
   {
-    "id": "92faa7d3f7d79c24240d12870f07de32",
+    "id": "6d8a34a46db3da765798ebdc309be91f",
     "title": "Officer, Clearing Operations",
     "company": "HKEX",
     "location": "HK-ONE ES 30/F, HK-ONE ES 30/F",
     "source": "Workday",
-    "apply_url": "https://hkex.wd3.myworkdayjobs.com/HKEXCareerPage/job/HK-ONE-ES-30F/Officer--Clearing-Operations_R004236",
-    "description": "Company Introduction:\nWe’re home to Asia's most dynamic and vibrant capital markets.\nConnecting capital, ideas, inspiration and innovation for deeper, more diverse and liquid global capital markets; providing greater choice and opportunity for our customers, each and every day.\nHKEX is a purpose-driven company. Our commitment to the long-term development of our business and our markets is articulated in our purpose: \"To Connect, Promote and Progress our Markets and the Communities they support for the prosperity of all.\"\nJob Summary:\nThe Clearing Operations team manages and supports the end-to-end clearing lifecycle across all asset classes (including equities, derivatives and FIC products, transacted both on-exchange and OTC). The team ensures the smooth and timely processing of all clearing activities from trade acceptance up till settlement or expiry. This includes managing operational risks, maintaining high standards of accuracy, compliance, and market integrity, and handling exceptions or contingency events with professionalism and sound judgement aligned with the risk appetite of HKEX.\nJob Duties:\n- Provide competent operational and administration support to the clearing operations, and resolve exceptions and contingency situations swiftly and professionally\n- Carry out effective and efficient operational processes in order to deliver quality services and to support new business initiatives\n- Liaise with internal teams, external business counterparties, market participants on daily operations and new clearing products / services\n- Deliver project tasks including user requirements and users acceptance tests\n- Establish and maintain operational relationships actively with participants by delivering quality service improvements\n- Work shift duties including evening shift and public holiday support on regular and need basis\nRequirements:\n- University Degree, preferably in Finance / Business Administration / Accountancy / Economics or related subject\n- 1 - 2 years’ relevant experience in financial industry, preferably in the securities, derivatives or OTC clearing operations\n- Ability to articulate and contribute with clear and open communication, with good command of written and spoken English and Chinese; proficiency in Putonghua is an advantage\n- Strong analytical thinking and risk awareness to day-to-day operations\n- Conversant with Microsoft Word / Excel / Outlook / PowerPoint, knowledge in macro, AI and automatic tools are advantages\n- Work shift duties including evening shift and public holiday support on regular and need basis\nHKEX is committed as an Equal Opportunity Employer. Diversity is one of our core values and we look to support, respect diverse perspectives, abilities, culture and experiences within our workplace.\nLocation:\nHKEX - Exchange Square\nShift:\nIrregular Shift (Hong Kong SAR)\nScheduled Weekly Hours:\n40\nWorker Type:\nPermanent",
+    "apply_url": "https://hkex.wd3.myworkdayjobs.com/HKEXCareerPage/job/HK-ONE-ES-30F/Officer--Clearing-Operations_R002810",
+    "description": "Company Introduction:\nWe’re home to Asia's most dynamic and vibrant capital markets.\nConnecting capital, ideas, inspiration and innovation for deeper, more diverse and liquid global capital markets; providing greater choice and opportunity for our customers, each and every day.\nHKEX is a purpose-driven company. Our commitment to the long-term development of our business and our markets is articulated in our purpose: \"To Connect, Promote and Progress our Markets and the Communities they support for the prosperity of all.\"\nJob Summary:\nWork with a team of 10+ to provide competent operational and administration support to the clearing operations in accordance with established rules, policies and procedures\nJob Duties:\nResponsibilities:\n- Provide competent operational and administration support to the clearing operations, and resolve exceptions and contingency situations swiftly and professionally\n- Carry out effective and efficient operational processes in order to deliver quality services and to support new business initiatives\n- Liaise with internal teams, external business counterparties, market participants on daily operations and new clearing products / services\n- Deliver project tasks including user requirements and users acceptance tests\n- Establish and maintain operational relationships actively with participants by delivering quality service improvements\n- Work shift duties including evening shift and public holiday support on regular and need basis\nRequirements:\n- University Degree, preferably in Finance / Business Administration / Accountancy / Economics or related subject\n- 1 - 2 years’ relevant experience in financial industry, preferably in the derivatives or OTC clearing operations\n- Ability to articulate and contribute with clear and open communication, with good command of written and spoken English and Chinese; proficiency in Putonghua is an advantage\n- Strong analytical thinking and risk awareness to day-to-day operations\n- Conversant with Microsoft Word / Excel / Outlook / PowerPoint, knowledge in macro and automatic tools are advantages\n- Work shift duties including evening shift and public holiday support on regular and need basis\nHKEX is committed as an Equal Opportunity Employer. Diversity is one of our core values and we look to support, respect diverse perspectives, abilities, culture and experiences within our workplace.\nLocation:\nHKEX - Exchange Square\nShift:\nIrregular Shift (Hong Kong SAR)\nScheduled Weekly Hours:\n40\nWorker Type:\nPermanent",
     "category": null,
     "salary_min": null,
     "salary_max": null,
     "currency": null,
-    "posted_at": "2026-08-01T13:35:38.660Z",
+    "posted_at": "2026-08-01T13:53:23.586Z",
     "active": true,
-    "first_seen_at": "2026-08-29T09:05:24.640Z",
-    "last_seen_at": "2026-08-31T13:35:05.222Z",
-    "updated_at": "2026-08-31T13:35:05.222Z"
+    "first_seen_at": "2026-08-31T13:53:02.042Z",
+    "last_seen_at": "2026-08-31T13:53:02.042Z",
+    "updated_at": "2026-08-31T13:53:02.042Z"
   },
   {
     "id": "faf8a0a81095bb1556f7cd23e37637f3",
@@ -479,11 +479,11 @@
     "salary_min": null,
     "salary_max": null,
     "currency": null,
-    "posted_at": "2026-08-01T13:35:28.548Z",
+    "posted_at": "2026-08-01T13:53:22.935Z",
     "active": true,
     "first_seen_at": "2026-08-29T09:05:24.640Z",
-    "last_seen_at": "2026-08-31T13:35:05.222Z",
-    "updated_at": "2026-08-31T13:35:05.222Z"
+    "last_seen_at": "2026-08-31T13:53:02.042Z",
+    "updated_at": "2026-08-31T13:53:02.042Z"
   },
   {
     "id": "63adc5d86474c74a12a2145da4fc664e",
@@ -497,11 +497,11 @@
     "salary_min": null,
     "salary_max": null,
     "currency": null,
-    "posted_at": "2026-08-01T13:35:20.556Z",
+    "posted_at": "2026-08-01T13:53:16.785Z",
     "active": true,
     "first_seen_at": "2026-08-29T03:53:52.727Z",
-    "last_seen_at": "2026-08-31T13:35:05.222Z",
-    "updated_at": "2026-08-31T13:35:05.222Z"
+    "last_seen_at": "2026-08-31T13:53:02.042Z",
+    "updated_at": "2026-08-31T13:53:02.042Z"
   },
   {
     "id": "37d980436221e9048f748260e4d98360",
@@ -554,7 +554,7 @@
     "posted_at": "2026-07-23T08:18:09.681Z",
     "active": true,
     "first_seen_at": "2026-08-29T09:05:24.640Z",
-    "last_seen_at": "2026-08-31T13:35:05.222Z",
-    "updated_at": "2026-08-31T13:35:05.222Z"
+    "last_seen_at": "2026-08-31T13:53:02.042Z",
+    "updated_at": "2026-08-31T13:53:02.042Z"
   }
 ]
