@@ -11,7 +11,7 @@ function isCleanHistoricalJob(job: Partial<Job>) {
     !/\bintern(ship)?\b|summer internship|off[- ]cycle|summer\s+(?:financial\s+)?analyst/i.test(text) &&
     isPostedOnOrAfterCutoff(job.posted_at) &&
     !hasRequiredExperience(text) &&
-    !/\bsenior\b|\bintermediate\b|\bmanager\b|\bdirector\b|\blead\b|\bprincipal\b|\bstaff\b|\bvice president\b|\bvp\b/i.test(
+    !/\bchief\b|\bsenior\b|\bintermediate\b|\bmanager\b|\bdirector\b|\blead\b|\bprincipal\b|\bstaff\b|\bvice president\b|\bvp\b/i.test(
       job.title ?? ""
     ) &&
     !/\binformation technology\b|\bit service\b|\bservice management\b|\btechnology service\b|\bidentity and access\b|\buser acceptance testing\b|\bdigital\b|\bsoftware\b|\bengineer\b/i.test(

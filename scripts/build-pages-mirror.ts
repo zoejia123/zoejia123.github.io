@@ -80,7 +80,7 @@ async function main() {
     <head>
       <meta charset="utf-8" />
       <meta name="viewport" content="width=device-width, initial-scale=1" />
-      <title>Hong Kong Finance Jobs</title>
+      <title>66offer Hong Kong Finance Jobs</title>
       <meta name="description" content="A daily refreshed list of finance jobs in Hong Kong." />
       <style>
         :root {
@@ -229,7 +229,7 @@ async function main() {
         <header class="topbar">
           <div>
             <p class="eyebrow">Daily refreshed</p>
-            <h1>Hong Kong Finance Jobs</h1>
+            <h1>66offer Hong Kong Finance Jobs</h1>
           </div>
           <div class="note">Newest first · since 2026-07-01</div>
         </header>
@@ -251,6 +251,7 @@ async function main() {
 
   await mkdir(outDir, { recursive: true });
   await writeFile(outPath, html, "utf8");
+  await writeFile(path.join(root, "index.html"), html, "utf8");
   await writeFile(path.join(outDir, ".nojekyll"), "", "utf8");
   await writeFile(path.join(outDir, "jobs.json"), `${JSON.stringify(jobs, null, 2)}\n`, "utf8");
   console.log(`Wrote mirror with ${jobs.length} jobs to ${outDir}`);

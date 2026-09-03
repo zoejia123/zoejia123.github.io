@@ -34,7 +34,7 @@ export default async function Home() {
       <header className="topbar">
         <div>
           <p className="eyebrow">Daily refreshed</p>
-          <h1>Hong Kong Finance Jobs</h1>
+          <h1>66offer Hong Kong Finance Jobs</h1>
         </div>
         <div className="refresh-note">
           <RefreshCw aria-hidden="true" size={16} />

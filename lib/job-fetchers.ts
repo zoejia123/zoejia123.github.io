@@ -21,11 +21,30 @@ const museKeywords = [
   "risk analyst",
   "compliance analyst",
   "trading",
+  "sales and trading",
+  "sales support",
+  "client service",
+  "middle office",
+  "trade support",
+  "prime brokerage",
   "graduate analyst",
+  "graduate programme",
+  "graduate program",
   "associate finance",
+  "investment banking",
+  "capital markets",
+  "equities",
   "fixed income",
   "equity research",
-  "capital markets"
+  "trading assistant",
+  "wealth management",
+  "private bank",
+  "treasury sales",
+  "business development",
+  "account management",
+  "asset management",
+  "fund reporting",
+  "listed structured products"
 ];
 
 const workdaySearchTerms = [
@@ -33,21 +52,36 @@ const workdaySearchTerms = [
   "graduate",
   "analyst",
   "associate",
+  "sales",
+  "sales support",
+  "client service",
   "account",
   "accounting",
   "finance",
   "financial",
   "officer",
   "markets",
+  "capital markets",
   "wealth",
+  "wealth management",
+  "private bank",
   "investment",
+  "investment banking",
+  "equity research",
   "credit",
   "treasury",
+  "treasury sales",
   "risk",
   "operations",
+  "middle office",
+  "trade support",
   "audit",
   "aml",
-  "payments"
+  "payments",
+  "business development",
+  "account management",
+  "graduate programme",
+  "graduate program"
 ];
 
 const companyNames: Record<string, string> = {
@@ -61,6 +95,7 @@ const companyNames: Record<string, string> = {
   ripple: "Ripple",
   towerresearchcapital: "Tower Research Capital",
   imc: "IMC",
+  eclipsetrading: "Eclipse Trading",
   flowtraders: "Flow Traders",
   dvtrading: "DV Trading",
   thunes: "Thunes",
@@ -87,6 +122,7 @@ const defaultGreenhouseBoards = [
   "jumptrading",
   "towerresearchcapital",
   "imc",
+  "eclipsetrading",
   "flowtraders",
   "dvtrading",
   "thunes",
@@ -96,7 +132,12 @@ const defaultGreenhouseBoards = [
   "okx",
   "aqr",
   "hudsonrivertrading",
-  "gersonlehrmangroup"
+  "gersonlehrmangroup",
+  "citadel",
+  "drw",
+  "virtu",
+  "akuna",
+  "alphagrep"
 ];
 
 const defaultLeverCompanies = [
@@ -107,10 +148,28 @@ const defaultLeverCompanies = [
   "leversys",
   "wintermute-trading",
   "coins",
-  "lalamove"
+  "lalamove",
+  "bybit",
+  "hashkey",
+  "hextrust",
+  "osl",
+  "bitmex",
+  "paxos",
+  "circle",
+  "shopline"
 ];
 
-const defaultAshbyBoards = ["airwallex", "elliptic", "checkout.com", "pavebank"];
+const defaultAshbyBoards = [
+  "airwallex",
+  "elliptic",
+  "checkout.com",
+  "pavebank",
+  "wise",
+  "revolut",
+  "stripe",
+  "plaid",
+  "brex"
+];
 
 const defaultWorkdaySources = [
   {
@@ -639,9 +698,16 @@ function isEarlyCareerRole(title: string, category = "", description = "") {
   const hasTitleSignal = strongEntrySignals.some((pattern) => pattern.test(titleAndCategory));
   const hasDescriptionSignal = descriptionSignals.some((pattern) => pattern.test(haystack));
   const hasEntryTitle = entryTitleTerms.some((pattern) => pattern.test(titleAndCategory));
-  const hasSeniorSignal = seniorSignals.some((term) => titleText.includes(term));
+  const hasExperiencedProfessionalSignal = titleText.includes("experienced professional");
+  const hasSeniorSignal = seniorSignals
+    .filter((term) => term !== "experienced")
+    .some((term) => titleText.includes(term));
 
-  if (titleText.includes("experienced professional") || isInternshipRole(title, category, description)) {
+  if (isInternshipRole(title, category, description)) {
+    return false;
+  }
+
+  if (hasExperiencedProfessionalSignal && !(hasTitleSignal || hasDescriptionSignal || hasEntryTitle)) {
     return false;
   }
 
