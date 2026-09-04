@@ -197,6 +197,12 @@ const defaultWorkdaySources = [
     site: "Campus"
   },
   {
+    name: "Houlihan Lokey",
+    host: "hl.wd1.myworkdayjobs.com",
+    tenant: "hl",
+    site: "Lateral"
+  },
+  {
     name: "MUFG",
     host: "mufgub.wd3.myworkdayjobs.com",
     tenant: "mufgub",
