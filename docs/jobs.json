@@ -47,11 +47,11 @@
     "salary_min": null,
     "salary_max": null,
     "currency": null,
-    "posted_at": "2026-09-02T23:20:35.340Z",
+    "posted_at": "2026-09-02T23:51:24.763Z",
     "active": true,
     "first_seen_at": "2026-09-02T23:40:31.243Z",
-    "last_seen_at": "2026-09-06T23:19:58.625Z",
-    "updated_at": "2026-09-06T23:19:58.625Z"
+    "last_seen_at": "2026-09-07T23:50:49.254Z",
+    "updated_at": "2026-09-07T23:50:49.254Z"
   },
   {
     "id": "citi-markets-sales-trading-full-time-analyst-hk-2027-20260902",
@@ -104,8 +104,8 @@
     "posted_at": "2026-09-01T04:41:30.489+00:00",
     "active": true,
     "first_seen_at": "2026-09-01T23:39:53.995Z",
-    "last_seen_at": "2026-09-06T23:19:58.625Z",
-    "updated_at": "2026-09-06T23:19:58.625Z"
+    "last_seen_at": "2026-09-07T23:50:49.254Z",
+    "updated_at": "2026-09-07T23:50:49.254Z"
   },
   {
     "id": "571f53376a2c102138d32fa733bf00c2",
@@ -119,11 +119,11 @@
     "salary_min": null,
     "salary_max": null,
     "currency": null,
-    "posted_at": "2026-08-27T23:20:32.083Z",
+    "posted_at": "2026-08-27T23:51:21.086Z",
     "active": true,
     "first_seen_at": "2026-08-29T09:05:24.640Z",
-    "last_seen_at": "2026-09-06T23:19:58.625Z",
-    "updated_at": "2026-09-06T23:19:58.625Z"
+    "last_seen_at": "2026-09-07T23:50:49.254Z",
+    "updated_at": "2026-09-07T23:50:49.254Z"
   },
   {
     "id": "4a2aa74a261069f908d2b87c74b49c5c",
@@ -137,11 +137,11 @@
     "salary_min": null,
     "salary_max": null,
     "currency": null,
-    "posted_at": "2026-08-26T23:20:36.642Z",
+    "posted_at": "2026-08-26T23:51:26.474Z",
     "active": true,
     "first_seen_at": "2026-08-29T09:05:24.640Z",
-    "last_seen_at": "2026-09-06T23:19:58.625Z",
-    "updated_at": "2026-09-06T23:19:58.625Z"
+    "last_seen_at": "2026-09-07T23:50:49.254Z",
+    "updated_at": "2026-09-07T23:50:49.254Z"
   },
   {
     "id": "788d42128f1a703b13d3c9fb69ee5402",
@@ -194,8 +194,8 @@
     "posted_at": "2026-08-25T23:08:03Z",
     "active": true,
     "first_seen_at": "2026-08-29T03:48:04.070Z",
-    "last_seen_at": "2026-09-06T23:19:58.625Z",
-    "updated_at": "2026-09-06T23:19:58.625Z"
+    "last_seen_at": "2026-09-07T23:50:49.254Z",
+    "updated_at": "2026-09-07T23:50:49.254Z"
   },
   {
     "id": "d9ee9e9653f90f0d643ee68a2f15a1eb",
@@ -209,11 +209,11 @@
     "salary_min": null,
     "salary_max": null,
     "currency": null,
-    "posted_at": "2026-08-24T23:20:17.357Z",
+    "posted_at": "2026-08-24T23:51:08.397Z",
     "active": true,
     "first_seen_at": "2026-08-29T03:53:52.727Z",
-    "last_seen_at": "2026-09-06T23:19:58.625Z",
-    "updated_at": "2026-09-06T23:19:58.625Z"
+    "last_seen_at": "2026-09-07T23:50:49.254Z",
+    "updated_at": "2026-09-07T23:50:49.254Z"
   },
   {
     "id": "90697e45f89789c547947e41241c606f",
@@ -230,8 +230,8 @@
     "posted_at": "2026-08-24T21:39:43Z",
     "active": true,
     "first_seen_at": "2026-08-28T03:46:50.956Z",
-    "last_seen_at": "2026-09-06T23:19:58.625Z",
-    "updated_at": "2026-09-06T23:19:58.625Z"
+    "last_seen_at": "2026-09-07T23:50:49.254Z",
+    "updated_at": "2026-09-07T23:50:49.254Z"
   },
   {
     "id": "fdc7e09168f28e1caf66c47a2fb80fa0",
@@ -302,8 +302,8 @@
     "posted_at": "2026-08-21T05:22:43.944Z",
     "active": true,
     "first_seen_at": "2026-08-28T04:06:00.354Z",
-    "last_seen_at": "2026-09-06T23:19:58.625Z",
-    "updated_at": "2026-09-06T23:19:58.625Z"
+    "last_seen_at": "2026-09-07T23:50:49.254Z",
+    "updated_at": "2026-09-07T23:50:49.254Z"
   },
   {
     "id": "c78162c9449cbd7aa1b837cd880d9e40",
@@ -324,24 +324,6 @@
     "updated_at": "2026-08-29T09:05:24.640Z"
   },
   {
-    "id": "9a9dea0bf7d809f47eb97eeb1005b7f8",
-    "title": "Chief Operations Officer, Hong Kong and Macau",
-    "company": "Manulife",
-    "location": "Hong Kong, Hong Kong",
-    "source": "Workday",
-    "apply_url": "https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Hong-Kong/Chief-Operations-Officer--Hong-Kong-and-Macau_JR26081049",
-    "description": "General Description\nAs a member of Manulife Asia Operations Leadership Team and Manulife Senior Management Team for Hong Kong & Macau, the major responsibilities of this role include building a strong service culture across the Company, deploying customer-centric solutions, and ensuring that the Company achieves industry-leading service standards measured against competitors’ benchmarks.\nThe role is accountable for exceeding service expectations of policy holders, customers and all distribution channels while improving productivity, procedures, processes and strong compliance with corporate and regulatory requirements. This position will supervise the Buy, Manage and Review journeys for all business lines, including Operations Delivery, Corporate Real Estate, Budget and Reporting, Project Management Office and Business Transformation. The role will also manage operations relating to claims, health claims fraud detection, prevention and investigation, and the delivery of key 2026 business, customer, AI, risk and operations priorities.\nResponsibilities\nTransform the Operations and Customer Experience\n•    Lead the transformation of the Operations by strengthening ownership of the customer experience across Search/Buy, Manage & Review and Claims episodes.\n•    Leverage new ways of working under the Customer Experience transformation to deliver greater adoption of digital tools, straight-through capabilities and technology transformation towards micro services.\n•    Support delivery of customer priorities, including Move Revamp with Project SKY, the Single Customer App for Manulife in Hong Kong, digital customer leadership and best-in-class customer service and support.\n•    In Search/Buy, improve adoption of e-submission via E-POS, auto-underwriting, first premium digital payment and e-contract capabilities.\n•    In Manage & Review, implement further improvements to CRM minimum viable products and digital servicing with end-to-end capabilities.\n•    Improve workforce management capabilities of the contact centre and enhance messaging capabilities so customers better understand where they are in our processes.\n•    Leverage regional capabilities such as document portal and communications servers, and deepen agile practices, squad effectiveness and sprint efficacy with regional teams.\nTransform the Business as Usual Focus on Performance\n•    Cascade performance metrics to all levels of the Operations organization, linking frontline goals to enterprise, business and functional priorities.\n•    Drive a culture of performance, collaboration and excellence, breaking down functional silos so Manulife operates as one organization aligned to customer outcomes.\n•    Transform performance mindset through daily performance dialogues, teamwork, collaboration, continuous improvement and celebration of success.\n•    Strengthen employee engagement and develop a future-ready workforce empowered with digital tools and capabilities.\n•    Transform leadership mindset among Operations managers and cultivate leaders who motivate, coach and empower their teams to resolve day-to-day issues.\nStrategy & Planning (Business, Technology, Digitization and AI)\n•    Drive strategic priorities that support shareholder commitments, growth metrics consistent with strategic priorities, superior distribution support and expense efficiency.\n•    Build and launch appropriate AI tools for commercial impact, ensure data foundations are in place for AI ambitions, and support the evolution of a consolidated Data and AI organization over time.\n•    Streamline operations and improve efficiency through close coordination and collaboration between IT, Project Delivery and Operations teams.\n•    Act as a senior member of strategic projects, including business transformation, risk management and key Book of Work priorities such as ICHS, Underwriting Blueprint, MOVE/SKY and GLH platform.\nProcess, Policy and Procedures\n•    Ensure an appropriate Operations governance framework is in place and observed to maintain compliance with group, corporate and regulatory requirements.\n•    Drive a risk-aware culture by encouraging quality decision-making, constructive challenge and early escalation, and ensure exposures and business activities remain within approved risk appetite and limits.\n•    Continue to manage and improve key regulatory relationships, including with the IA, AMCM, HKFI, FSTB, SFC, HKMA and MPFA.\n•    Provide regional and country management with timely and relevant information, including management views, progress against plans and budgets, quality, risks, issues and key performance indicators.\n•    Establish contractual servicing where appropriate to support portfolio delivery in alignment with financial budgets and procurement policies.\nOperations Management\n•    Promote execution services functions and the Global Shared Service Center to raise profile and uplift capabilities delivered through shared services.\n•    Oversee the progress of initiatives and overall programs to deliver Manulife business benefits, providing strategic leadership and decision-making to achieve company-wide outcomes.\n•    Drive expense efficiency to meet spend, FTE and unit cost targets across operations, contact centre, new business, servicing and claims.\n•    Optimize operational support for distribution, including recruitment turnaround time, agent productivity, leader development, Project Quantum and growth opportunities in HNW, broker, DBS, banca partnerships and premium financing capabilities.\nKnowledge/Skills/Competencies/Education:\n•    Master’s degree a plus; Bachelor’s degree required or equivalent experience in business administration or management discipline; with good track record of solid experience in managing Operations and/or other large-scale teams.\n•    Proven experience in multi-vendor relationship and stakeholder management.\n•    Extensive insurance industry knowledge and experience, including functional processes, business practices and customer journeys.\n•    Expert knowledge of change management, business transformation, agile ways of working and digital & AI adoption.\n•    Good knowledge of business process, data and AI foundations, and commercial application of technology-enabled capabilities.\n•    Good experience in building high-performing teams and uplifting management capabilities.\n•    Knowledge of Hong Kong and Macau statutory/regulatory regimes, as well as related challenges and restrictions.\n•    Strong analytical, problem-solving and decision-making skills, with the ability to analyze and interpret data.\n•    Strategic thought leader with good sense of business transformation, expense efficiency and risk management.\n•    Able to engage with and influence senior business leaders.\n•    Strategic visioning leadership.\n•    Excellent communication, negotiation, coaching and mentoring skills.\n•    Change agent with ability to challenge status quo constructively.\n•    Good financial understanding and ability to assess risk on a profitable basis.\n•    Strong written and verbal communication skills in English and Chinese (Cantonese/Mandarin) required.\n•    Ability to communicate effectively with regulators, customers, distribution partners, and senior stakeholders.\nPersonal Attributes and Cultural Fit\n•    Develops, inspires and motivates others.\n•    Role models ethics and integrity.\n•    Ability to build a culture of respect, trust, connection and collaboration.\n•    Highly effective change agent who embraces and leads change with urgency and commitment.\n•    Provides courageous advice and constructive challenge.\n•    Results-driven; highly focused on accountability and delivery against global strategy, business and functional goals.\n•    Ability to handle multiple stakeholders.\n•    Demonstrates commitment to delivering excellent service balanced with appropriate risk management.\n•    Strategic and have ability to embrace AI & new technology.\n•    Highly collaborative working style.\nThis Position Description is intended to describe the general nature and level of the work being performed by employees in this job. It is not intended to be a complete list of all responsibilities, duties and skills required for this job classification.\nWhen you join our team:\n- We’ll empower you to learn and grow the career you want.\n- We’ll recognize and support you in a flexible environment where well-being and inclusion are more than just words.\n- As part of our global team, we’ll support you in shaping the future you want to see.\nAbout Manulife and John Hancock\nManulife Financial Corporation is a leading international financial services provider, helping people make their decisions easier and lives better. To learn more about us, visit https://www.manulife.com/en/about/our-story.html .\nManulife is an Equal Opportunity Employer\nAt Manulife/John Hancock, we embrace our diversity. We strive to attract, develop and retain a workforce that is as diverse as the customers we serve and to foster an inclusive work environment that embraces the strength of cultures and individuals. We are committed to fair recruitment, retention, advancement and compensation, and we administer all of our practices and programs without discrimination on the basis of race, ancestry, place of origin, colour, ethnic origin, citizenship, religion or religious beliefs, creed, sex (including pregnancy and pregnancy-related conditions), sexual orientation, genetic characteristics, veteran status, gender identity, gender expression, age, marital status, family status, disability, or any other ground protected by applicable law.\nIt is our priority to remove barriers to provide equal access to employment. A Human Resources representative will work with applicants who request a reasonable accommodation during the application process. All information shared during the accommodation request process will be stored and used in a manner that is consistent with applicable laws and Manulife/John Hancock policies. To request a reasonable accommodation in the application process, contact hr@manulife.com .\nWorking Arrangement\nHybrid",
-    "category": null,
-    "salary_min": null,
-    "salary_max": null,
-    "currency": null,
-    "posted_at": "2026-08-18T23:20:53.506Z",
-    "active": true,
-    "first_seen_at": "2026-09-06T23:19:58.625Z",
-    "last_seen_at": "2026-09-06T23:19:58.625Z",
-    "updated_at": "2026-09-06T23:19:58.625Z"
-  },
-  {
     "id": "1e1ced1381f5c2ca08ed087ef20de287",
     "title": "Officer – Depository & Participant Services (Depository & Vault Operations)",
     "company": "HKEX",
@@ -353,11 +335,11 @@
     "salary_min": null,
     "salary_max": null,
     "currency": null,
-    "posted_at": "2026-08-18T23:20:36.316Z",
+    "posted_at": "2026-08-18T23:51:26.119Z",
     "active": true,
     "first_seen_at": "2026-08-29T09:05:24.640Z",
-    "last_seen_at": "2026-09-06T23:19:58.625Z",
-    "updated_at": "2026-09-06T23:19:58.625Z"
+    "last_seen_at": "2026-09-07T23:50:49.254Z",
+    "updated_at": "2026-09-07T23:50:49.254Z"
   },
   {
     "id": "3bb2589a4af763a905e8bea7fc1fb1c3",
@@ -371,11 +353,11 @@
     "salary_min": null,
     "salary_max": null,
     "currency": null,
-    "posted_at": "2026-08-18T23:20:34.363Z",
+    "posted_at": "2026-08-18T23:51:23.690Z",
     "active": true,
     "first_seen_at": "2026-08-28T03:54:32.234Z",
-    "last_seen_at": "2026-09-06T23:19:58.625Z",
-    "updated_at": "2026-09-06T23:19:58.625Z"
+    "last_seen_at": "2026-09-07T23:50:49.254Z",
+    "updated_at": "2026-09-07T23:50:49.254Z"
   },
   {
     "id": "8ced519a32f67c348a79dceaa2567045",
@@ -407,11 +389,11 @@
     "salary_min": null,
     "salary_max": null,
     "currency": null,
-    "posted_at": "2026-08-17T23:27:45.315Z",
+    "posted_at": "2026-08-17T23:51:39.955Z",
     "active": true,
     "first_seen_at": "2026-08-28T03:54:32.234Z",
-    "last_seen_at": "2026-09-05T23:26:43.580Z",
-    "updated_at": "2026-09-05T23:26:43.580Z"
+    "last_seen_at": "2026-09-07T23:50:49.254Z",
+    "updated_at": "2026-09-07T23:50:49.254Z"
   },
   {
     "id": "485ba0589f980485de384cba6dc9f586",
@@ -425,11 +407,11 @@
     "salary_min": null,
     "salary_max": null,
     "currency": null,
-    "posted_at": "2026-08-14T23:21:34.548Z",
+    "posted_at": "2026-08-14T23:52:31.172Z",
     "active": true,
     "first_seen_at": "2026-08-29T09:05:24.640Z",
-    "last_seen_at": "2026-09-06T23:19:58.625Z",
-    "updated_at": "2026-09-06T23:19:58.625Z"
+    "last_seen_at": "2026-09-07T23:50:49.254Z",
+    "updated_at": "2026-09-07T23:50:49.254Z"
   },
   {
     "id": "791e55d72f8c6d77d73f7dd3b122472a",
@@ -443,11 +425,11 @@
     "salary_min": null,
     "salary_max": null,
     "currency": null,
-    "posted_at": "2026-08-14T23:20:34.018Z",
+    "posted_at": "2026-08-14T23:51:23.317Z",
     "active": true,
     "first_seen_at": "2026-08-28T03:54:32.234Z",
-    "last_seen_at": "2026-09-06T23:19:58.625Z",
-    "updated_at": "2026-09-06T23:19:58.625Z"
+    "last_seen_at": "2026-09-07T23:50:49.254Z",
+    "updated_at": "2026-09-07T23:50:49.254Z"
   },
   {
     "id": "f295e7b0abd1d42e24a3fdb5581a00cc",
@@ -463,8 +445,8 @@
     "currency": null,
     "active": true,
     "first_seen_at": "2026-08-26T11:16:32.348Z",
-    "last_seen_at": "2026-09-06T23:19:58.625Z",
-    "updated_at": "2026-09-06T23:19:58.625Z",
+    "last_seen_at": "2026-09-07T23:50:49.254Z",
+    "updated_at": "2026-09-07T23:50:49.254Z",
     "posted_at": "2026-08-13T20:03:26-04:00"
   },
   {
@@ -482,8 +464,8 @@
     "posted_at": "2026-08-13T02:43:24-04:00",
     "active": true,
     "first_seen_at": "2026-09-03T09:18:36.758Z",
-    "last_seen_at": "2026-09-06T23:19:58.625Z",
-    "updated_at": "2026-09-06T23:19:58.625Z"
+    "last_seen_at": "2026-09-07T23:50:49.254Z",
+    "updated_at": "2026-09-07T23:50:49.254Z"
   },
   {
     "id": "bb0e144e16f3807a669e08890d0e84ce",
@@ -499,9 +481,9 @@
     "currency": null,
     "posted_at": "2026-08-11T06:03:30.929Z",
     "active": true,
-    "first_seen_at": "2026-09-06T23:19:58.625Z",
-    "last_seen_at": "2026-09-06T23:19:58.625Z",
-    "updated_at": "2026-09-06T23:19:58.625Z"
+    "first_seen_at": "2026-09-07T23:50:49.254Z",
+    "last_seen_at": "2026-09-07T23:50:49.254Z",
+    "updated_at": "2026-09-07T23:50:49.254Z"
   },
   {
     "id": "4c2cc98df9d221a3d05b0976059ac2e7",
@@ -515,11 +497,11 @@
     "salary_min": null,
     "salary_max": null,
     "currency": null,
-    "posted_at": "2026-08-07T23:21:34.922Z",
+    "posted_at": "2026-08-08T23:52:31.516Z",
     "active": true,
     "first_seen_at": "2026-08-29T09:05:24.640Z",
-    "last_seen_at": "2026-09-06T23:19:58.625Z",
-    "updated_at": "2026-09-06T23:19:58.625Z"
+    "last_seen_at": "2026-09-07T23:50:49.254Z",
+    "updated_at": "2026-09-07T23:50:49.254Z"
   },
   {
     "id": "08b1b87171142d892f5cbf94057facdd",
@@ -533,11 +515,11 @@
     "salary_min": null,
     "salary_max": null,
     "currency": null,
-    "posted_at": "2026-08-07T23:21:34.235Z",
+    "posted_at": "2026-08-08T23:52:30.878Z",
     "active": true,
     "first_seen_at": "2026-08-28T03:54:32.234Z",
-    "last_seen_at": "2026-09-06T23:19:58.625Z",
-    "updated_at": "2026-09-06T23:19:58.625Z"
+    "last_seen_at": "2026-09-07T23:50:49.254Z",
+    "updated_at": "2026-09-07T23:50:49.254Z"
   },
   {
     "id": "ebb0cebdd1befc89cc0a8183e3db3737",
@@ -551,11 +533,11 @@
     "salary_min": null,
     "salary_max": null,
     "currency": null,
-    "posted_at": "2026-08-07T23:21:32.723Z",
+    "posted_at": "2026-08-08T23:52:29.318Z",
     "active": true,
     "first_seen_at": "2026-08-28T03:54:32.234Z",
-    "last_seen_at": "2026-09-06T23:19:58.625Z",
-    "updated_at": "2026-09-06T23:19:58.625Z"
+    "last_seen_at": "2026-09-07T23:50:49.254Z",
+    "updated_at": "2026-09-07T23:50:49.254Z"
   },
   {
     "id": "9f02c5e15ff4d1d4459bcaf486a6ae6f",
@@ -569,11 +551,11 @@
     "salary_min": null,
     "salary_max": null,
     "currency": null,
-    "posted_at": "2026-08-07T23:20:55.647Z",
+    "posted_at": "2026-08-08T23:51:45.146Z",
     "active": true,
     "first_seen_at": "2026-08-28T03:54:32.234Z",
-    "last_seen_at": "2026-09-06T23:19:58.625Z",
-    "updated_at": "2026-09-06T23:19:58.625Z"
+    "last_seen_at": "2026-09-07T23:50:49.254Z",
+    "updated_at": "2026-09-07T23:50:49.254Z"
   },
   {
     "id": "92faa7d3f7d79c24240d12870f07de32",
@@ -587,11 +569,11 @@
     "salary_min": null,
     "salary_max": null,
     "currency": null,
-    "posted_at": "2026-08-07T23:20:35.662Z",
+    "posted_at": "2026-08-08T23:51:25.327Z",
     "active": true,
     "first_seen_at": "2026-09-01T00:53:29.565Z",
-    "last_seen_at": "2026-09-06T23:19:58.625Z",
-    "updated_at": "2026-09-06T23:19:58.625Z"
+    "last_seen_at": "2026-09-07T23:50:49.254Z",
+    "updated_at": "2026-09-07T23:50:49.254Z"
   },
   {
     "id": "63adc5d86474c74a12a2145da4fc664e",
@@ -605,11 +587,11 @@
     "salary_min": null,
     "salary_max": null,
     "currency": null,
-    "posted_at": "2026-08-07T23:20:22.384Z",
+    "posted_at": "2026-08-08T23:51:15.405Z",
     "active": true,
     "first_seen_at": "2026-08-29T03:53:52.727Z",
-    "last_seen_at": "2026-09-06T23:19:58.625Z",
-    "updated_at": "2026-09-06T23:19:58.625Z"
+    "last_seen_at": "2026-09-07T23:50:49.254Z",
+    "updated_at": "2026-09-07T23:50:49.254Z"
   },
   {
     "id": "4bf598b3e9334e5a3968e1cf3d87165b",
@@ -770,8 +752,8 @@
     "posted_at": "2026-07-23T08:18:09.681Z",
     "active": true,
     "first_seen_at": "2026-08-29T09:05:24.640Z",
-    "last_seen_at": "2026-09-06T23:19:58.625Z",
-    "updated_at": "2026-09-06T23:19:58.625Z"
+    "last_seen_at": "2026-09-07T23:50:49.254Z",
+    "updated_at": "2026-09-07T23:50:49.254Z"
   },
   {
     "id": "eclipse-trading-junior-trading-analyst-volatility-trading-hong-kong-20260719",
