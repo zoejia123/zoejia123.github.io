@@ -106,6 +106,7 @@ const companyNames: Record<string, string> = {
   crypto: "Crypto.com",
   binance: "Binance",
   leversys: "Leversys",
+  ssctech: "SS&C Technologies",
   "wintermute-trading": "Wintermute",
   coins: "Coins",
   airwallex: "Airwallex",
@@ -243,6 +244,12 @@ const defaultWorkdaySources = [
     host: "aia.wd3.myworkdayjobs.com",
     tenant: "aia",
     site: "External"
+  },
+  {
+    name: "SS&C Technologies",
+    host: "ssctech.wd1.myworkdayjobs.com",
+    tenant: "ssctech",
+    site: "SSCTechnologies"
   },
   {
     name: "Neuberger Berman",
