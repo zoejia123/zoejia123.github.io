@@ -576,6 +576,8 @@ function isInternshipRole(title: string, category = "", description = "") {
   ];
 
   const internshipDescriptionSignals = [
+    /\bintern\b/,
+    /\binternship\b/,
     /\bas an intern\b/,
     /\binternship program\b/,
     /\bthis internship\b/,
