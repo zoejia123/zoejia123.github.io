@@ -14,8 +14,8 @@
     "posted_at": "2026-09-18T04:44:28-04:00",
     "active": true,
     "first_seen_at": "2026-09-18T23:44:31.889Z",
-    "last_seen_at": "2026-09-18T23:44:31.889Z",
-    "updated_at": "2026-09-18T23:44:31.889Z"
+    "last_seen_at": "2026-09-19T23:45:49.665Z",
+    "updated_at": "2026-09-19T23:45:49.665Z"
   },
   {
     "id": "4693e26597d2b67674577ca909aa5acb",
@@ -29,11 +29,11 @@
     "salary_min": null,
     "salary_max": null,
     "currency": null,
-    "posted_at": "2026-09-17T23:45:25.655Z",
+    "posted_at": "2026-09-17T23:46:37.630Z",
     "active": true,
     "first_seen_at": "2026-09-10T23:32:33.961Z",
-    "last_seen_at": "2026-09-18T23:44:31.889Z",
-    "updated_at": "2026-09-18T23:44:31.889Z"
+    "last_seen_at": "2026-09-19T23:45:49.665Z",
+    "updated_at": "2026-09-19T23:45:49.665Z"
   },
   {
     "id": "b4277a688008aac8218a5171ede8a41b",
@@ -50,8 +50,8 @@
     "posted_at": "2026-09-15T23:48:30.862Z",
     "active": true,
     "first_seen_at": "2026-09-15T23:48:51.314Z",
-    "last_seen_at": "2026-09-18T23:44:31.889Z",
-    "updated_at": "2026-09-18T23:44:31.889Z"
+    "last_seen_at": "2026-09-19T23:45:49.665Z",
+    "updated_at": "2026-09-19T23:45:49.665Z"
   },
   {
     "id": "6a532d05ee701af901958b708ece94fc",
@@ -65,11 +65,11 @@
     "salary_min": null,
     "salary_max": null,
     "currency": null,
-    "posted_at": "2026-09-15T23:45:30.286Z",
+    "posted_at": "2026-09-15T23:46:51.613Z",
     "active": true,
     "first_seen_at": "2026-09-15T23:48:51.314Z",
-    "last_seen_at": "2026-09-18T23:44:31.889Z",
-    "updated_at": "2026-09-18T23:44:31.889Z"
+    "last_seen_at": "2026-09-19T23:45:49.665Z",
+    "updated_at": "2026-09-19T23:45:49.665Z"
   },
   {
     "id": "a43d30cf73be66e8d726e5f5fc500455",
@@ -83,11 +83,11 @@
     "salary_min": null,
     "salary_max": null,
     "currency": null,
-    "posted_at": "2026-09-15T23:45:29.891Z",
+    "posted_at": "2026-09-15T23:46:51.079Z",
     "active": true,
     "first_seen_at": "2026-09-15T00:04:11.096Z",
-    "last_seen_at": "2026-09-18T23:44:31.889Z",
-    "updated_at": "2026-09-18T23:44:31.889Z"
+    "last_seen_at": "2026-09-19T23:45:49.665Z",
+    "updated_at": "2026-09-19T23:45:49.665Z"
   },
   {
     "id": "cb558c299659ea342ee8dd7107fb0db4",
@@ -101,11 +101,11 @@
     "salary_min": null,
     "salary_max": null,
     "currency": null,
-    "posted_at": "2026-09-15T23:45:08.740Z",
+    "posted_at": "2026-09-15T23:46:29.114Z",
     "active": true,
     "first_seen_at": "2026-09-15T23:48:51.314Z",
-    "last_seen_at": "2026-09-18T23:44:31.889Z",
-    "updated_at": "2026-09-18T23:44:31.889Z"
+    "last_seen_at": "2026-09-19T23:45:49.665Z",
+    "updated_at": "2026-09-19T23:45:49.665Z"
   },
   {
     "id": "642f8dfc27922685bf658ea90471f980",
@@ -137,11 +137,11 @@
     "salary_min": null,
     "salary_max": null,
     "currency": null,
-    "posted_at": "2026-09-14T23:45:45.809Z",
+    "posted_at": "2026-09-14T23:47:00.672Z",
     "active": true,
     "first_seen_at": "2026-09-15T00:04:11.096Z",
-    "last_seen_at": "2026-09-18T23:44:31.889Z",
-    "updated_at": "2026-09-18T23:44:31.889Z"
+    "last_seen_at": "2026-09-19T23:45:49.665Z",
+    "updated_at": "2026-09-19T23:45:49.665Z"
   },
   {
     "id": "a7f631eb5afb56947f3f0257553b3c68",
@@ -155,11 +155,11 @@
     "salary_min": null,
     "salary_max": null,
     "currency": null,
-    "posted_at": "2026-09-14T23:45:45.263Z",
+    "posted_at": "2026-09-14T23:47:00.086Z",
     "active": true,
     "first_seen_at": "2026-09-15T00:04:11.096Z",
-    "last_seen_at": "2026-09-18T23:44:31.889Z",
-    "updated_at": "2026-09-18T23:44:31.889Z"
+    "last_seen_at": "2026-09-19T23:45:49.665Z",
+    "updated_at": "2026-09-19T23:45:49.665Z"
   },
   {
     "id": "0d3995adedc07fc875d1bc1733edecfe",
@@ -173,11 +173,11 @@
     "salary_min": null,
     "salary_max": null,
     "currency": null,
-    "posted_at": "2026-09-14T23:45:44.716Z",
+    "posted_at": "2026-09-14T23:46:59.510Z",
     "active": true,
     "first_seen_at": "2026-09-15T00:04:11.096Z",
-    "last_seen_at": "2026-09-18T23:44:31.889Z",
-    "updated_at": "2026-09-18T23:44:31.889Z"
+    "last_seen_at": "2026-09-19T23:45:49.665Z",
+    "updated_at": "2026-09-19T23:45:49.665Z"
   },
   {
     "id": "59a047f87595c4f9a4397de509507144",
@@ -191,11 +191,11 @@
     "salary_min": null,
     "salary_max": null,
     "currency": null,
-    "posted_at": "2026-09-14T23:45:21.378Z",
+    "posted_at": "2026-09-14T23:46:42.205Z",
     "active": true,
     "first_seen_at": "2026-09-15T00:04:11.096Z",
-    "last_seen_at": "2026-09-18T23:44:31.889Z",
-    "updated_at": "2026-09-18T23:44:31.889Z"
+    "last_seen_at": "2026-09-19T23:45:49.665Z",
+    "updated_at": "2026-09-19T23:45:49.665Z"
   },
   {
     "id": "2138e4c93431d3b0520d1860f6e40161",
@@ -209,11 +209,11 @@
     "salary_min": null,
     "salary_max": null,
     "currency": null,
-    "posted_at": "2026-09-10T23:45:32.892Z",
+    "posted_at": "2026-09-10T23:46:51.139Z",
     "active": true,
     "first_seen_at": "2026-09-09T23:39:06.128Z",
-    "last_seen_at": "2026-09-18T23:44:31.889Z",
-    "updated_at": "2026-09-18T23:44:31.889Z"
+    "last_seen_at": "2026-09-19T23:45:49.665Z",
+    "updated_at": "2026-09-19T23:45:49.665Z"
   },
   {
     "id": "352217448e6cb2d28d50f3dd19801e6e",
@@ -230,8 +230,8 @@
     "posted_at": "2026-09-10T03:33:27-04:00",
     "active": true,
     "first_seen_at": "2026-09-10T23:32:33.961Z",
-    "last_seen_at": "2026-09-18T23:44:31.889Z",
-    "updated_at": "2026-09-18T23:44:31.889Z"
+    "last_seen_at": "2026-09-19T23:45:49.665Z",
+    "updated_at": "2026-09-19T23:45:49.665Z"
   },
   {
     "id": "d44af1c4ddb8d78c944984aea8d41414",
@@ -245,11 +245,11 @@
     "salary_min": null,
     "salary_max": null,
     "currency": null,
-    "posted_at": "2026-09-09T23:45:30.866Z",
+    "posted_at": "2026-09-09T23:46:53.055Z",
     "active": true,
     "first_seen_at": "2026-09-09T23:39:06.128Z",
-    "last_seen_at": "2026-09-18T23:44:31.889Z",
-    "updated_at": "2026-09-18T23:44:31.889Z"
+    "last_seen_at": "2026-09-19T23:45:49.665Z",
+    "updated_at": "2026-09-19T23:45:49.665Z"
   },
   {
     "id": "94069d26674d866d8cd9bf0b66814167",
@@ -284,8 +284,8 @@
     "posted_at": "2026-09-09T06:45:09-04:00",
     "active": true,
     "first_seen_at": "2026-09-09T23:39:06.128Z",
-    "last_seen_at": "2026-09-18T23:44:31.889Z",
-    "updated_at": "2026-09-18T23:44:31.889Z"
+    "last_seen_at": "2026-09-19T23:45:49.665Z",
+    "updated_at": "2026-09-19T23:45:49.665Z"
   },
   {
     "id": "619514423bbd5efa843fc1d389f9974c",
@@ -302,8 +302,8 @@
     "posted_at": "2026-09-09T06:44:12-04:00",
     "active": true,
     "first_seen_at": "2026-09-09T23:39:06.128Z",
-    "last_seen_at": "2026-09-18T23:44:31.889Z",
-    "updated_at": "2026-09-18T23:44:31.889Z"
+    "last_seen_at": "2026-09-19T23:45:49.665Z",
+    "updated_at": "2026-09-19T23:45:49.665Z"
   },
   {
     "id": "700c5f7149b62fd66568a6246282b958",
@@ -317,11 +317,11 @@
     "salary_min": null,
     "salary_max": null,
     "currency": null,
-    "posted_at": "2026-09-08T23:45:31.380Z",
+    "posted_at": "2026-09-08T23:46:53.884Z",
     "active": true,
     "first_seen_at": "2026-09-08T14:04:29.177Z",
-    "last_seen_at": "2026-09-18T23:44:31.889Z",
-    "updated_at": "2026-09-18T23:44:31.889Z"
+    "last_seen_at": "2026-09-19T23:45:49.665Z",
+    "updated_at": "2026-09-19T23:45:49.665Z"
   },
   {
     "id": "aia-ai-solution-analyst-hk-20260908",
@@ -396,24 +396,6 @@
     "updated_at": "2026-09-04T04:00:00.000Z"
   },
   {
-    "id": "649070b889665ab20d254a7ee7dd0375",
-    "title": "Core Operations, Officer",
-    "company": "State Street",
-    "location": "Hong Kong, China, Hong Kong, China",
-    "source": "Workday",
-    "apply_url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Hong-Kong-China/Core-Operations--Officer_R-797243",
-    "description": "Who we are looking for\nResponsible for the operational management of the payments team in co-ordination with the Assistant Vice President.  Direct responsibility for managing internal and external deliverables; and a team of resources to meet the daily operational needs of our business and clients.  Client service focus is paramount and involves both internal and external client groups. Understanding and actively managing the team’s operational risks, processes and procedures is essential.  Provide assistance to senior management in providing best practice implementation, risk management, client relationship and client service services to clients.\nWhat you will be responsible for\nRisk and Compliance\n- Ensure that all daily tasks are completed in accordance with current operating procedures and prescribed deadlines\n- Ensure FX standing instruction placed by clients are executed accurately in timely manner\n- Monitor the payment team’s daily workflows, particularly the IBS queues ensuring that all transactions are released\n- Ensure the timely completion of error/loss memo reports by the relevant supervisor, review and initiate appropriate action/s.  Distribute to the senior management in a timely manner\n- Ensure all information in operating procedures is accurate and current at all times\n- Responsible for the ongoing review of current operating procedures to eliminate processing deficiencies, detect major areas of risk and implement best practice recommendations.  Communicate changes to the relevant staff and management\n- Ensure all information prepared by the team has adequate and appropriate sign off supervision and control\n- Ensure full adherence and implementation of the State Street’s Corporate Policies, Standard Operating Procedures, relevant legislation and regulatory requirements\n- During the course of normal day to day operations, responsible for identifying any unusual or potentially suspicious transaction activity and reporting and/or escalating in accordance with corporate policy and guidelines details in relevant operating procedures\n- Design and enhance the team’s risk reports to incorporate the businesses changing risk profiles and needs.\n- Be aware of all business contingency plans; assist both the department’s representative and the relevant business BCP manager as needed.\n- Annually review the business continuity plan for areas of responsibility.  Invoke contingency procedures as required.  Communicate actions to management and staff\n- Contribute to the preparation of the departments corporate audit\nStaff Management and Resourcing\n- Responsible for managing all aspects of resourcing within teams, including leave and shift coverage, overtime and staff retention\n- Manage workflows to ensure an equitable distribution of work amongst staff is achieved\n- Provide appropriate sign off supervision and control on days where team supervisors are out of the office\n- Provide direct, understandable and timely feedback to staff in order to improve on the job performance\n- Create an environment which promotes teamwork, motivates, rewards and supports staff\n- Ensure appropriate resources and support, including training and industry sessions, are available to enable staff to achieve business and personal objectives\n- Monitor training in line with local regulatory and accreditation requirements\n- Develop staff so that they have the required skills to complete their job and are cross trained across both teams to provide coverage\nClient Service / Relationship\n- Keep current on the status of open items with State Street custody, local banking agents, correspondent banks (general, CLS, Equity Funding); participate in the resolution of problems as required\n- Keep State Street custody informed of changes in processes and market requirements\n- Approve the processing of late payment requests\n- Respond promptly to client (internal / external) concerns, needs and requests\n- Ensure all agreed deliverables and standards are met\n- Monitor internal service delivery levels against established standards\n- Provide 3rd party (correspondent banks, local agents) feedback, to the relevant relationship owners\n- Work with senior management to escalate an items requiring action and put in to place tools to monitor\n- Develop and sustain relationships by initiating communication on a regular basis, both by telephone and in person\n- Constantly review client utilisation of deliverables; eliminate unnecessary services provided\nChange Management\n- Promote and support change / initiatives within Global Services (locally / globally)\n- Act as local / regional (where applicable) contact point for technology and procedural changes that effect the payment and investigations team\n- Ensure all tasks for initiatives are detailed and monitored for completion, developing and coordinating a local implementation approach.  Delegate tasks where appropriate\n- Provide local management with regular updates of all open initiatives\n- Participate in the departments business planning and goal setting\nProducts / Services Supported\n- China-HK Connect FX processing\n- HKD self clearer for State Street Bank and Trust, Hong Kong\n- CLS settlement monitoring\n- Custody Payment Processing\n- Funding Secondary, Primary & Equity Trading Nostro Accounts\n- Reconciliations and Investigations\nREQUIREMENTS :\nEducation and Experience\n- Bachelor degree or equivalent in Finance, Business or related field preferred\n- Relevant experience and demonstrated knowledge in the financial services industry in particular treasury and broking products\n- Proven capabilities in operational and staff management\n- Excellent communication skills\n- Ability to manage, negotiate and meet training needs of staff.\nSkills/Knowledge\n- Effectively communicate with clients and managers, as well as staff and peers within State Street\n- Demonstrate the ability to analyse a problem, obtain and evaluate information, and make sound decisions\n- Good knowledge of Global Services & SSGM’s product and services and; the working relationship between front and back offices\n- The ability to make a strong contribution within a team environment\n- Embrace State Street’s “corporate values” and foster a work environment reflective of those values\n- AML Compliance\nAbout State Street\nAcross the globe, institutional investors rely on us to help them manage risk, respond to challenges, and drive performance and profitability. We keep our clients at the heart of everything we do, and smart, engaged employees are essential to our continued success.\nWe are committed to fostering an environment where every employee feels valued and empowered to reach their full potential. As an essential partner in our shared success, you’ll benefit from inclusive development opportunities, flexible work-life support, paid volunteer days, and vibrant employee networks that keep you connected to what matters most. Join us in shaping the future.\nAs an Equal Opportunity Employer, we consider all qualified applicants for all positions without regard to race, creed, color, religion, national origin, ancestry, ethnicity, age, disability, genetic information, sex, sexual orientation, gender identity or expression, citizenship, marital status, domestic partnership or civil union status, familial status, military and veteran status, and other characteristics protected by applicable law.\nDiscover more information on jobs at StateStreet.com/careers\nRead our CEO Statement",
-    "category": null,
-    "salary_min": null,
-    "salary_max": null,
-    "currency": null,
-    "posted_at": "2026-09-03T23:48:07.167Z",
-    "active": true,
-    "first_seen_at": "2026-09-11T07:58:48.703Z",
-    "last_seen_at": "2026-09-17T23:47:30.442Z",
-    "updated_at": "2026-09-17T23:47:30.442Z"
-  },
-  {
     "id": "b4291406d8efb8c7dd16602ba3a22a86",
     "title": "Associate, Trade Product (Supply Chain Finance), Global Payments Solutions, Hong Kong",
     "company": "Bank of America",
@@ -432,6 +414,24 @@
     "updated_at": "2026-09-17T23:47:30.442Z"
   },
   {
+    "id": "649070b889665ab20d254a7ee7dd0375",
+    "title": "Core Operations, Officer",
+    "company": "State Street",
+    "location": "Hong Kong, China, Hong Kong, China",
+    "source": "Workday",
+    "apply_url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Hong-Kong-China/Core-Operations--Officer_R-797243",
+    "description": "Who we are looking for\nResponsible for the operational management of the payments team in co-ordination with the Assistant Vice President.  Direct responsibility for managing internal and external deliverables; and a team of resources to meet the daily operational needs of our business and clients.  Client service focus is paramount and involves both internal and external client groups. Understanding and actively managing the team’s operational risks, processes and procedures is essential.  Provide assistance to senior management in providing best practice implementation, risk management, client relationship and client service services to clients.\nWhat you will be responsible for\nRisk and Compliance\n- Ensure that all daily tasks are completed in accordance with current operating procedures and prescribed deadlines\n- Ensure FX standing instruction placed by clients are executed accurately in timely manner\n- Monitor the payment team’s daily workflows, particularly the IBS queues ensuring that all transactions are released\n- Ensure the timely completion of error/loss memo reports by the relevant supervisor, review and initiate appropriate action/s.  Distribute to the senior management in a timely manner\n- Ensure all information in operating procedures is accurate and current at all times\n- Responsible for the ongoing review of current operating procedures to eliminate processing deficiencies, detect major areas of risk and implement best practice recommendations.  Communicate changes to the relevant staff and management\n- Ensure all information prepared by the team has adequate and appropriate sign off supervision and control\n- Ensure full adherence and implementation of the State Street’s Corporate Policies, Standard Operating Procedures, relevant legislation and regulatory requirements\n- During the course of normal day to day operations, responsible for identifying any unusual or potentially suspicious transaction activity and reporting and/or escalating in accordance with corporate policy and guidelines details in relevant operating procedures\n- Design and enhance the team’s risk reports to incorporate the businesses changing risk profiles and needs.\n- Be aware of all business contingency plans; assist both the department’s representative and the relevant business BCP manager as needed.\n- Annually review the business continuity plan for areas of responsibility.  Invoke contingency procedures as required.  Communicate actions to management and staff\n- Contribute to the preparation of the departments corporate audit\nStaff Management and Resourcing\n- Responsible for managing all aspects of resourcing within teams, including leave and shift coverage, overtime and staff retention\n- Manage workflows to ensure an equitable distribution of work amongst staff is achieved\n- Provide appropriate sign off supervision and control on days where team supervisors are out of the office\n- Provide direct, understandable and timely feedback to staff in order to improve on the job performance\n- Create an environment which promotes teamwork, motivates, rewards and supports staff\n- Ensure appropriate resources and support, including training and industry sessions, are available to enable staff to achieve business and personal objectives\n- Monitor training in line with local regulatory and accreditation requirements\n- Develop staff so that they have the required skills to complete their job and are cross trained across both teams to provide coverage\nClient Service / Relationship\n- Keep current on the status of open items with State Street custody, local banking agents, correspondent banks (general, CLS, Equity Funding); participate in the resolution of problems as required\n- Keep State Street custody informed of changes in processes and market requirements\n- Approve the processing of late payment requests\n- Respond promptly to client (internal / external) concerns, needs and requests\n- Ensure all agreed deliverables and standards are met\n- Monitor internal service delivery levels against established standards\n- Provide 3rd party (correspondent banks, local agents) feedback, to the relevant relationship owners\n- Work with senior management to escalate an items requiring action and put in to place tools to monitor\n- Develop and sustain relationships by initiating communication on a regular basis, both by telephone and in person\n- Constantly review client utilisation of deliverables; eliminate unnecessary services provided\nChange Management\n- Promote and support change / initiatives within Global Services (locally / globally)\n- Act as local / regional (where applicable) contact point for technology and procedural changes that effect the payment and investigations team\n- Ensure all tasks for initiatives are detailed and monitored for completion, developing and coordinating a local implementation approach.  Delegate tasks where appropriate\n- Provide local management with regular updates of all open initiatives\n- Participate in the departments business planning and goal setting\nProducts / Services Supported\n- China-HK Connect FX processing\n- HKD self clearer for State Street Bank and Trust, Hong Kong\n- CLS settlement monitoring\n- Custody Payment Processing\n- Funding Secondary, Primary & Equity Trading Nostro Accounts\n- Reconciliations and Investigations\nREQUIREMENTS :\nEducation and Experience\n- Bachelor degree or equivalent in Finance, Business or related field preferred\n- Relevant experience and demonstrated knowledge in the financial services industry in particular treasury and broking products\n- Proven capabilities in operational and staff management\n- Excellent communication skills\n- Ability to manage, negotiate and meet training needs of staff.\nSkills/Knowledge\n- Effectively communicate with clients and managers, as well as staff and peers within State Street\n- Demonstrate the ability to analyse a problem, obtain and evaluate information, and make sound decisions\n- Good knowledge of Global Services & SSGM’s product and services and; the working relationship between front and back offices\n- The ability to make a strong contribution within a team environment\n- Embrace State Street’s “corporate values” and foster a work environment reflective of those values\n- AML Compliance\nAbout State Street\nAcross the globe, institutional investors rely on us to help them manage risk, respond to challenges, and drive performance and profitability. We keep our clients at the heart of everything we do, and smart, engaged employees are essential to our continued success.\nWe are committed to fostering an environment where every employee feels valued and empowered to reach their full potential. As an essential partner in our shared success, you’ll benefit from inclusive development opportunities, flexible work-life support, paid volunteer days, and vibrant employee networks that keep you connected to what matters most. Join us in shaping the future.\nAs an Equal Opportunity Employer, we consider all qualified applicants for all positions without regard to race, creed, color, religion, national origin, ancestry, ethnicity, age, disability, genetic information, sex, sexual orientation, gender identity or expression, citizenship, marital status, domestic partnership or civil union status, familial status, military and veteran status, and other characteristics protected by applicable law.\nDiscover more information on jobs at StateStreet.com/careers\nRead our CEO Statement",
+    "category": null,
+    "salary_min": null,
+    "salary_max": null,
+    "currency": null,
+    "posted_at": "2026-09-03T23:46:26.094Z",
+    "active": true,
+    "first_seen_at": "2026-09-11T07:58:48.703Z",
+    "last_seen_at": "2026-09-19T23:45:49.665Z",
+    "updated_at": "2026-09-19T23:45:49.665Z"
+  },
+  {
     "id": "6546cf284cfbddcb7ef030df18c25845",
     "title": "Officer, Clearing & Participant Services, Post Trade Operations (12 months contract)",
     "company": "HKEX",
@@ -443,11 +443,11 @@
     "salary_min": null,
     "salary_max": null,
     "currency": null,
-    "posted_at": "2026-09-02T23:45:13.276Z",
+    "posted_at": "2026-09-02T23:46:33.261Z",
     "active": true,
     "first_seen_at": "2026-09-02T23:40:31.243Z",
-    "last_seen_at": "2026-09-18T23:44:31.889Z",
-    "updated_at": "2026-09-18T23:44:31.889Z"
+    "last_seen_at": "2026-09-19T23:45:49.665Z",
+    "updated_at": "2026-09-19T23:45:49.665Z"
   },
   {
     "id": "citi-markets-sales-trading-full-time-analyst-hk-2027-20260902",
@@ -500,8 +500,8 @@
     "posted_at": "2026-09-01T04:41:30.489+00:00",
     "active": true,
     "first_seen_at": "2026-09-01T23:39:53.995Z",
-    "last_seen_at": "2026-09-18T23:44:31.889Z",
-    "updated_at": "2026-09-18T23:44:31.889Z"
+    "last_seen_at": "2026-09-19T23:45:49.665Z",
+    "updated_at": "2026-09-19T23:45:49.665Z"
   },
   {
     "id": "571f53376a2c102138d32fa733bf00c2",
@@ -515,11 +515,11 @@
     "salary_min": null,
     "salary_max": null,
     "currency": null,
-    "posted_at": "2026-08-27T23:45:08.379Z",
+    "posted_at": "2026-08-27T23:46:28.705Z",
     "active": true,
     "first_seen_at": "2026-08-29T09:05:24.640Z",
-    "last_seen_at": "2026-09-18T23:44:31.889Z",
-    "updated_at": "2026-09-18T23:44:31.889Z"
+    "last_seen_at": "2026-09-19T23:45:49.665Z",
+    "updated_at": "2026-09-19T23:45:49.665Z"
   },
   {
     "id": "4a2aa74a261069f908d2b87c74b49c5c",
@@ -533,11 +533,11 @@
     "salary_min": null,
     "salary_max": null,
     "currency": null,
-    "posted_at": "2026-08-26T23:45:12.515Z",
+    "posted_at": "2026-08-26T23:46:32.466Z",
     "active": true,
     "first_seen_at": "2026-08-29T09:05:24.640Z",
-    "last_seen_at": "2026-09-18T23:44:31.889Z",
-    "updated_at": "2026-09-18T23:44:31.889Z"
+    "last_seen_at": "2026-09-19T23:45:49.665Z",
+    "updated_at": "2026-09-19T23:45:49.665Z"
   },
   {
     "id": "788d42128f1a703b13d3c9fb69ee5402",
@@ -605,11 +605,11 @@
     "salary_min": null,
     "salary_max": null,
     "currency": null,
-    "posted_at": "2026-08-24T23:44:54.030Z",
+    "posted_at": "2026-08-24T23:46:11.924Z",
     "active": true,
     "first_seen_at": "2026-08-29T03:53:52.727Z",
-    "last_seen_at": "2026-09-18T23:44:31.889Z",
-    "updated_at": "2026-09-18T23:44:31.889Z"
+    "last_seen_at": "2026-09-19T23:45:49.665Z",
+    "updated_at": "2026-09-19T23:45:49.665Z"
   },
   {
     "id": "90697e45f89789c547947e41241c606f",
@@ -626,8 +626,8 @@
     "posted_at": "2026-08-24T21:39:43Z",
     "active": true,
     "first_seen_at": "2026-08-28T03:46:50.956Z",
-    "last_seen_at": "2026-09-18T23:44:31.889Z",
-    "updated_at": "2026-09-18T23:44:31.889Z"
+    "last_seen_at": "2026-09-19T23:45:49.665Z",
+    "updated_at": "2026-09-19T23:45:49.665Z"
   },
   {
     "id": "morgan-stanley-equity-research-greater-china-technology-hardware-analyst-associate-hk-20260824",
@@ -698,8 +698,8 @@
     "posted_at": "2026-08-21T05:22:43.944Z",
     "active": true,
     "first_seen_at": "2026-08-28T04:06:00.354Z",
-    "last_seen_at": "2026-09-18T23:44:31.889Z",
-    "updated_at": "2026-09-18T23:44:31.889Z"
+    "last_seen_at": "2026-09-19T23:45:49.665Z",
+    "updated_at": "2026-09-19T23:45:49.665Z"
   },
   {
     "id": "4c2cc98df9d221a3d05b0976059ac2e7",
@@ -713,11 +713,11 @@
     "salary_min": null,
     "salary_max": null,
     "currency": null,
-    "posted_at": "2026-08-19T23:46:08.415Z",
+    "posted_at": "2026-08-20T23:47:21.744Z",
     "active": true,
     "first_seen_at": "2026-08-29T09:05:24.640Z",
-    "last_seen_at": "2026-09-18T23:44:31.889Z",
-    "updated_at": "2026-09-18T23:44:31.889Z"
+    "last_seen_at": "2026-09-19T23:45:49.665Z",
+    "updated_at": "2026-09-19T23:45:49.665Z"
   },
   {
     "id": "485ba0589f980485de384cba6dc9f586",
@@ -731,11 +731,11 @@
     "salary_min": null,
     "salary_max": null,
     "currency": null,
-    "posted_at": "2026-08-19T23:46:08.055Z",
+    "posted_at": "2026-08-20T23:47:21.458Z",
     "active": true,
     "first_seen_at": "2026-08-29T09:05:24.640Z",
-    "last_seen_at": "2026-09-18T23:44:31.889Z",
-    "updated_at": "2026-09-18T23:44:31.889Z"
+    "last_seen_at": "2026-09-19T23:45:49.665Z",
+    "updated_at": "2026-09-19T23:45:49.665Z"
   },
   {
     "id": "ebb0cebdd1befc89cc0a8183e3db3737",
@@ -749,11 +749,11 @@
     "salary_min": null,
     "salary_max": null,
     "currency": null,
-    "posted_at": "2026-08-19T23:46:06.963Z",
+    "posted_at": "2026-08-20T23:47:20.454Z",
     "active": true,
     "first_seen_at": "2026-08-28T03:54:32.234Z",
-    "last_seen_at": "2026-09-18T23:44:31.889Z",
-    "updated_at": "2026-09-18T23:44:31.889Z"
+    "last_seen_at": "2026-09-19T23:45:49.665Z",
+    "updated_at": "2026-09-19T23:45:49.665Z"
   },
   {
     "id": "7862ee5ef6b1d4099c91f4133b70da2d",
@@ -767,11 +767,11 @@
     "salary_min": null,
     "salary_max": null,
     "currency": null,
-    "posted_at": "2026-08-19T23:45:56.564Z",
+    "posted_at": "2026-08-20T23:47:10.096Z",
     "active": true,
     "first_seen_at": "2026-08-28T03:54:32.234Z",
-    "last_seen_at": "2026-09-18T23:44:31.889Z",
-    "updated_at": "2026-09-18T23:44:31.889Z"
+    "last_seen_at": "2026-09-19T23:45:49.665Z",
+    "updated_at": "2026-09-19T23:45:49.665Z"
   },
   {
     "id": "9f02c5e15ff4d1d4459bcaf486a6ae6f",
@@ -785,11 +785,11 @@
     "salary_min": null,
     "salary_max": null,
     "currency": null,
-    "posted_at": "2026-08-19T23:45:43.077Z",
+    "posted_at": "2026-08-20T23:46:57.421Z",
     "active": true,
     "first_seen_at": "2026-08-28T03:54:32.234Z",
-    "last_seen_at": "2026-09-18T23:44:31.889Z",
-    "updated_at": "2026-09-18T23:44:31.889Z"
+    "last_seen_at": "2026-09-19T23:45:49.665Z",
+    "updated_at": "2026-09-19T23:45:49.665Z"
   },
   {
     "id": "92faa7d3f7d79c24240d12870f07de32",
@@ -803,29 +803,11 @@
     "salary_min": null,
     "salary_max": null,
     "currency": null,
-    "posted_at": "2026-08-19T23:45:12.894Z",
+    "posted_at": "2026-08-20T23:46:32.868Z",
     "active": true,
     "first_seen_at": "2026-09-01T00:53:29.565Z",
-    "last_seen_at": "2026-09-18T23:44:31.889Z",
-    "updated_at": "2026-09-18T23:44:31.889Z"
-  },
-  {
-    "id": "1e1ced1381f5c2ca08ed087ef20de287",
-    "title": "Officer – Depository & Participant Services (Depository & Vault Operations)",
-    "company": "HKEX",
-    "location": "HK-ONE ES 30/F, HK-ONE ES 30/F",
-    "source": "Workday",
-    "apply_url": "https://hkex.wd3.myworkdayjobs.com/HKEXCareerPage/job/HK-ONE-ES-30F/Officer---Depository---Participant-Services--Depository---Vault-Operations-_R004327",
-    "description": "Company Introduction:\nWe’re home to Asia's most dynamic and vibrant capital markets.\nConnecting capital, ideas, inspiration and innovation for deeper, more diverse and liquid global capital markets; providing greater choice and opportunity for our customers, each and every day.\nHKEX is a purpose-driven company. Our commitment to the long-term development of our business and our markets is articulated in our purpose: \"To Connect, Promote and Progress our Markets and the Communities they support for the prosperity of all.\"\nJob Summary:\nThe incumbent will support daily depository and vault operations, including certificate handling, counter services, reconciliations and MIS reporting. The role will also assist in process improvement and automation initiatives to enhance efficiency, strengthen controls and reduce manual tasks.\nJob Duties:\nJob Responsibilities:\n- Carry out daily depository and vault operations in accordance with established rules, procedures and policies of the clearing houses\n- Daily operations include but not limited to, physical certificates handling, provide counter service, daily reconciliation, generating MIS reports for management’s review\n- Propose appropriate operational flow changes to enhance the day-to-day operational efficiency\n- Support various automation and process reengineering initiatives to eliminate manual and redundant tasks\n- Undertake other ad hoc tasks as assigned by superior\n- Identify exceptional cases / contingency situations and escalate to management\nJob Requirements:\n- University degree in Finance, Business Administration, Economics or related disciplines\n- Knowledge of clearing / settlement / nominees/custodial operations in Hong Kong and Global markets\n- At least 2-3 years’ of relevant experience, preferably in well-established financial organization\n- Demonstrated proactivity, adaptability, innovation, and ability to manage multiple tasks; excellent communication, interpersonal, and analytical skills\n- Intellectual curiosity to investigate underlying causes and implications of issues\n- Good command of written and spoken English and Chinese.  Proficiency in Putonghua is an advantage\n- Familiar with MS Word, Excel, Access, and Chinese Word Processing\n- Proficiency in Macros and VBA is an advantage\nHKEX is committed as an Equal Opportunity Employer. Diversity is one of our core values and we look to support, respect diverse perspectives, abilities, culture and experiences within our workplace.\nLocation:\nHKEX - Exchange Square\nShift:\nStandard - 40 Hours (Hong Kong SAR)\nScheduled Weekly Hours:\n40\nWorker Type:\nPermanent",
-    "category": null,
-    "salary_min": null,
-    "salary_max": null,
-    "currency": null,
-    "posted_at": "2026-08-19T23:45:12.161Z",
-    "active": true,
-    "first_seen_at": "2026-08-29T09:05:24.640Z",
-    "last_seen_at": "2026-09-18T23:44:31.889Z",
-    "updated_at": "2026-09-18T23:44:31.889Z"
+    "last_seen_at": "2026-09-19T23:45:49.665Z",
+    "updated_at": "2026-09-19T23:45:49.665Z"
   },
   {
     "id": "3bb2589a4af763a905e8bea7fc1fb1c3",
@@ -839,11 +821,11 @@
     "salary_min": null,
     "salary_max": null,
     "currency": null,
-    "posted_at": "2026-08-19T23:45:11.030Z",
+    "posted_at": "2026-08-20T23:46:31.245Z",
     "active": true,
     "first_seen_at": "2026-08-28T03:54:32.234Z",
-    "last_seen_at": "2026-09-18T23:44:31.889Z",
-    "updated_at": "2026-09-18T23:44:31.889Z"
+    "last_seen_at": "2026-09-19T23:45:49.665Z",
+    "updated_at": "2026-09-19T23:45:49.665Z"
   },
   {
     "id": "791e55d72f8c6d77d73f7dd3b122472a",
@@ -857,11 +839,29 @@
     "salary_min": null,
     "salary_max": null,
     "currency": null,
-    "posted_at": "2026-08-19T23:45:10.638Z",
+    "posted_at": "2026-08-20T23:46:30.823Z",
     "active": true,
     "first_seen_at": "2026-08-28T03:54:32.234Z",
-    "last_seen_at": "2026-09-18T23:44:31.889Z",
-    "updated_at": "2026-09-18T23:44:31.889Z"
+    "last_seen_at": "2026-09-19T23:45:49.665Z",
+    "updated_at": "2026-09-19T23:45:49.665Z"
+  },
+  {
+    "id": "1e1ced1381f5c2ca08ed087ef20de287",
+    "title": "Officer – Depository & Participant Services (Depository & Vault Operations)",
+    "company": "HKEX",
+    "location": "HK-ONE ES 30/F, HK-ONE ES 30/F",
+    "source": "Workday",
+    "apply_url": "https://hkex.wd3.myworkdayjobs.com/HKEXCareerPage/job/HK-ONE-ES-30F/Officer---Depository---Participant-Services--Depository---Vault-Operations-_R004327",
+    "description": "Company Introduction:\nWe’re home to Asia's most dynamic and vibrant capital markets.\nConnecting capital, ideas, inspiration and innovation for deeper, more diverse and liquid global capital markets; providing greater choice and opportunity for our customers, each and every day.\nHKEX is a purpose-driven company. Our commitment to the long-term development of our business and our markets is articulated in our purpose: \"To Connect, Promote and Progress our Markets and the Communities they support for the prosperity of all.\"\nJob Summary:\nThe incumbent will support daily depository and vault operations, including certificate handling, counter services, reconciliations and MIS reporting. The role will also assist in process improvement and automation initiatives to enhance efficiency, strengthen controls and reduce manual tasks.\nJob Duties:\nJob Responsibilities:\n- Carry out daily depository and vault operations in accordance with established rules, procedures and policies of the clearing houses\n- Daily operations include but not limited to, physical certificates handling, provide counter service, daily reconciliation, generating MIS reports for management’s review\n- Propose appropriate operational flow changes to enhance the day-to-day operational efficiency\n- Support various automation and process reengineering initiatives to eliminate manual and redundant tasks\n- Undertake other ad hoc tasks as assigned by superior\n- Identify exceptional cases / contingency situations and escalate to management\nJob Requirements:\n- University degree in Finance, Business Administration, Economics or related disciplines\n- Knowledge of clearing / settlement / nominees/custodial operations in Hong Kong and Global markets\n- At least 2-3 years’ of relevant experience, preferably in well-established financial organization\n- Demonstrated proactivity, adaptability, innovation, and ability to manage multiple tasks; excellent communication, interpersonal, and analytical skills\n- Intellectual curiosity to investigate underlying causes and implications of issues\n- Good command of written and spoken English and Chinese.  Proficiency in Putonghua is an advantage\n- Familiar with MS Word, Excel, Access, and Chinese Word Processing\n- Proficiency in Macros and VBA is an advantage\nHKEX is committed as an Equal Opportunity Employer. Diversity is one of our core values and we look to support, respect diverse perspectives, abilities, culture and experiences within our workplace.\nLocation:\nHKEX - Exchange Square\nShift:\nStandard - 40 Hours (Hong Kong SAR)\nScheduled Weekly Hours:\n40\nWorker Type:\nPermanent",
+    "category": null,
+    "salary_min": null,
+    "salary_max": null,
+    "currency": null,
+    "posted_at": "2026-08-20T23:46:26.988Z",
+    "active": true,
+    "first_seen_at": "2026-08-29T09:05:24.640Z",
+    "last_seen_at": "2026-09-19T23:45:49.665Z",
+    "updated_at": "2026-09-19T23:45:49.665Z"
   },
   {
     "id": "faf8a0a81095bb1556f7cd23e37637f3",
@@ -875,11 +875,11 @@
     "salary_min": null,
     "salary_max": null,
     "currency": null,
-    "posted_at": "2026-08-19T23:45:06.103Z",
+    "posted_at": "2026-08-20T23:46:25.370Z",
     "active": true,
     "first_seen_at": "2026-08-29T09:05:24.640Z",
-    "last_seen_at": "2026-09-18T23:44:31.889Z",
-    "updated_at": "2026-09-18T23:44:31.889Z"
+    "last_seen_at": "2026-09-19T23:45:49.665Z",
+    "updated_at": "2026-09-19T23:45:49.665Z"
   },
   {
     "id": "63adc5d86474c74a12a2145da4fc664e",
@@ -893,11 +893,29 @@
     "salary_min": null,
     "salary_max": null,
     "currency": null,
-    "posted_at": "2026-08-19T23:45:02.357Z",
+    "posted_at": "2026-08-20T23:46:19.766Z",
     "active": true,
     "first_seen_at": "2026-08-29T03:53:52.727Z",
-    "last_seen_at": "2026-09-18T23:44:31.889Z",
-    "updated_at": "2026-09-18T23:44:31.889Z"
+    "last_seen_at": "2026-09-19T23:45:49.665Z",
+    "updated_at": "2026-09-19T23:45:49.665Z"
+  },
+  {
+    "id": "8ced519a32f67c348a79dceaa2567045",
+    "title": "Client Analyst (Sales Support) – Intermediary",
+    "company": "Neuberger Berman",
+    "location": "Hong Kong, Hong Kong",
+    "source": "Workday",
+    "apply_url": "https://nb.wd1.myworkdayjobs.com/NBCareers/job/Hong-Kong/Client-Analyst---Intermediary_R0012185",
+    "description": "About the Role\nA sales support role working closely with the Hong Kong Intermediary Sales team to service retail and private bank distributors, coordinate client-facing activities, and manage day-to-day sales operations.\nKey Responsibilities\n- Handle daily enquiries and ad-hoc requests from intermediary clients and distributors\n- Maintain client records, meeting notes, and activity tracking via Salesforce\n- Manage full logistics for PM roadshows, client seminars, adviser events and daily branch visits\n- Prepare and update a variety of sales and marketing collaterals including presentations, sales flyers, one pagers, and fund emailers\n- Coordinate DDQs, RFPs, ongoing due diligence reviews\n- Produce weekly and ad-hoc fund reports using Bloomberg/Morningstar; manage content via Seismic\n- Process T&E reports, invoices, and travel arrangements\n- Act as key coordinator on behalf of the sales team with colleagues in various other functions/departments to fulfill the work tasks\nRequirements\n- Prior experience in asset management, intermediary sales, or client servicing\n- Strong knowledge of investment products across asset classes\n- Proficient in Salesforce; Bloomberg, Morningstar, and Seismic a plus\n- HKSI Paper 1, 7 & 8 or SFC Type 1 & Type 4 license (or equivalent)\n- Native Cantonese; fluent English and Mandarin\n- University degree in Finance, Business, or related field preferred\nVisa sponsorship may be available for qualified candidates. Sponsorship decisions will be made in accordance with company policy and applicable laws. Neuberger is an equal opportunity employer. The Firm and its affiliates do not discriminate in employment because of race, creed, national origin, religion, age, color, sex, marital status, sexual orientation, gender identity, disability, citizenship status or protected veteran status, or any other characteristic protected by local, state, or federal laws, rules, or regulations. If you would like to contact us regarding the accessibility of our website or need assistance completing the application process, please contact onlineaccommodations@nb.com .\nLearn about the Applicant Privacy Notice .",
+    "category": null,
+    "salary_min": null,
+    "salary_max": null,
+    "currency": null,
+    "posted_at": "2026-08-20T23:46:10.078Z",
+    "active": true,
+    "first_seen_at": "2026-08-28T03:54:32.234Z",
+    "last_seen_at": "2026-09-19T23:45:49.665Z",
+    "updated_at": "2026-09-19T23:45:49.665Z"
   },
   {
     "id": "c78162c9449cbd7aa1b837cd880d9e40",
@@ -936,24 +954,6 @@
     "updated_at": "2026-09-17T23:47:30.442Z"
   },
   {
-    "id": "8ced519a32f67c348a79dceaa2567045",
-    "title": "Client Analyst (Sales Support) – Intermediary",
-    "company": "Neuberger Berman",
-    "location": "Hong Kong, Hong Kong",
-    "source": "Workday",
-    "apply_url": "https://nb.wd1.myworkdayjobs.com/NBCareers/job/Hong-Kong/Client-Analyst---Intermediary_R0012185",
-    "description": "About the Role\nA sales support role working closely with the Hong Kong Intermediary Sales team to service retail and private bank distributors, coordinate client-facing activities, and manage day-to-day sales operations.\nKey Responsibilities\n- Handle daily enquiries and ad-hoc requests from intermediary clients and distributors\n- Maintain client records, meeting notes, and activity tracking via Salesforce\n- Manage full logistics for PM roadshows, client seminars, adviser events and daily branch visits\n- Prepare and update a variety of sales and marketing collaterals including presentations, sales flyers, one pagers, and fund emailers\n- Coordinate DDQs, RFPs, ongoing due diligence reviews\n- Produce weekly and ad-hoc fund reports using Bloomberg/Morningstar; manage content via Seismic\n- Process T&E reports, invoices, and travel arrangements\n- Act as key coordinator on behalf of the sales team with colleagues in various other functions/departments to fulfill the work tasks\nRequirements\n- Prior experience in asset management, intermediary sales, or client servicing\n- Strong knowledge of investment products across asset classes\n- Proficient in Salesforce; Bloomberg, Morningstar, and Seismic a plus\n- HKSI Paper 1, 7 & 8 or SFC Type 1 & Type 4 license (or equivalent)\n- Native Cantonese; fluent English and Mandarin\n- University degree in Finance, Business, or related field preferred\nVisa sponsorship may be available for qualified candidates. Sponsorship decisions will be made in accordance with company policy and applicable laws. Neuberger is an equal opportunity employer. The Firm and its affiliates do not discriminate in employment because of race, creed, national origin, religion, age, color, sex, marital status, sexual orientation, gender identity, disability, citizenship status or protected veteran status, or any other characteristic protected by local, state, or federal laws, rules, or regulations. If you would like to contact us regarding the accessibility of our website or need assistance completing the application process, please contact onlineaccommodations@nb.com .\nLearn about the Applicant Privacy Notice .",
-    "category": null,
-    "salary_min": null,
-    "salary_max": null,
-    "currency": null,
-    "posted_at": "2026-08-18T23:47:57.650Z",
-    "active": true,
-    "first_seen_at": "2026-08-28T03:54:32.234Z",
-    "last_seen_at": "2026-09-17T23:47:30.442Z",
-    "updated_at": "2026-09-17T23:47:30.442Z"
-  },
-  {
     "id": "f295e7b0abd1d42e24a3fdb5581a00cc",
     "title": "Trade Operations Analyst",
     "company": "IMC",
@@ -967,8 +967,8 @@
     "currency": null,
     "active": true,
     "first_seen_at": "2026-08-26T11:16:32.348Z",
-    "last_seen_at": "2026-09-18T23:44:31.889Z",
-    "updated_at": "2026-09-18T23:44:31.889Z",
+    "last_seen_at": "2026-09-19T23:45:49.665Z",
+    "updated_at": "2026-09-19T23:45:49.665Z",
     "posted_at": "2026-08-13T20:03:26-04:00"
   },
   {
@@ -986,8 +986,8 @@
     "posted_at": "2026-08-13T02:43:24-04:00",
     "active": true,
     "first_seen_at": "2026-09-03T09:18:36.758Z",
-    "last_seen_at": "2026-09-18T23:44:31.889Z",
-    "updated_at": "2026-09-18T23:44:31.889Z"
+    "last_seen_at": "2026-09-19T23:45:49.665Z",
+    "updated_at": "2026-09-19T23:45:49.665Z"
   },
   {
     "id": "f9a569c1e7b61bf9b58b4d8b2fbe40e1",
@@ -1130,8 +1130,8 @@
     "posted_at": "2026-07-23T08:18:09.681Z",
     "active": true,
     "first_seen_at": "2026-08-29T09:05:24.640Z",
-    "last_seen_at": "2026-09-18T23:44:31.889Z",
-    "updated_at": "2026-09-18T23:44:31.889Z"
+    "last_seen_at": "2026-09-19T23:45:49.665Z",
+    "updated_at": "2026-09-19T23:45:49.665Z"
   },
   {
     "id": "eclipse-trading-junior-trading-analyst-volatility-trading-hong-kong-20260719",
