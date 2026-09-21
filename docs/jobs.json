@@ -14,8 +14,8 @@
     "posted_at": "2026-09-18T04:44:28-04:00",
     "active": true,
     "first_seen_at": "2026-09-21T12:05:06.441Z",
-    "last_seen_at": "2026-09-21T12:05:06.441Z",
-    "updated_at": "2026-09-21T12:05:06.441Z"
+    "last_seen_at": "2026-09-21T12:16:23.327Z",
+    "updated_at": "2026-09-21T12:16:23.327Z"
   },
   {
     "id": "b4277a688008aac8218a5171ede8a41b",
@@ -32,8 +32,8 @@
     "posted_at": "2026-09-15T23:48:30.862Z",
     "active": true,
     "first_seen_at": "2026-09-15T23:48:51.314Z",
-    "last_seen_at": "2026-09-21T12:05:06.441Z",
-    "updated_at": "2026-09-21T12:05:06.441Z"
+    "last_seen_at": "2026-09-21T12:16:23.327Z",
+    "updated_at": "2026-09-21T12:16:23.327Z"
   },
   {
     "id": "6a532d05ee701af901958b708ece94fc",
@@ -47,11 +47,11 @@
     "salary_min": null,
     "salary_max": null,
     "currency": null,
-    "posted_at": "2026-09-15T12:06:26.350Z",
+    "posted_at": "2026-09-15T12:17:25.043Z",
     "active": true,
     "first_seen_at": "2026-09-15T23:48:51.314Z",
-    "last_seen_at": "2026-09-21T12:05:06.441Z",
-    "updated_at": "2026-09-21T12:05:06.441Z"
+    "last_seen_at": "2026-09-21T12:16:23.327Z",
+    "updated_at": "2026-09-21T12:16:23.327Z"
   },
   {
     "id": "a43d30cf73be66e8d726e5f5fc500455",
@@ -65,11 +65,11 @@
     "salary_min": null,
     "salary_max": null,
     "currency": null,
-    "posted_at": "2026-09-15T12:06:25.671Z",
+    "posted_at": "2026-09-15T12:17:24.398Z",
     "active": true,
     "first_seen_at": "2026-09-15T00:04:11.096Z",
-    "last_seen_at": "2026-09-21T12:05:06.441Z",
-    "updated_at": "2026-09-21T12:05:06.441Z"
+    "last_seen_at": "2026-09-21T12:16:23.327Z",
+    "updated_at": "2026-09-21T12:16:23.327Z"
   },
   {
     "id": "cb558c299659ea342ee8dd7107fb0db4",
@@ -83,11 +83,11 @@
     "salary_min": null,
     "salary_max": null,
     "currency": null,
-    "posted_at": "2026-09-15T12:05:59.973Z",
+    "posted_at": "2026-09-15T12:17:06.486Z",
     "active": true,
     "first_seen_at": "2026-09-15T23:48:51.314Z",
-    "last_seen_at": "2026-09-21T12:05:06.441Z",
-    "updated_at": "2026-09-21T12:05:06.441Z"
+    "last_seen_at": "2026-09-21T12:16:23.327Z",
+    "updated_at": "2026-09-21T12:16:23.327Z"
   },
   {
     "id": "642f8dfc27922685bf658ea90471f980",
@@ -119,11 +119,11 @@
     "salary_min": null,
     "salary_max": null,
     "currency": null,
-    "posted_at": "2026-09-14T12:06:30.858Z",
+    "posted_at": "2026-09-14T12:17:35.748Z",
     "active": true,
     "first_seen_at": "2026-09-15T00:04:11.096Z",
-    "last_seen_at": "2026-09-21T12:05:06.441Z",
-    "updated_at": "2026-09-21T12:05:06.441Z"
+    "last_seen_at": "2026-09-21T12:16:23.327Z",
+    "updated_at": "2026-09-21T12:16:23.327Z"
   },
   {
     "id": "a7f631eb5afb56947f3f0257553b3c68",
@@ -137,11 +137,11 @@
     "salary_min": null,
     "salary_max": null,
     "currency": null,
-    "posted_at": "2026-09-14T12:06:30.173Z",
+    "posted_at": "2026-09-14T12:17:35.309Z",
     "active": true,
     "first_seen_at": "2026-09-15T00:04:11.096Z",
-    "last_seen_at": "2026-09-21T12:05:06.441Z",
-    "updated_at": "2026-09-21T12:05:06.441Z"
+    "last_seen_at": "2026-09-21T12:16:23.327Z",
+    "updated_at": "2026-09-21T12:16:23.327Z"
   },
   {
     "id": "0d3995adedc07fc875d1bc1733edecfe",
@@ -155,11 +155,11 @@
     "salary_min": null,
     "salary_max": null,
     "currency": null,
-    "posted_at": "2026-09-14T12:06:29.720Z",
+    "posted_at": "2026-09-14T12:17:34.913Z",
     "active": true,
     "first_seen_at": "2026-09-15T00:04:11.096Z",
-    "last_seen_at": "2026-09-21T12:05:06.441Z",
-    "updated_at": "2026-09-21T12:05:06.441Z"
+    "last_seen_at": "2026-09-21T12:16:23.327Z",
+    "updated_at": "2026-09-21T12:16:23.327Z"
   },
   {
     "id": "59a047f87595c4f9a4397de509507144",
@@ -173,11 +173,11 @@
     "salary_min": null,
     "salary_max": null,
     "currency": null,
-    "posted_at": "2026-09-14T12:06:14.041Z",
+    "posted_at": "2026-09-14T12:17:19.555Z",
     "active": true,
     "first_seen_at": "2026-09-15T00:04:11.096Z",
-    "last_seen_at": "2026-09-21T12:05:06.441Z",
-    "updated_at": "2026-09-21T12:05:06.441Z"
+    "last_seen_at": "2026-09-21T12:16:23.327Z",
+    "updated_at": "2026-09-21T12:16:23.327Z"
   },
   {
     "id": "2138e4c93431d3b0520d1860f6e40161",
@@ -191,11 +191,11 @@
     "salary_min": null,
     "salary_max": null,
     "currency": null,
-    "posted_at": "2026-09-10T12:06:18.942Z",
+    "posted_at": "2026-09-10T12:17:26.179Z",
     "active": true,
     "first_seen_at": "2026-09-09T23:39:06.128Z",
-    "last_seen_at": "2026-09-21T12:05:06.441Z",
-    "updated_at": "2026-09-21T12:05:06.441Z"
+    "last_seen_at": "2026-09-21T12:16:23.327Z",
+    "updated_at": "2026-09-21T12:16:23.327Z"
   },
   {
     "id": "4693e26597d2b67674577ca909aa5acb",
@@ -230,8 +230,8 @@
     "posted_at": "2026-09-10T03:33:27-04:00",
     "active": true,
     "first_seen_at": "2026-09-10T23:32:33.961Z",
-    "last_seen_at": "2026-09-21T12:05:06.441Z",
-    "updated_at": "2026-09-21T12:05:06.441Z"
+    "last_seen_at": "2026-09-21T12:16:23.327Z",
+    "updated_at": "2026-09-21T12:16:23.327Z"
   },
   {
     "id": "94069d26674d866d8cd9bf0b66814167",
@@ -263,11 +263,11 @@
     "salary_min": null,
     "salary_max": null,
     "currency": null,
-    "posted_at": "2026-09-09T12:06:21.710Z",
+    "posted_at": "2026-09-09T12:17:31.821Z",
     "active": true,
     "first_seen_at": "2026-09-09T23:39:06.128Z",
-    "last_seen_at": "2026-09-21T12:05:06.441Z",
-    "updated_at": "2026-09-21T12:05:06.441Z"
+    "last_seen_at": "2026-09-21T12:16:23.327Z",
+    "updated_at": "2026-09-21T12:16:23.327Z"
   },
   {
     "id": "c1091870f7a17af97e1269e222f7cbc7",
@@ -284,8 +284,8 @@
     "posted_at": "2026-09-09T06:45:09-04:00",
     "active": true,
     "first_seen_at": "2026-09-09T23:39:06.128Z",
-    "last_seen_at": "2026-09-21T12:05:06.441Z",
-    "updated_at": "2026-09-21T12:05:06.441Z"
+    "last_seen_at": "2026-09-21T12:16:23.327Z",
+    "updated_at": "2026-09-21T12:16:23.327Z"
   },
   {
     "id": "619514423bbd5efa843fc1d389f9974c",
@@ -302,8 +302,8 @@
     "posted_at": "2026-09-09T06:44:12-04:00",
     "active": true,
     "first_seen_at": "2026-09-09T23:39:06.128Z",
-    "last_seen_at": "2026-09-21T12:05:06.441Z",
-    "updated_at": "2026-09-21T12:05:06.441Z"
+    "last_seen_at": "2026-09-21T12:16:23.327Z",
+    "updated_at": "2026-09-21T12:16:23.327Z"
   },
   {
     "id": "aia-ai-solution-analyst-hk-20260908",
@@ -335,11 +335,11 @@
     "salary_min": null,
     "salary_max": null,
     "currency": null,
-    "posted_at": "2026-09-08T12:06:22.394Z",
+    "posted_at": "2026-09-08T12:17:32.272Z",
     "active": true,
     "first_seen_at": "2026-09-08T14:04:29.177Z",
-    "last_seen_at": "2026-09-21T12:05:06.441Z",
-    "updated_at": "2026-09-21T12:05:06.441Z"
+    "last_seen_at": "2026-09-21T12:16:23.327Z",
+    "updated_at": "2026-09-21T12:16:23.327Z"
   },
   {
     "id": "ssc-client-services-analyst-hong-kong-20260907",
@@ -443,11 +443,11 @@
     "salary_min": null,
     "salary_max": null,
     "currency": null,
-    "posted_at": "2026-09-02T12:06:05.404Z",
+    "posted_at": "2026-09-02T12:17:10.236Z",
     "active": true,
     "first_seen_at": "2026-09-02T23:40:31.243Z",
-    "last_seen_at": "2026-09-21T12:05:06.441Z",
-    "updated_at": "2026-09-21T12:05:06.441Z"
+    "last_seen_at": "2026-09-21T12:16:23.327Z",
+    "updated_at": "2026-09-21T12:16:23.327Z"
   },
   {
     "id": "citi-markets-sales-trading-full-time-analyst-hk-2027-20260902",
@@ -500,8 +500,8 @@
     "posted_at": "2026-09-01T04:41:30.489+00:00",
     "active": true,
     "first_seen_at": "2026-09-01T23:39:53.995Z",
-    "last_seen_at": "2026-09-21T12:05:06.441Z",
-    "updated_at": "2026-09-21T12:05:06.441Z"
+    "last_seen_at": "2026-09-21T12:16:23.327Z",
+    "updated_at": "2026-09-21T12:16:23.327Z"
   },
   {
     "id": "571f53376a2c102138d32fa733bf00c2",
@@ -515,11 +515,11 @@
     "salary_min": null,
     "salary_max": null,
     "currency": null,
-    "posted_at": "2026-08-27T12:05:59.337Z",
+    "posted_at": "2026-08-27T12:17:06.082Z",
     "active": true,
     "first_seen_at": "2026-08-29T09:05:24.640Z",
-    "last_seen_at": "2026-09-21T12:05:06.441Z",
-    "updated_at": "2026-09-21T12:05:06.441Z"
+    "last_seen_at": "2026-09-21T12:16:23.327Z",
+    "updated_at": "2026-09-21T12:16:23.327Z"
   },
   {
     "id": "4a2aa74a261069f908d2b87c74b49c5c",
@@ -533,11 +533,11 @@
     "salary_min": null,
     "salary_max": null,
     "currency": null,
-    "posted_at": "2026-08-26T12:06:07.091Z",
+    "posted_at": "2026-08-26T12:17:11.585Z",
     "active": true,
     "first_seen_at": "2026-08-29T09:05:24.640Z",
-    "last_seen_at": "2026-09-21T12:05:06.441Z",
-    "updated_at": "2026-09-21T12:05:06.441Z"
+    "last_seen_at": "2026-09-21T12:16:23.327Z",
+    "updated_at": "2026-09-21T12:16:23.327Z"
   },
   {
     "id": "788d42128f1a703b13d3c9fb69ee5402",
@@ -608,8 +608,8 @@
     "posted_at": "2026-08-24T21:39:43Z",
     "active": true,
     "first_seen_at": "2026-08-28T03:46:50.956Z",
-    "last_seen_at": "2026-09-21T12:05:06.441Z",
-    "updated_at": "2026-09-21T12:05:06.441Z"
+    "last_seen_at": "2026-09-21T12:16:23.327Z",
+    "updated_at": "2026-09-21T12:16:23.327Z"
   },
   {
     "id": "d9ee9e9653f90f0d643ee68a2f15a1eb",
@@ -623,11 +623,11 @@
     "salary_min": null,
     "salary_max": null,
     "currency": null,
-    "posted_at": "2026-08-24T12:05:57.278Z",
+    "posted_at": "2026-08-24T12:16:45.434Z",
     "active": true,
     "first_seen_at": "2026-08-29T03:53:52.727Z",
-    "last_seen_at": "2026-09-21T12:05:06.441Z",
-    "updated_at": "2026-09-21T12:05:06.441Z"
+    "last_seen_at": "2026-09-21T12:16:23.327Z",
+    "updated_at": "2026-09-21T12:16:23.327Z"
   },
   {
     "id": "morgan-stanley-equity-research-greater-china-technology-hardware-analyst-associate-hk-20260824",
@@ -648,24 +648,6 @@
     "updated_at": "2026-09-08T08:00:00.000Z"
   },
   {
-    "id": "7862ee5ef6b1d4099c91f4133b70da2d",
-    "title": "Sales, Trading and Structuring Graduate Programme 2027 Hong Kong",
-    "company": "Barclays",
-    "location": "Hong Kong, Cheung Kong Center, Hong Kong, Cheung Kong Center",
-    "source": "Workday",
-    "apply_url": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Hong-Kong-Cheung-Kong-Center/Sales--Trading-and-Structuring-Graduate-Programme-2027-Hong-Kong_JR-0000128133",
-    "description": "Job Description\nPurpose of the role\nTo participate in the day-to-day activities of the markets division providing insights and expertise that help senior colleagues make informed decisions, develop new products and services, and identify new market opportunities.\nAccountabilities\n- Execution of small research projects, research to support strategic decision making, preparation of presentations and reports to communicate research findings, collaboration with senior management to implement research findings for the global markets division.\n- Collaboration with cross-functional teams to support business initiatives.\n- Participation in training and development programs to enhance skills and knowledge.\n- Identification of opportunities, development of business cases, management of the deployment and launch of new products and services for the global markets division.\n- Management of client relationships and provision of customer service support to clients and customers, under steadily decreasing supervision, responding to questions about products and services, processing of transactions.\n- Management of the development and implementation of financial models and strategies that support in decision making in the global markets division.\nAnalyst Expectations\n- To perform prescribed activities in a timely manner and to a high standard consistently driving continuous improvement.\n- Requires in-depth technical knowledge and experience in their assigned area of expertise\n- Thorough understanding of the underlying principles and concepts within the area of expertise\n- They lead and supervise a team, guiding and supporting professional development, allocating work requirements and coordinating team resources.\n- If the position has leadership responsibilities, People Leaders are expected to demonstrate a clear set of leadership behaviours to create an environment for colleagues to thrive and deliver to a consistently excellent standard. The four LEAD behaviours are: L – Listen and be authentic, E – Energise and inspire, A – Align across the enterprise, D – Develop others.\n- OR for an individual contributor, they develop technical expertise in work area, acting as an advisor where appropriate.\n- Will have an impact on the work of related teams within the area.\n- Partner with other functions and business areas.\n- Takes responsibility for end results of a team’s operational processing and activities.\n- Escalate breaches of policies / procedure appropriately.\n- Take responsibility for embedding new policies/ procedures adopted due to risk mitigation.\n- Advise and influence decision making within own area of expertise.\n- Take ownership for managing risk and strengthening controls in relation to the work you own or contribute to. Deliver your work and areas of responsibility in line with relevant rules, regulation and codes of conduct.\n- Maintain and continually build an understanding of how own sub-function integrates with function, alongside knowledge of the organisations products, services and processes within the function.\n- Demonstrate understanding of how areas coordinate and contribute to the achievement of the objectives of the organisation sub-function.\n- Make evaluative judgements based on the analysis of factual information, paying attention to detail.\n- Resolve problems by identifying and selecting solutions through the application of acquired technical experience and will be guided by precedents.\n- Guide and persuade team members and communicate complex / sensitive information.\n- Act as contact point for stakeholders outside of the immediate function, while building a network of contacts outside team and external to the organisation.\nAll colleagues will be expected to demonstrate the Barclays Values of Respect, Integrity, Service, Excellence and Stewardship – our moral compass, helping us do what we believe is right. They will also be expected to demonstrate the Barclays Mindset – to Empower, Challenge and Drive – the operating manual for how we behave.\nThis role is regulated by HKMA and SFC\nGraduate Programme Overview\nIf you're a soon-to-be graduate, join us and unlock a world of carefully curated experiences, knowledge, and connections to shape your career. Along the way, you can expect all the training and support you need to make your mark on the world. Put simply, we’ll empower you to help determine how we do things and where we go next. Our graduates are a vital part of our success, and we welcome applications from people from all walks of life. Whoever you are and wherever you want to join us, if you’re curious, creative and ambitious, this is a world in which you can truly belong.\nWhy the Sales, Trading and Structuring Graduate Programme?\nBarclays makes markets in nearly all major asset classes, providing sophisticated, timely solutions to our clients. Our Sales & Trading team works in a fast-paced, dynamic and exciting environment, quickly processing information and anticipating market trends to help clients make their next move. Sound like the place for you? Join us as an analyst.\nOver your time as an analyst, you’ll develop a solid understanding of the global markets while building your communication, quantitative and analytical skills. After intensive initial training, you will start your career as a salesperson or a trader on a specific desk in one of our business areas, including: Client Capital Management, Client Strategy, Commodities, Credit, eFICC Trading, Equities, Equity Financing, Foreign Exchange, Municipals, Rates, Structuring\nAs a Sales analyst, you’ll start by supporting your colleagues before taking on your own set of clients. You may:\n- analyse and develop solutions to clients’ needs\n- monitor markets and formulate trade ideas\n- perform various analyses on fundamental and technical data\n- attend client meetings or calls with traders, salespeople and research colleagues.\nAs a Trading analyst, you may:\n- monitor markets and generate trade ideas\n- participate in pricing products\n- help out with daily tasks such as trade reporting or P&L analysis\n- assist with managing risk of the team’s trading books.\nMarkets at Barclays\nMarkets is the financial barometer of world events at Barclays. So every day is different and it’s a challenging, fascinating place to build a career. We help institutional investors to identify market opportunities, manage risk and generate returns for their portfolios. Our teams provide market insights, execution services and tailored risk management and financing solutions to our clients; we help them protect their capital and make the most of their assets. And, as one of the largest investment banks in the world, we offer a full range of products and services across every type of investment market.\nWho we're looking for\nTo be considered for this programme, you must be pursuing an undergraduate degree with anticipated completion between December 2026 - June 2027.\nIdeally, you'll have a minimum GPA of 3.2 and you will have an interest in business and finance, a good work ethic and be keen to learn and develop a technical skill set.\nBarclays is required by law to confirm that you have the Legal Right to Work in any role that you apply for. If you currently hold a work visa sponsored by Barclays, or you would require sponsorship from Barclays, you must declare this as part of your application. Sponsored visas are role and entity specific, and any changes must be reviewed. It is important that you ensure you are working on the correct visa at all times. Failure to accurately disclose your visa status or Legal Right to Work may result in your application or any employment offer being withdrawn at any time.\nIt is the policy of Barclays to ensure equal employment opportunity without discrimination or harassment on the basis of race, colour, creed, religion, national origin, alienage or citizenship status, age, sex, sexual orientation, gender identity or expression, marital or domestic/civil partnership status, disability, protected veteran status, genetic information, or any other basis protected by law.",
-    "category": null,
-    "salary_min": null,
-    "salary_max": null,
-    "currency": null,
-    "posted_at": "2026-08-22T12:08:05.327Z",
-    "active": true,
-    "first_seen_at": "2026-08-28T03:54:32.234Z",
-    "last_seen_at": "2026-09-21T12:05:06.441Z",
-    "updated_at": "2026-09-21T12:05:06.441Z"
-  },
-  {
     "id": "4c2cc98df9d221a3d05b0976059ac2e7",
     "title": "Officer, Investment Operations",
     "company": "Citi",
@@ -677,11 +659,11 @@
     "salary_min": null,
     "salary_max": null,
     "currency": null,
-    "posted_at": "2026-08-22T12:08:03.068Z",
+    "posted_at": "2026-08-22T12:18:13.746Z",
     "active": true,
     "first_seen_at": "2026-08-29T09:05:24.640Z",
-    "last_seen_at": "2026-09-21T12:05:06.441Z",
-    "updated_at": "2026-09-21T12:05:06.441Z"
+    "last_seen_at": "2026-09-21T12:16:23.327Z",
+    "updated_at": "2026-09-21T12:16:23.327Z"
   },
   {
     "id": "485ba0589f980485de384cba6dc9f586",
@@ -695,11 +677,11 @@
     "salary_min": null,
     "salary_max": null,
     "currency": null,
-    "posted_at": "2026-08-22T12:08:02.227Z",
+    "posted_at": "2026-08-22T12:18:13.340Z",
     "active": true,
     "first_seen_at": "2026-08-29T09:05:24.640Z",
-    "last_seen_at": "2026-09-21T12:05:06.441Z",
-    "updated_at": "2026-09-21T12:05:06.441Z"
+    "last_seen_at": "2026-09-21T12:16:23.327Z",
+    "updated_at": "2026-09-21T12:16:23.327Z"
   },
   {
     "id": "ebb0cebdd1befc89cc0a8183e3db3737",
@@ -713,11 +695,29 @@
     "salary_min": null,
     "salary_max": null,
     "currency": null,
-    "posted_at": "2026-08-22T12:07:58.868Z",
+    "posted_at": "2026-08-22T12:18:12.212Z",
     "active": true,
     "first_seen_at": "2026-08-28T03:54:32.234Z",
-    "last_seen_at": "2026-09-21T12:05:06.441Z",
-    "updated_at": "2026-09-21T12:05:06.441Z"
+    "last_seen_at": "2026-09-21T12:16:23.327Z",
+    "updated_at": "2026-09-21T12:16:23.327Z"
+  },
+  {
+    "id": "7862ee5ef6b1d4099c91f4133b70da2d",
+    "title": "Sales, Trading and Structuring Graduate Programme 2027 Hong Kong",
+    "company": "Barclays",
+    "location": "Hong Kong, Cheung Kong Center, Hong Kong, Cheung Kong Center",
+    "source": "Workday",
+    "apply_url": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Hong-Kong-Cheung-Kong-Center/Sales--Trading-and-Structuring-Graduate-Programme-2027-Hong-Kong_JR-0000128133",
+    "description": "Job Description\nPurpose of the role\nTo participate in the day-to-day activities of the markets division providing insights and expertise that help senior colleagues make informed decisions, develop new products and services, and identify new market opportunities.\nAccountabilities\n- Execution of small research projects, research to support strategic decision making, preparation of presentations and reports to communicate research findings, collaboration with senior management to implement research findings for the global markets division.\n- Collaboration with cross-functional teams to support business initiatives.\n- Participation in training and development programs to enhance skills and knowledge.\n- Identification of opportunities, development of business cases, management of the deployment and launch of new products and services for the global markets division.\n- Management of client relationships and provision of customer service support to clients and customers, under steadily decreasing supervision, responding to questions about products and services, processing of transactions.\n- Management of the development and implementation of financial models and strategies that support in decision making in the global markets division.\nAnalyst Expectations\n- To perform prescribed activities in a timely manner and to a high standard consistently driving continuous improvement.\n- Requires in-depth technical knowledge and experience in their assigned area of expertise\n- Thorough understanding of the underlying principles and concepts within the area of expertise\n- They lead and supervise a team, guiding and supporting professional development, allocating work requirements and coordinating team resources.\n- If the position has leadership responsibilities, People Leaders are expected to demonstrate a clear set of leadership behaviours to create an environment for colleagues to thrive and deliver to a consistently excellent standard. The four LEAD behaviours are: L – Listen and be authentic, E – Energise and inspire, A – Align across the enterprise, D – Develop others.\n- OR for an individual contributor, they develop technical expertise in work area, acting as an advisor where appropriate.\n- Will have an impact on the work of related teams within the area.\n- Partner with other functions and business areas.\n- Takes responsibility for end results of a team’s operational processing and activities.\n- Escalate breaches of policies / procedure appropriately.\n- Take responsibility for embedding new policies/ procedures adopted due to risk mitigation.\n- Advise and influence decision making within own area of expertise.\n- Take ownership for managing risk and strengthening controls in relation to the work you own or contribute to. Deliver your work and areas of responsibility in line with relevant rules, regulation and codes of conduct.\n- Maintain and continually build an understanding of how own sub-function integrates with function, alongside knowledge of the organisations products, services and processes within the function.\n- Demonstrate understanding of how areas coordinate and contribute to the achievement of the objectives of the organisation sub-function.\n- Make evaluative judgements based on the analysis of factual information, paying attention to detail.\n- Resolve problems by identifying and selecting solutions through the application of acquired technical experience and will be guided by precedents.\n- Guide and persuade team members and communicate complex / sensitive information.\n- Act as contact point for stakeholders outside of the immediate function, while building a network of contacts outside team and external to the organisation.\nAll colleagues will be expected to demonstrate the Barclays Values of Respect, Integrity, Service, Excellence and Stewardship – our moral compass, helping us do what we believe is right. They will also be expected to demonstrate the Barclays Mindset – to Empower, Challenge and Drive – the operating manual for how we behave.\nThis role is regulated by HKMA and SFC\nGraduate Programme Overview\nIf you're a soon-to-be graduate, join us and unlock a world of carefully curated experiences, knowledge, and connections to shape your career. Along the way, you can expect all the training and support you need to make your mark on the world. Put simply, we’ll empower you to help determine how we do things and where we go next. Our graduates are a vital part of our success, and we welcome applications from people from all walks of life. Whoever you are and wherever you want to join us, if you’re curious, creative and ambitious, this is a world in which you can truly belong.\nWhy the Sales, Trading and Structuring Graduate Programme?\nBarclays makes markets in nearly all major asset classes, providing sophisticated, timely solutions to our clients. Our Sales & Trading team works in a fast-paced, dynamic and exciting environment, quickly processing information and anticipating market trends to help clients make their next move. Sound like the place for you? Join us as an analyst.\nOver your time as an analyst, you’ll develop a solid understanding of the global markets while building your communication, quantitative and analytical skills. After intensive initial training, you will start your career as a salesperson or a trader on a specific desk in one of our business areas, including: Client Capital Management, Client Strategy, Commodities, Credit, eFICC Trading, Equities, Equity Financing, Foreign Exchange, Municipals, Rates, Structuring\nAs a Sales analyst, you’ll start by supporting your colleagues before taking on your own set of clients. You may:\n- analyse and develop solutions to clients’ needs\n- monitor markets and formulate trade ideas\n- perform various analyses on fundamental and technical data\n- attend client meetings or calls with traders, salespeople and research colleagues.\nAs a Trading analyst, you may:\n- monitor markets and generate trade ideas\n- participate in pricing products\n- help out with daily tasks such as trade reporting or P&L analysis\n- assist with managing risk of the team’s trading books.\nMarkets at Barclays\nMarkets is the financial barometer of world events at Barclays. So every day is different and it’s a challenging, fascinating place to build a career. We help institutional investors to identify market opportunities, manage risk and generate returns for their portfolios. Our teams provide market insights, execution services and tailored risk management and financing solutions to our clients; we help them protect their capital and make the most of their assets. And, as one of the largest investment banks in the world, we offer a full range of products and services across every type of investment market.\nWho we're looking for\nTo be considered for this programme, you must be pursuing an undergraduate degree with anticipated completion between December 2026 - June 2027.\nIdeally, you'll have a minimum GPA of 3.2 and you will have an interest in business and finance, a good work ethic and be keen to learn and develop a technical skill set.\nBarclays is required by law to confirm that you have the Legal Right to Work in any role that you apply for. If you currently hold a work visa sponsored by Barclays, or you would require sponsorship from Barclays, you must declare this as part of your application. Sponsored visas are role and entity specific, and any changes must be reviewed. It is important that you ensure you are working on the correct visa at all times. Failure to accurately disclose your visa status or Legal Right to Work may result in your application or any employment offer being withdrawn at any time.\nIt is the policy of Barclays to ensure equal employment opportunity without discrimination or harassment on the basis of race, colour, creed, religion, national origin, alienage or citizenship status, age, sex, sexual orientation, gender identity or expression, marital or domestic/civil partnership status, disability, protected veteran status, genetic information, or any other basis protected by law.",
+    "category": null,
+    "salary_min": null,
+    "salary_max": null,
+    "currency": null,
+    "posted_at": "2026-08-22T12:17:51.803Z",
+    "active": true,
+    "first_seen_at": "2026-08-28T03:54:32.234Z",
+    "last_seen_at": "2026-09-21T12:16:23.327Z",
+    "updated_at": "2026-09-21T12:16:23.327Z"
   },
   {
     "id": "9f02c5e15ff4d1d4459bcaf486a6ae6f",
@@ -731,29 +731,11 @@
     "salary_min": null,
     "salary_max": null,
     "currency": null,
-    "posted_at": "2026-08-22T12:06:28.163Z",
+    "posted_at": "2026-08-22T12:17:33.158Z",
     "active": true,
     "first_seen_at": "2026-08-28T03:54:32.234Z",
-    "last_seen_at": "2026-09-21T12:05:06.441Z",
-    "updated_at": "2026-09-21T12:05:06.441Z"
-  },
-  {
-    "id": "63adc5d86474c74a12a2145da4fc664e",
-    "title": "Market Administrator (Trading Tech Support Analyst)",
-    "company": "TP ICAP",
-    "location": "Hong Kong, Hong Kong",
-    "source": "Workday",
-    "apply_url": "https://tp.wd107.myworkdayjobs.com/TP-ICAP/job/Hong-Kong/Market-Administrator--Trading-Tech-Support-Analyst-_R5395-1",
-    "description": "Group Overview:\nThe TP ICAP Group is a world leading provider of market infrastructure.\nOur purpose is to provide clients with access to global financial and commodities markets, improving price discovery, liquidity, and distribution of data, through responsible and innovative solutions.\nThrough our people and technology, we connect clients to superior liquidity and data solutions.\nThe Group is home to a stable of premium brands. Collectively, TP ICAP is the largest interdealer broker in the world by revenue, the number one Energy & Commodities broker in the world, the world’s leading provider of OTC data, and an award winning all-to-all trading platform.\nThe Group operates from more than 60 offices in 27 countries.  We are 5,300 people strong.  We work as one to achieve our vision of being the world’s most trusted, innovative, liquidity and data solutions specialist.\nRole Overview:\nThe Market Administrator plays a critical role in supporting the front office trading platforms and ensuring seamless trade execution and system performance. This role combines technical expertise, client service, and leadership to manage platform support, incident resolution, and stakeholder engagement. The Senior Market Administrator also mentors junior team members and contributes to strategic initiatives and platform enhancements.\nGuided by TP ICAP’s Triple-A Values—Accountability, Authenticity, and Adaptability —this position fosters a culture of ownership, transparency, and continuous improvement across the team and broader organization\nRole Responsibilities:\nPlatform & Trade Support\n- Provide first- and second-line support for trading platforms, including incident management, trade issue investigation, and resolution.\n- Monitor system logs, outputs, and support chats to proactively identify and resolve issues.\n- Ensure data accuracy and perform ongoing maintenance of platform configurations.\n- Support and test new software releases and upgrades, including out-of-hours coverage when required.\n- Client & Stakeholder Engagement\n- Act as a key liaison with internal stakeholders (brokers, traders, business managers) and external clients (banks, vendors).\n- Handle escalations and maintain strong client relationships with a service-oriented approach.\n- Assist in client onboarding, account maintenance, and credit matrix updates.\nTriple-A Values in Action\n- Accountability: Owns outcomes, delivers on commitments, and ensures operational excellence across all responsibilities.\n- Authenticity: Acts with integrity, communicates transparently, and builds trust with clients and colleagues.\n- Adaptability: Embraces change, responds effectively to evolving business needs, and drives continuous improvement.\n- Leadership & Documentation\n- Lead project initiatives and contribute to workflow and system improvements.\n- Mentor and train associate-level team members.\n- Maintain and enhance team documentation, procedures, and technical manuals.\n- Participate in cross-training and contribute to global knowledge sharing.\n- Technical & Operational Excellence\n- Support deployment and integration of trading platforms (e.g., Java Webstart, STP, API).\n- Liaise with third-party vendors (e.g., ION, Markit, Traiana, ICE, Reuters) as needed.\n- Ensure compliance with internal policies, risk controls, and regulatory requirements.\n- Log and track incidents using ServiceNow and contribute to risk assessments and reviews.\nSkills & Experience\nTechnical Competencies\n- Strong understanding of trade flows and trading systems.\n- Experience with system administration, data processing, and XML/log analysis. Familiarity with network tracing and MS Office tools.\n- High technical competency and ability to troubleshoot complex issues.\nProfessional Attributes\n- Excellent communication skills (verbal and written).\n- Strong client-facing and interpersonal skills.\n- Highly organized, detail-oriented, and proactive.\n- Demonstrated ability to lead, mentor, and work collaboratively in a team.\n- Resilient under pressure and adaptable to fast-paced environments.\nPreferred Background\n- Experience in financial services, preferably in credit, rates, FX or other trading environments.\n- Prior experience in a market support or technical operations role.\n- Knowledge of OTC markets and electronic trading platforms.\n- Profiles with deeper market knowledge can be considered for a Senior Market Administrator role.\nNot The Perfect Fit?\nConcerned that you may not meet the criteria precisely? At TP ICAP, we wholeheartedly believe in fostering inclusivity and cultivating a work environment where everyone can flourish, regardless of your personal or professional background. If you are enthusiastic about this role but find that your experience doesn't align perfectly with every aspect of the job description, we strongly encourage you to apply. You may be the ideal candidate for this position or another opportunity within our organisation. Our dedicated Talent Acquisition team is here to assist you in recognising how your unique skills and abilities can be a valuable contribution. Don't hesitate to take the leap and explore the possibilities. Your potential is what truly matters to us.\nCompany Statement\nWe know that the best innovation happens when diverse people with different perspectives and skills work together in an inclusive atmosphere. That's why we're building a culture where everyone plays a part in making people feel welcome, ready and willing to contribute. TP ICAP Accord - our Employee Network - is a central to this. As well as representing specific groups, TP ICAP Accord helps increase awareness, collaboration, shares best practice, and holds our firm to account for driving continuous cultural improvement.\nLocation\nHong Kong - 21st Floor - One Hennessy - Wan Chai",
-    "category": null,
-    "salary_min": null,
-    "salary_max": null,
-    "currency": null,
-    "posted_at": "2026-08-22T12:06:11.318Z",
-    "active": true,
-    "first_seen_at": "2026-08-29T03:53:52.727Z",
-    "last_seen_at": "2026-09-21T12:05:06.441Z",
-    "updated_at": "2026-09-21T12:05:06.441Z"
+    "last_seen_at": "2026-09-21T12:16:23.327Z",
+    "updated_at": "2026-09-21T12:16:23.327Z"
   },
   {
     "id": "92faa7d3f7d79c24240d12870f07de32",
@@ -767,11 +749,11 @@
     "salary_min": null,
     "salary_max": null,
     "currency": null,
-    "posted_at": "2026-08-22T12:06:07.598Z",
+    "posted_at": "2026-08-22T12:17:11.992Z",
     "active": true,
     "first_seen_at": "2026-09-01T00:53:29.565Z",
-    "last_seen_at": "2026-09-21T12:05:06.441Z",
-    "updated_at": "2026-09-21T12:05:06.441Z"
+    "last_seen_at": "2026-09-21T12:16:23.327Z",
+    "updated_at": "2026-09-21T12:16:23.327Z"
   },
   {
     "id": "1e1ced1381f5c2ca08ed087ef20de287",
@@ -785,11 +767,11 @@
     "salary_min": null,
     "salary_max": null,
     "currency": null,
-    "posted_at": "2026-08-22T12:06:06.530Z",
+    "posted_at": "2026-08-22T12:17:11.165Z",
     "active": true,
     "first_seen_at": "2026-08-29T09:05:24.640Z",
-    "last_seen_at": "2026-09-21T12:05:06.441Z",
-    "updated_at": "2026-09-21T12:05:06.441Z"
+    "last_seen_at": "2026-09-21T12:16:23.327Z",
+    "updated_at": "2026-09-21T12:16:23.327Z"
   },
   {
     "id": "3bb2589a4af763a905e8bea7fc1fb1c3",
@@ -803,11 +785,11 @@
     "salary_min": null,
     "salary_max": null,
     "currency": null,
-    "posted_at": "2026-08-22T12:06:04.229Z",
+    "posted_at": "2026-08-22T12:17:09.213Z",
     "active": true,
     "first_seen_at": "2026-08-28T03:54:32.234Z",
-    "last_seen_at": "2026-09-21T12:05:06.441Z",
-    "updated_at": "2026-09-21T12:05:06.441Z"
+    "last_seen_at": "2026-09-21T12:16:23.327Z",
+    "updated_at": "2026-09-21T12:16:23.327Z"
   },
   {
     "id": "791e55d72f8c6d77d73f7dd3b122472a",
@@ -821,11 +803,11 @@
     "salary_min": null,
     "salary_max": null,
     "currency": null,
-    "posted_at": "2026-08-22T12:06:03.542Z",
+    "posted_at": "2026-08-22T12:17:08.790Z",
     "active": true,
     "first_seen_at": "2026-08-28T03:54:32.234Z",
-    "last_seen_at": "2026-09-21T12:05:06.441Z",
-    "updated_at": "2026-09-21T12:05:06.441Z"
+    "last_seen_at": "2026-09-21T12:16:23.327Z",
+    "updated_at": "2026-09-21T12:16:23.327Z"
   },
   {
     "id": "faf8a0a81095bb1556f7cd23e37637f3",
@@ -839,11 +821,29 @@
     "salary_min": null,
     "salary_max": null,
     "currency": null,
-    "posted_at": "2026-08-22T12:05:54.789Z",
+    "posted_at": "2026-08-22T12:17:03.513Z",
     "active": true,
     "first_seen_at": "2026-08-29T09:05:24.640Z",
-    "last_seen_at": "2026-09-21T12:05:06.441Z",
-    "updated_at": "2026-09-21T12:05:06.441Z"
+    "last_seen_at": "2026-09-21T12:16:23.327Z",
+    "updated_at": "2026-09-21T12:16:23.327Z"
+  },
+  {
+    "id": "63adc5d86474c74a12a2145da4fc664e",
+    "title": "Market Administrator (Trading Tech Support Analyst)",
+    "company": "TP ICAP",
+    "location": "Hong Kong, Hong Kong",
+    "source": "Workday",
+    "apply_url": "https://tp.wd107.myworkdayjobs.com/TP-ICAP/job/Hong-Kong/Market-Administrator--Trading-Tech-Support-Analyst-_R5395-1",
+    "description": "Group Overview:\nThe TP ICAP Group is a world leading provider of market infrastructure.\nOur purpose is to provide clients with access to global financial and commodities markets, improving price discovery, liquidity, and distribution of data, through responsible and innovative solutions.\nThrough our people and technology, we connect clients to superior liquidity and data solutions.\nThe Group is home to a stable of premium brands. Collectively, TP ICAP is the largest interdealer broker in the world by revenue, the number one Energy & Commodities broker in the world, the world’s leading provider of OTC data, and an award winning all-to-all trading platform.\nThe Group operates from more than 60 offices in 27 countries.  We are 5,300 people strong.  We work as one to achieve our vision of being the world’s most trusted, innovative, liquidity and data solutions specialist.\nRole Overview:\nThe Market Administrator plays a critical role in supporting the front office trading platforms and ensuring seamless trade execution and system performance. This role combines technical expertise, client service, and leadership to manage platform support, incident resolution, and stakeholder engagement. The Senior Market Administrator also mentors junior team members and contributes to strategic initiatives and platform enhancements.\nGuided by TP ICAP’s Triple-A Values—Accountability, Authenticity, and Adaptability —this position fosters a culture of ownership, transparency, and continuous improvement across the team and broader organization\nRole Responsibilities:\nPlatform & Trade Support\n- Provide first- and second-line support for trading platforms, including incident management, trade issue investigation, and resolution.\n- Monitor system logs, outputs, and support chats to proactively identify and resolve issues.\n- Ensure data accuracy and perform ongoing maintenance of platform configurations.\n- Support and test new software releases and upgrades, including out-of-hours coverage when required.\n- Client & Stakeholder Engagement\n- Act as a key liaison with internal stakeholders (brokers, traders, business managers) and external clients (banks, vendors).\n- Handle escalations and maintain strong client relationships with a service-oriented approach.\n- Assist in client onboarding, account maintenance, and credit matrix updates.\nTriple-A Values in Action\n- Accountability: Owns outcomes, delivers on commitments, and ensures operational excellence across all responsibilities.\n- Authenticity: Acts with integrity, communicates transparently, and builds trust with clients and colleagues.\n- Adaptability: Embraces change, responds effectively to evolving business needs, and drives continuous improvement.\n- Leadership & Documentation\n- Lead project initiatives and contribute to workflow and system improvements.\n- Mentor and train associate-level team members.\n- Maintain and enhance team documentation, procedures, and technical manuals.\n- Participate in cross-training and contribute to global knowledge sharing.\n- Technical & Operational Excellence\n- Support deployment and integration of trading platforms (e.g., Java Webstart, STP, API).\n- Liaise with third-party vendors (e.g., ION, Markit, Traiana, ICE, Reuters) as needed.\n- Ensure compliance with internal policies, risk controls, and regulatory requirements.\n- Log and track incidents using ServiceNow and contribute to risk assessments and reviews.\nSkills & Experience\nTechnical Competencies\n- Strong understanding of trade flows and trading systems.\n- Experience with system administration, data processing, and XML/log analysis. Familiarity with network tracing and MS Office tools.\n- High technical competency and ability to troubleshoot complex issues.\nProfessional Attributes\n- Excellent communication skills (verbal and written).\n- Strong client-facing and interpersonal skills.\n- Highly organized, detail-oriented, and proactive.\n- Demonstrated ability to lead, mentor, and work collaboratively in a team.\n- Resilient under pressure and adaptable to fast-paced environments.\nPreferred Background\n- Experience in financial services, preferably in credit, rates, FX or other trading environments.\n- Prior experience in a market support or technical operations role.\n- Knowledge of OTC markets and electronic trading platforms.\n- Profiles with deeper market knowledge can be considered for a Senior Market Administrator role.\nNot The Perfect Fit?\nConcerned that you may not meet the criteria precisely? At TP ICAP, we wholeheartedly believe in fostering inclusivity and cultivating a work environment where everyone can flourish, regardless of your personal or professional background. If you are enthusiastic about this role but find that your experience doesn't align perfectly with every aspect of the job description, we strongly encourage you to apply. You may be the ideal candidate for this position or another opportunity within our organisation. Our dedicated Talent Acquisition team is here to assist you in recognising how your unique skills and abilities can be a valuable contribution. Don't hesitate to take the leap and explore the possibilities. Your potential is what truly matters to us.\nCompany Statement\nWe know that the best innovation happens when diverse people with different perspectives and skills work together in an inclusive atmosphere. That's why we're building a culture where everyone plays a part in making people feel welcome, ready and willing to contribute. TP ICAP Accord - our Employee Network - is a central to this. As well as representing specific groups, TP ICAP Accord helps increase awareness, collaboration, shares best practice, and holds our firm to account for driving continuous cultural improvement.\nLocation\nHong Kong - 21st Floor - One Hennessy - Wan Chai",
+    "category": null,
+    "salary_min": null,
+    "salary_max": null,
+    "currency": null,
+    "posted_at": "2026-08-22T12:16:59.842Z",
+    "active": true,
+    "first_seen_at": "2026-08-29T03:53:52.727Z",
+    "last_seen_at": "2026-09-21T12:16:23.327Z",
+    "updated_at": "2026-09-21T12:16:23.327Z"
   },
   {
     "id": "1f295ebb1286a546d644ac8d553e1130",
@@ -896,8 +896,8 @@
     "posted_at": "2026-08-21T05:22:43.944Z",
     "active": true,
     "first_seen_at": "2026-08-28T04:06:00.354Z",
-    "last_seen_at": "2026-09-21T12:05:06.441Z",
-    "updated_at": "2026-09-21T12:05:06.441Z"
+    "last_seen_at": "2026-09-21T12:16:23.327Z",
+    "updated_at": "2026-09-21T12:16:23.327Z"
   },
   {
     "id": "c78162c9449cbd7aa1b837cd880d9e40",
@@ -967,8 +967,8 @@
     "currency": null,
     "active": true,
     "first_seen_at": "2026-08-26T11:16:32.348Z",
-    "last_seen_at": "2026-09-21T12:05:06.441Z",
-    "updated_at": "2026-09-21T12:05:06.441Z",
+    "last_seen_at": "2026-09-21T12:16:23.327Z",
+    "updated_at": "2026-09-21T12:16:23.327Z",
     "posted_at": "2026-08-13T20:03:26-04:00"
   },
   {
@@ -986,8 +986,8 @@
     "posted_at": "2026-08-13T02:43:24-04:00",
     "active": true,
     "first_seen_at": "2026-09-03T09:18:36.758Z",
-    "last_seen_at": "2026-09-21T12:05:06.441Z",
-    "updated_at": "2026-09-21T12:05:06.441Z"
+    "last_seen_at": "2026-09-21T12:16:23.327Z",
+    "updated_at": "2026-09-21T12:16:23.327Z"
   },
   {
     "id": "f9a569c1e7b61bf9b58b4d8b2fbe40e1",
@@ -1130,8 +1130,8 @@
     "posted_at": "2026-07-23T08:18:09.681Z",
     "active": true,
     "first_seen_at": "2026-08-29T09:05:24.640Z",
-    "last_seen_at": "2026-09-21T12:05:06.441Z",
-    "updated_at": "2026-09-21T12:05:06.441Z"
+    "last_seen_at": "2026-09-21T12:16:23.327Z",
+    "updated_at": "2026-09-21T12:16:23.327Z"
   },
   {
     "id": "eclipse-trading-junior-trading-analyst-volatility-trading-hong-kong-20260719",
