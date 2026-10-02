@@ -32,8 +32,8 @@
     "posted_at": "2026-09-30T09:57:55.870Z",
     "active": true,
     "first_seen_at": "2026-10-01T00:54:36.301Z",
-    "last_seen_at": "2026-10-01T00:54:36.301Z",
-    "updated_at": "2026-10-01T00:54:36.301Z"
+    "last_seen_at": "2026-10-02T01:11:25.920Z",
+    "updated_at": "2026-10-02T01:11:25.920Z"
   },
   {
     "id": "180221459a8466ecd2dd8f88eda44ac8",
@@ -47,11 +47,11 @@
     "salary_min": null,
     "salary_max": null,
     "currency": null,
-    "posted_at": "2026-09-30T00:55:34.268Z",
+    "posted_at": "2026-09-30T01:12:23.338Z",
     "active": true,
     "first_seen_at": "2026-09-30T00:51:40.848Z",
-    "last_seen_at": "2026-10-01T00:54:36.301Z",
-    "updated_at": "2026-10-01T00:54:36.301Z"
+    "last_seen_at": "2026-10-02T01:11:25.920Z",
+    "updated_at": "2026-10-02T01:11:25.920Z"
   },
   {
     "id": "b6b3f62ba9ea904832b1e4e4c0f14e54",
@@ -101,11 +101,11 @@
     "salary_min": null,
     "salary_max": null,
     "currency": null,
-    "posted_at": "2026-09-25T00:54:55.748Z",
+    "posted_at": "2026-09-25T01:11:56.164Z",
     "active": true,
     "first_seen_at": "2026-09-25T00:07:39.330Z",
-    "last_seen_at": "2026-10-01T00:54:36.301Z",
-    "updated_at": "2026-10-01T00:54:36.301Z"
+    "last_seen_at": "2026-10-02T01:11:25.920Z",
+    "updated_at": "2026-10-02T01:11:25.920Z"
   },
   {
     "id": "29cf6e97d419bbf422c26788d8f11a3c",
@@ -121,9 +121,9 @@
     "currency": null,
     "posted_at": "2026-09-24T00:16:05-04:00",
     "active": true,
-    "first_seen_at": "2026-10-01T00:54:36.301Z",
-    "last_seen_at": "2026-10-01T00:54:36.301Z",
-    "updated_at": "2026-10-01T00:54:36.301Z"
+    "first_seen_at": "2026-10-02T01:11:25.920Z",
+    "last_seen_at": "2026-10-02T01:11:25.920Z",
+    "updated_at": "2026-10-02T01:11:25.920Z"
   },
   {
     "id": "ff5d3b25f30bf1b4f77b01d5224f23e9",
@@ -140,8 +140,8 @@
     "posted_at": "2026-09-18T04:44:28-04:00",
     "active": true,
     "first_seen_at": "2026-09-21T12:05:06.441Z",
-    "last_seen_at": "2026-10-01T00:54:36.301Z",
-    "updated_at": "2026-10-01T00:54:36.301Z"
+    "last_seen_at": "2026-10-02T01:11:25.920Z",
+    "updated_at": "2026-10-02T01:11:25.920Z"
   },
   {
     "id": "6a532d05ee701af901958b708ece94fc",
@@ -212,8 +212,8 @@
     "posted_at": "2026-09-15T23:48:30.862Z",
     "active": true,
     "first_seen_at": "2026-09-15T23:48:51.314Z",
-    "last_seen_at": "2026-10-01T00:54:36.301Z",
-    "updated_at": "2026-10-01T00:54:36.301Z"
+    "last_seen_at": "2026-10-02T01:11:25.920Z",
+    "updated_at": "2026-10-02T01:11:25.920Z"
   },
   {
     "id": "33f297ebd8be7113e0dd3a09e0b57fe6",
@@ -356,8 +356,8 @@
     "posted_at": "2026-09-10T03:33:27-04:00",
     "active": true,
     "first_seen_at": "2026-09-10T23:32:33.961Z",
-    "last_seen_at": "2026-10-01T00:54:36.301Z",
-    "updated_at": "2026-10-01T00:54:36.301Z"
+    "last_seen_at": "2026-10-02T01:11:25.920Z",
+    "updated_at": "2026-10-02T01:11:25.920Z"
   },
   {
     "id": "d44af1c4ddb8d78c944984aea8d41414",
@@ -410,8 +410,8 @@
     "posted_at": "2026-09-09T06:45:09-04:00",
     "active": true,
     "first_seen_at": "2026-09-09T23:39:06.128Z",
-    "last_seen_at": "2026-10-01T00:54:36.301Z",
-    "updated_at": "2026-10-01T00:54:36.301Z"
+    "last_seen_at": "2026-10-02T01:11:25.920Z",
+    "updated_at": "2026-10-02T01:11:25.920Z"
   },
   {
     "id": "619514423bbd5efa843fc1d389f9974c",
@@ -428,8 +428,8 @@
     "posted_at": "2026-09-09T06:44:12-04:00",
     "active": true,
     "first_seen_at": "2026-09-09T23:39:06.128Z",
-    "last_seen_at": "2026-10-01T00:54:36.301Z",
-    "updated_at": "2026-10-01T00:54:36.301Z"
+    "last_seen_at": "2026-10-02T01:11:25.920Z",
+    "updated_at": "2026-10-02T01:11:25.920Z"
   },
   {
     "id": "700c5f7149b62fd66568a6246282b958",
@@ -612,6 +612,96 @@
     "updated_at": "2026-09-02T04:28:29.483Z"
   },
   {
+    "id": "4c2cc98df9d221a3d05b0976059ac2e7",
+    "title": "Officer, Investment Operations",
+    "company": "Citi",
+    "location": "Kowloon  Hong Kong, Kowloon  Hong Kong",
+    "source": "Workday",
+    "apply_url": "https://citi.wd5.myworkdayjobs.com/2/job/Kowloon--Hong-Kong/Officer--Investment-Operations_25904994",
+    "description": "At Citi , we get to connect millions of people across hundreds of cities and countries every day.  And we've been doing it for more than 200 years.  We do this through our unparalleled global network.  We provide a broad range of financial services and products to our clients – whether they be consumers, corporations, governments or institutions – to help them meet their biggest opportunities and face the world's toughest challenges.\nShape your Career with Citi\nCiti's Wealth brings together the full power of Citi to serve the entire continuum of wealth clients, from affluent to ultra-high net worth to family offices.  The strategies we create help our clients maintain liquidity while maximizing yields, transact in foreign currency and across borders, and manage fluctuating expenses or cash flow.  We are uniquely suited to helping our clients meet their banking needs across regions through our global network.\nWe’re currently looking for a high caliber professional to join our team as Officer, Investment Operations (Internal Job Title: Ops Sup Analyst 1 - C09) based in Hong Kong.  Being part of our team means that we’ll provide you with the resources to meet your unique needs, empower you to make healthy decision and manage your financial well-being to help plan for your future.  For instance:\n- Citi provides programs and services for your physical and mental well-being including access to telehealth options, health advocates, confidential counseling and more. Coverage varies by country.\n- We believe all parents deserve time to adjust to parenthood and bond with the newest members of their families. That’s why in early 2020 we began rolling out our expanded Paid Parental Leave Policy to include Citi employees around the world.\n- We empower our employees to manage their financial well-being and help them plan for the future.\n- Citi provides access to an array of learning and development resources to help broaden and deepen your skills and knowledge as your career progresses.\n- We have a variety of programs that help employees balance their work and life, including generous paid time off packages.\n- We offer our employees resources and tools to volunteer in the communities in which they live and work. In 2019, Citi employee volunteers contributed more than 1 million volunteer hours around the world.\nIn this role, you’re expected to:\n- Maintain New product setup, static data maintenance for Wealth Asia North Investment / Insurance business\n- Contribute to daily operations on Investment / Insurance processing, initial & recurring settlement instructions, corporate actions, IPO for stock / bonds, holdings asset movements, premium billing, premium manual debits, refunds, payment to Counterparties.\n- Accounts balance & holdings reconciliations, accruals, booking revenues, management reporting.\n- Work closely with internal stakeholders including product, sales, operations & technology, risk & control and external stakeholders for the wealth products.\n- Apply appropriate controls and seek delegation approvals for financial entries and movements.\n- Contribute and maintain project plans and act as the project manager for all follow ups across various departments and Work on multiple projects for system enhancement\n- Provide support to ad hoc projects under Investment & Insurance operations\n- Fulfilling the clients’ necessities while providing an exceptional client experience is the expected behavior from all our employees and it will be measured by specific metrics\n- Appropriately assess risk when business decisions are made, demonstrating consideration for the firm's reputation and safeguarding Citigroup, its clients and assets, by driving compliance with applicable laws, rules and regulations, adhering to Policy, applying sound ethical judgment regarding personal behavior, conduct and business practices, and escalating, managing and reporting control issues with transparency.\nAs a successful candidate, you’d ideally have the following skills and exposure:\n- Previous relevant experience preferred\n- Proficient in Microsoft Office\n- General knowledge of client’s needs & reporting across the industry and our competitors\n- Working knowledge of SQL environments and database queries\n- Proven organization and time management skills\n- Demonstrated problem-solving and decision-making skills\n- Consistently demonstrates clear and concise written and verbal communication skills\n- Bachelor’s degree/University degree or equivalent experience\nWorking at Citi is far more than just a job. A career with us means joining a family of more than 230,000 dedicated people from around the globe. At Citi, you’ll have the opportunity to grow your career, give back to your community and make a real impact.\nTake the next step in your career, apply for this role at Citi today\nhttps://jobs.citi.com/dei\n------------------------------------------------------\nJob Family Group:\nOperations - Core ------------------------------------------------------\nJob Family:\nOperations Support ------------------------------------------------------\nTime Type:\nFull time ------------------------------------------------------\nMost Relevant Skills\nPlease see the requirements listed above. ------------------------------------------------------\nOther Relevant Skills\nFor complementary skills, please see above and/or contact the recruiter. ------------------------------------------------------\nCiti is an equal opportunity employer, and qualified candidates will receive consideration without regard to their race, color, religion, sex, sexual orientation, gender identity, national origin, disability, status as a protected veteran, or any other characteristic protected by law.\nIf you are a person with a disability and need a reasonable accommodation to use our search tools and/or apply for a career opportunity review Accessibility at Citi .\nView Citi’s EEO Policy Statement and the Know Your Rights poster.",
+    "category": null,
+    "salary_min": null,
+    "salary_max": null,
+    "currency": null,
+    "posted_at": "2026-09-02T01:13:13.272Z",
+    "active": true,
+    "first_seen_at": "2026-08-29T09:05:24.640Z",
+    "last_seen_at": "2026-10-02T01:11:25.920Z",
+    "updated_at": "2026-10-02T01:11:25.920Z"
+  },
+  {
+    "id": "485ba0589f980485de384cba6dc9f586",
+    "title": "Officer, Equities Delta One Middle Office Analyst",
+    "company": "Citi",
+    "location": "Kowloon  Hong Kong, Kowloon  Hong Kong",
+    "source": "Workday",
+    "apply_url": "https://citi.wd5.myworkdayjobs.com/2/job/Kowloon--Hong-Kong/Officer--Equities-Delta-One-Middle-Office-Analyst_26970456",
+    "description": "Join Citi's Prime Finance division as an Equities Delta One Middle Office Analyst, where you will sit at the centre of a specialist team supporting the Delta One and Synthetic Prime Brokerage Trading and Sales desks. This role delivers end-to-end operational service for clients trading equity derivatives including Portfolio Swaps and Participatory Notes, giving you direct exposure to the full trade lifecycle across one of the most active and growing segments of our business in Asia. You will build deep product knowledge, develop meaningful client relationships, and contribute to the continued expansion of Citi's Prime Brokerage platform.\nResponsibilities\n- Act as the dedicated operational contact for a portfolio of Prime Brokerage clients, delivering high-quality service and managing the onboarding of new clients to Citi's platform.\n- Manage the end-to-end trade lifecycle for Equity Swaps and Participatory Notes, covering execution, allocation, settlements, and query resolution including fails management.\n- Identify and resolve securities and derivative settlement issues, escalating complex cases to the appropriate teams and collaborating on timely solutions.\n- Monitor transaction processing to detect errors early, assess risk exposure, and recommend process improvements to minimise operational risk to the firm.\n- Design and analyse moderately complex operational reports to meet management requirements and support control activities across the team.\n- Partner directly with Front Office Sales and Trading teams to provide trade support and contribute to growing Citi's client base across the Asia region.\n- Ensure all processes and activities adhere to audit standards, control frameworks, and applicable regulatory requirements.\nRequired Qualifications & Skills\n- Between one and three years of experience in a Middle Office, Prime Brokerage Operations, or Trade Support function.\n- Demonstrated understanding of trade lifecycle processes including trade capture, settlements, reconciliations, and query management.\n- Ability to manage multiple concurrent priorities accurately in a fast-paced, high-volume environment with strong attention to risk and control.\n- Clear and confident communication skills, with the ability to engage directly with clients and manage key relationships independently.\n- Bachelor's degree in Finance, Business, or a related field, or equivalent industry experience.\nBeneficial Skills & Qualifications\n- Knowledge of Cash Equity and Equity Swaps, or related equity derivative products, is highly valued.\n- Familiarity with Corporate Actions processing and its impact on the trade lifecycle is a meaningful advantage.\n- Experience working within a Prime Brokerage or Delta One environment and an understanding of Synthetic Prime Brokerage structures.\n- Competency with macro-enabled tools or reporting automation to support operational efficiency.\nWhat We Offer\nThis is a high-impact junior role within a specialist team at Citi, offering hands-on exposure to complex equity derivative products and the chance to build expertise across the full trade lifecycle. You will work closely with senior professionals across Middle Office, Front Office, and client teams, gaining the breadth of experience needed to build a strong and lasting career in financial markets operations.\n- Structured exposure to the full front-to-back lifecycle of equity derivative products, equipping you with deep and marketable product knowledge from day one.\n- Direct involvement in client relationship management, giving you early career experience in managing and developing Prime Brokerage partnerships.\n- Opportunity to contribute to the regional growth of Citi's Delta One and Synthetic Prime Brokerage business across Asia, with visibility into strategic business development.\n- A performance-driven team environment where your contributions directly support Front Office Sales and Trading outcomes.\n- Access to learning and development resources within one of the world's leading financial institutions, supporting your professional growth and long-term career progression.\nApply now to bring your operational expertise to Citi's Prime Finance division and take the next step in building your career at the forefront of equity derivatives.\n------------------------------------------------------\nJob Family Group:\nOperations - Transaction Services ------------------------------------------------------\nJob Family:\nSecurities and Derivatives Processing ------------------------------------------------------\nTime Type:\nFull time ------------------------------------------------------\nMost Relevant Skills\nPlease see the requirements listed above. ------------------------------------------------------\nOther Relevant Skills\nFor complementary skills, please see above and/or contact the recruiter. ------------------------------------------------------\nCiti is an equal opportunity employer, and qualified candidates will receive consideration without regard to their race, color, religion, sex, sexual orientation, gender identity, national origin, disability, status as a protected veteran, or any other characteristic protected by law.\nIf you are a person with a disability and need a reasonable accommodation to use our search tools and/or apply for a career opportunity review Accessibility at Citi .\nView Citi’s EEO Policy Statement and the Know Your Rights poster.",
+    "category": null,
+    "salary_min": null,
+    "salary_max": null,
+    "currency": null,
+    "posted_at": "2026-09-02T01:13:12.581Z",
+    "active": true,
+    "first_seen_at": "2026-08-29T09:05:24.640Z",
+    "last_seen_at": "2026-10-02T01:11:25.920Z",
+    "updated_at": "2026-10-02T01:11:25.920Z"
+  },
+  {
+    "id": "ebb0cebdd1befc89cc0a8183e3db3737",
+    "title": "Prime Brokerage Client Service - Analyst",
+    "company": "Citi",
+    "location": "Kowloon  Hong Kong, Kowloon  Hong Kong",
+    "source": "Workday",
+    "apply_url": "https://citi.wd5.myworkdayjobs.com/2/job/Kowloon--Hong-Kong/Prime-Brokerage-Client-Service---Analyst_26938271",
+    "description": "At Citi , we get to connect millions of people across hundreds of cities and countries every day.  And we've been doing it for more than 200 years.  We do this through our unparalleled global network.  We provide a broad range of financial services and products to our clients – whether they be consumers, corporations, governments or institutions – to help them meet their biggest opportunities and face the world's toughest challenges.\nShape your Career with Citi\nCiti’s Markets business provides world-class solutions and an unmatched global presence.  We serve corporates, institutional investors and governments from trading floors in almost 80 countries.  The strength of our underwriting, sales and trading and distribution capabilities span asset classes and currencies, providing us with an unmatched ability to meet the needs of our clients.\nWe’re currently looking for a high caliber professional to join our team as Officer, Prime Brokerage Client Service Analyst - Hybrid (Internal Job Title: Securities & Derivatives Analyst 2 – C10) based in Hong Kong.  Being part of our team means that we’ll provide you with the resources to meet your unique needs, empower you to make healthy decision and manage your financial well-being to help plan for your future.  For instance:\n- Citi provides programs and services for your physical and mental well-being including access to telehealth options, health advocates, confidential counseling and more. Coverage varies by country.\n- We believe all parents deserve time to adjust to parenthood and bond with the newest members of their families. That’s why in early 2020 we began rolling out our expanded Paid Parental Leave Policy to include Citi employees around the world.\n- We empower our employees to manage their financial well-being and help them plan for the future.\n- Citi provides access to an array of learning and development resources to help broaden and deepen your skills and knowledge as your career progresses.\n- We have a variety of programs that help employees balance their work and life, including generous paid time off packages.\n- We offer our employees resources and tools to volunteer in the communities in which they live and work. In 2019, Citi employee volunteers contributed more than 1 million volunteer hours around the world.\nIn this role, you’re expected to:\n- Main point of contact for client/administrator operational queries\n- Trade handling across equity and fixed income PB, including trade capture, trade kick-outs, broker mapping and connectivity issue resolution with clients/administrators\n- Management of client trade activity, liaising with settlements and clients to resolve any issues\n- Management of client cash activity, authorisations, reporting and query resolution\n- Driving initiatives to reduce Manual Touch Points (MTP’s) for local and global team.\n- Helping to maintain a culture and environment where processes, risks and controls are continually monitored, and potential risks\nAs a successful candidate, you’d ideally have the following skills and exposure:\n- Open for Fresh Graduated, 1-2 years relevant experiences are preferrable\n- Operational Expertise: demonstrate considerable understanding of key operational functions such as Settlements, Reconciliations, Trade Support, Treasury and Corporate Actions\n- Strong, influential communicator who is articulate and concise\n- Strong risk management and control mindset\n- Provides evaluative judgement based on analysis of factual information in complicated, unique and dynamic situations; draws on diverse range of internal and external sources.\n- Self-reliant, good problem solver, results orientated.\n- Ability to establish and build trust with professionals throughout the business.\nWorking at Citi is far more than just a job. A career with us means joining a family of more than 230,000 dedicated people from around the globe. At Citi, you’ll have the opportunity to grow your career, give back to your community and make a real impact.\nTake the next step in your career, apply for this role at Citi today\n------------------------------------------------------\nJob Family Group:\nOperations - Transaction Services ------------------------------------------------------\nJob Family:\nSecurities and Derivatives Processing ------------------------------------------------------\nTime Type:\nFull time ------------------------------------------------------\nMost Relevant Skills\nPlease see the requirements listed above. ------------------------------------------------------\nOther Relevant Skills\nFor complementary skills, please see above and/or contact the recruiter. ------------------------------------------------------\nCiti is an equal opportunity employer, and qualified candidates will receive consideration without regard to their race, color, religion, sex, sexual orientation, gender identity, national origin, disability, status as a protected veteran, or any other characteristic protected by law.\nIf you are a person with a disability and need a reasonable accommodation to use our search tools and/or apply for a career opportunity review Accessibility at Citi .\nView Citi’s EEO Policy Statement and the Know Your Rights poster.",
+    "category": null,
+    "salary_min": null,
+    "salary_max": null,
+    "currency": null,
+    "posted_at": "2026-09-02T01:13:11.280Z",
+    "active": true,
+    "first_seen_at": "2026-08-28T03:54:32.234Z",
+    "last_seen_at": "2026-10-02T01:11:25.920Z",
+    "updated_at": "2026-10-02T01:11:25.920Z"
+  },
+  {
+    "id": "d9ee9e9653f90f0d643ee68a2f15a1eb",
+    "title": "Analyst, Finance Process & Automation, Regional Finance, Asia",
+    "company": "FTI Consulting",
+    "location": "Hong Kong, Hong Kong, Hong Kong, Hong Kong",
+    "source": "Workday",
+    "apply_url": "https://fticonsulting.wd108.myworkdayjobs.com/FTIConsultingCareers/job/Hong-Kong-Hong-Kong/Senior-Accountant--Regional-Finance--Asia_JR260782",
+    "description": "Who We Are\nFTI Consulting is the leading global expert firm for organizations facing crisis and transformation. We work with many of the world’s top multinational corporations, law firms, banks and private equity firms on their most important issues to deliver impact that makes a difference. From resolving disputes, navigating crises, managing risk and optimizing performance, our teams respond rapidly to dynamic and complex situations.\nAt FTI Consulting, you’ll work side-by side with leaders who have shaped history, helping solve the biggest challenges making headlines today. From day one, you’ll be an integral part of a focused team where you can make a real impact. You’ll be surrounded by an open, collaborative culture that embraces diversity, recognition, professional development and, most importantly, you.\nAre you ready to make your impact?\nAbout The Role\nWe are looking for a motivated and technology-driven Finance Analyst to join our Asia Finance team. This role is ideal for a recent graduate or early-career professional who is passionate about leveraging AI, automation, and data analytics to improve finance processes and enhance operational efficiency.\nThe successful candidate will support finance operations while identifying opportunities to simplify, standardize, and automate processes. This includes improving the efficiency and accuracy of month-end close, reducing manual effort, enhancing data quality, and streamlining reconciliations and reporting activities.\nWe are looking for someone who enjoys understanding how finance processes work today and finding better ways to make them faster, more accurate, and less dependent on manual intervention. The ideal candidate combines strong analytical thinking with technology capabilities and is excited about applying AI, automation, and data analytics to improve controls, simplify workflows, and create capacity for higher-value finance activities. Experience gained through academic projects, internships, personal initiatives, or work experience involving AI, automation, process improvement, or data analytics will be highly valued.\nWhat You’ll Do\n- Support month-end close activities, financial reporting and finance operations across Asia region.\n- Identify opportunities to simplify, standardize, and improve finance processes to enhance efficiency, accuracy, and scalability.\n- Leverage AI, automation, digital tools, and data analytics to reduce manual effort, repetitive reviews, and spreadsheet-driven activities.\n- Analyze and reconcile data from multiple sources, ensuring completeness, consistency, and reliability of financial information.\n- Develop reports, dashboards, and practical solutions that improve visibility, controls, and decision-making.\n- Support audit, tax, compliance, and reporting requirements through better data management, automation, and process optimization.\n- Participate in finance transformation and continuous improvement initiatives across the region.\n​ What You Will Need to Succeed\nBasic Qualifications\n- Eligible to work in Hong Kong\nPreferred Qualifications\n- Degree in Accounting, Finance, Data Analytics, Computer Science, Information Systems, or a related discipline.\n- Fresh graduates and early-career professionals are encouraged to apply.\n- Strong interest in AI, automation, technology, and process improvement.\n- Familiarity with Excel, Power BI, Power Query, Python, SQL, Power Automate, Copilot, VBA, or similar tools would be advantageous.\n- Strong analytical and problem-solving skills with the ability to work with large datasets.\n- Curious mindset with a passion for finding smarter and more efficient ways of working.\n- Good communication and stakeholder management skills.\n- Self-motivated, proactive, and eager to learn new technologies.\n#LI-MN1\nFTI Consulting is an equal opportunity employer and does not discriminate on the basis of race, color, national origin, ancestry, citizenship status, protected veteran status, religion, physical or mental disability, marital status, sex, sexual orientation, gender identity or expression, age, or any other basis protected by law, ordinance, or regulation.",
+    "category": null,
+    "salary_min": null,
+    "salary_max": null,
+    "currency": null,
+    "posted_at": "2026-09-02T01:11:58.568Z",
+    "active": true,
+    "first_seen_at": "2026-08-29T03:53:52.727Z",
+    "last_seen_at": "2026-10-02T01:11:25.920Z",
+    "updated_at": "2026-10-02T01:11:25.920Z"
+  },
+  {
+    "id": "63adc5d86474c74a12a2145da4fc664e",
+    "title": "Market Administrator (Trading Tech Support Analyst)",
+    "company": "TP ICAP",
+    "location": "Hong Kong, Hong Kong",
+    "source": "Workday",
+    "apply_url": "https://tp.wd107.myworkdayjobs.com/TP-ICAP/job/Hong-Kong/Market-Administrator--Trading-Tech-Support-Analyst-_R5395-1",
+    "description": "Group Overview:\nThe TP ICAP Group is a world leading provider of market infrastructure.\nOur purpose is to provide clients with access to global financial and commodities markets, improving price discovery, liquidity, and distribution of data, through responsible and innovative solutions.\nThrough our people and technology, we connect clients to superior liquidity and data solutions.\nThe Group is home to a stable of premium brands. Collectively, TP ICAP is the largest interdealer broker in the world by revenue, the number one Energy & Commodities broker in the world, the world’s leading provider of OTC data, and an award winning all-to-all trading platform.\nThe Group operates from more than 60 offices in 27 countries.  We are 5,300 people strong.  We work as one to achieve our vision of being the world’s most trusted, innovative, liquidity and data solutions specialist.\nRole Overview:\nThe Market Administrator plays a critical role in supporting the front office trading platforms and ensuring seamless trade execution and system performance. This role combines technical expertise, client service, and leadership to manage platform support, incident resolution, and stakeholder engagement. The Senior Market Administrator also mentors junior team members and contributes to strategic initiatives and platform enhancements.\nGuided by TP ICAP’s Triple-A Values—Accountability, Authenticity, and Adaptability —this position fosters a culture of ownership, transparency, and continuous improvement across the team and broader organization\nRole Responsibilities:\nPlatform & Trade Support\n- Provide first- and second-line support for trading platforms, including incident management, trade issue investigation, and resolution.\n- Monitor system logs, outputs, and support chats to proactively identify and resolve issues.\n- Ensure data accuracy and perform ongoing maintenance of platform configurations.\n- Support and test new software releases and upgrades, including out-of-hours coverage when required.\n- Client & Stakeholder Engagement\n- Act as a key liaison with internal stakeholders (brokers, traders, business managers) and external clients (banks, vendors).\n- Handle escalations and maintain strong client relationships with a service-oriented approach.\n- Assist in client onboarding, account maintenance, and credit matrix updates.\nTriple-A Values in Action\n- Accountability: Owns outcomes, delivers on commitments, and ensures operational excellence across all responsibilities.\n- Authenticity: Acts with integrity, communicates transparently, and builds trust with clients and colleagues.\n- Adaptability: Embraces change, responds effectively to evolving business needs, and drives continuous improvement.\n- Leadership & Documentation\n- Lead project initiatives and contribute to workflow and system improvements.\n- Mentor and train associate-level team members.\n- Maintain and enhance team documentation, procedures, and technical manuals.\n- Participate in cross-training and contribute to global knowledge sharing.\n- Technical & Operational Excellence\n- Support deployment and integration of trading platforms (e.g., Java Webstart, STP, API).\n- Liaise with third-party vendors (e.g., ION, Markit, Traiana, ICE, Reuters) as needed.\n- Ensure compliance with internal policies, risk controls, and regulatory requirements.\n- Log and track incidents using ServiceNow and contribute to risk assessments and reviews.\nSkills & Experience\nTechnical Competencies\n- Strong understanding of trade flows and trading systems.\n- Experience with system administration, data processing, and XML/log analysis. Familiarity with network tracing and MS Office tools.\n- High technical competency and ability to troubleshoot complex issues.\nProfessional Attributes\n- Excellent communication skills (verbal and written).\n- Strong client-facing and interpersonal skills.\n- Highly organized, detail-oriented, and proactive.\n- Demonstrated ability to lead, mentor, and work collaboratively in a team.\n- Resilient under pressure and adaptable to fast-paced environments.\nPreferred Background\n- Experience in financial services, preferably in credit, rates, FX or other trading environments.\n- Prior experience in a market support or technical operations role.\n- Knowledge of OTC markets and electronic trading platforms.\n- Profiles with deeper market knowledge can be considered for a Senior Market Administrator role.\nNot The Perfect Fit?\nConcerned that you may not meet the criteria precisely? At TP ICAP, we wholeheartedly believe in fostering inclusivity and cultivating a work environment where everyone can flourish, regardless of your personal or professional background. If you are enthusiastic about this role but find that your experience doesn't align perfectly with every aspect of the job description, we strongly encourage you to apply. You may be the ideal candidate for this position or another opportunity within our organisation. Our dedicated Talent Acquisition team is here to assist you in recognising how your unique skills and abilities can be a valuable contribution. Don't hesitate to take the leap and explore the possibilities. Your potential is what truly matters to us.\nCompany Statement\nWe know that the best innovation happens when diverse people with different perspectives and skills work together in an inclusive atmosphere. That's why we're building a culture where everyone plays a part in making people feel welcome, ready and willing to contribute. TP ICAP Accord - our Employee Network - is a central to this. As well as representing specific groups, TP ICAP Accord helps increase awareness, collaboration, shares best practice, and holds our firm to account for driving continuous cultural improvement.\nLocation\nHong Kong - 21st Floor - One Hennessy - Wan Chai",
+    "category": null,
+    "salary_min": null,
+    "salary_max": null,
+    "currency": null,
+    "posted_at": "2026-09-02T01:11:50.892Z",
+    "active": true,
+    "first_seen_at": "2026-08-29T03:53:52.727Z",
+    "last_seen_at": "2026-10-02T01:11:25.920Z",
+    "updated_at": "2026-10-02T01:11:25.920Z"
+  },
+  {
     "id": "7320f860f955e5ad64f8182254a7f434",
     "title": "Sales Development Representative, SME & Growth, HK",
     "company": "Airwallex",
@@ -626,62 +716,8 @@
     "posted_at": "2026-09-01T04:41:30.489+00:00",
     "active": true,
     "first_seen_at": "2026-09-01T23:39:53.995Z",
-    "last_seen_at": "2026-10-01T00:54:36.301Z",
-    "updated_at": "2026-10-01T00:54:36.301Z"
-  },
-  {
-    "id": "4c2cc98df9d221a3d05b0976059ac2e7",
-    "title": "Officer, Investment Operations",
-    "company": "Citi",
-    "location": "Kowloon  Hong Kong, Kowloon  Hong Kong",
-    "source": "Workday",
-    "apply_url": "https://citi.wd5.myworkdayjobs.com/2/job/Kowloon--Hong-Kong/Officer--Investment-Operations_25904994",
-    "description": "At Citi , we get to connect millions of people across hundreds of cities and countries every day.  And we've been doing it for more than 200 years.  We do this through our unparalleled global network.  We provide a broad range of financial services and products to our clients – whether they be consumers, corporations, governments or institutions – to help them meet their biggest opportunities and face the world's toughest challenges.\nShape your Career with Citi\nCiti's Wealth brings together the full power of Citi to serve the entire continuum of wealth clients, from affluent to ultra-high net worth to family offices.  The strategies we create help our clients maintain liquidity while maximizing yields, transact in foreign currency and across borders, and manage fluctuating expenses or cash flow.  We are uniquely suited to helping our clients meet their banking needs across regions through our global network.\nWe’re currently looking for a high caliber professional to join our team as Officer, Investment Operations (Internal Job Title: Ops Sup Analyst 1 - C09) based in Hong Kong.  Being part of our team means that we’ll provide you with the resources to meet your unique needs, empower you to make healthy decision and manage your financial well-being to help plan for your future.  For instance:\n- Citi provides programs and services for your physical and mental well-being including access to telehealth options, health advocates, confidential counseling and more. Coverage varies by country.\n- We believe all parents deserve time to adjust to parenthood and bond with the newest members of their families. That’s why in early 2020 we began rolling out our expanded Paid Parental Leave Policy to include Citi employees around the world.\n- We empower our employees to manage their financial well-being and help them plan for the future.\n- Citi provides access to an array of learning and development resources to help broaden and deepen your skills and knowledge as your career progresses.\n- We have a variety of programs that help employees balance their work and life, including generous paid time off packages.\n- We offer our employees resources and tools to volunteer in the communities in which they live and work. In 2019, Citi employee volunteers contributed more than 1 million volunteer hours around the world.\nIn this role, you’re expected to:\n- Maintain New product setup, static data maintenance for Wealth Asia North Investment / Insurance business\n- Contribute to daily operations on Investment / Insurance processing, initial & recurring settlement instructions, corporate actions, IPO for stock / bonds, holdings asset movements, premium billing, premium manual debits, refunds, payment to Counterparties.\n- Accounts balance & holdings reconciliations, accruals, booking revenues, management reporting.\n- Work closely with internal stakeholders including product, sales, operations & technology, risk & control and external stakeholders for the wealth products.\n- Apply appropriate controls and seek delegation approvals for financial entries and movements.\n- Contribute and maintain project plans and act as the project manager for all follow ups across various departments and Work on multiple projects for system enhancement\n- Provide support to ad hoc projects under Investment & Insurance operations\n- Fulfilling the clients’ necessities while providing an exceptional client experience is the expected behavior from all our employees and it will be measured by specific metrics\n- Appropriately assess risk when business decisions are made, demonstrating consideration for the firm's reputation and safeguarding Citigroup, its clients and assets, by driving compliance with applicable laws, rules and regulations, adhering to Policy, applying sound ethical judgment regarding personal behavior, conduct and business practices, and escalating, managing and reporting control issues with transparency.\nAs a successful candidate, you’d ideally have the following skills and exposure:\n- Previous relevant experience preferred\n- Proficient in Microsoft Office\n- General knowledge of client’s needs & reporting across the industry and our competitors\n- Working knowledge of SQL environments and database queries\n- Proven organization and time management skills\n- Demonstrated problem-solving and decision-making skills\n- Consistently demonstrates clear and concise written and verbal communication skills\n- Bachelor’s degree/University degree or equivalent experience\nWorking at Citi is far more than just a job. A career with us means joining a family of more than 230,000 dedicated people from around the globe. At Citi, you’ll have the opportunity to grow your career, give back to your community and make a real impact.\nTake the next step in your career, apply for this role at Citi today\nhttps://jobs.citi.com/dei\n------------------------------------------------------\nJob Family Group:\nOperations - Core ------------------------------------------------------\nJob Family:\nOperations Support ------------------------------------------------------\nTime Type:\nFull time ------------------------------------------------------\nMost Relevant Skills\nPlease see the requirements listed above. ------------------------------------------------------\nOther Relevant Skills\nFor complementary skills, please see above and/or contact the recruiter. ------------------------------------------------------\nCiti is an equal opportunity employer, and qualified candidates will receive consideration without regard to their race, color, religion, sex, sexual orientation, gender identity, national origin, disability, status as a protected veteran, or any other characteristic protected by law.\nIf you are a person with a disability and need a reasonable accommodation to use our search tools and/or apply for a career opportunity review Accessibility at Citi .\nView Citi’s EEO Policy Statement and the Know Your Rights poster.",
-    "category": null,
-    "salary_min": null,
-    "salary_max": null,
-    "currency": null,
-    "posted_at": "2026-09-01T00:56:16.511Z",
-    "active": true,
-    "first_seen_at": "2026-08-29T09:05:24.640Z",
-    "last_seen_at": "2026-10-01T00:54:36.301Z",
-    "updated_at": "2026-10-01T00:54:36.301Z"
-  },
-  {
-    "id": "485ba0589f980485de384cba6dc9f586",
-    "title": "Officer, Equities Delta One Middle Office Analyst",
-    "company": "Citi",
-    "location": "Kowloon  Hong Kong, Kowloon  Hong Kong",
-    "source": "Workday",
-    "apply_url": "https://citi.wd5.myworkdayjobs.com/2/job/Kowloon--Hong-Kong/Officer--Equities-Delta-One-Middle-Office-Analyst_26970456",
-    "description": "Join Citi's Prime Finance division as an Equities Delta One Middle Office Analyst, where you will sit at the centre of a specialist team supporting the Delta One and Synthetic Prime Brokerage Trading and Sales desks. This role delivers end-to-end operational service for clients trading equity derivatives including Portfolio Swaps and Participatory Notes, giving you direct exposure to the full trade lifecycle across one of the most active and growing segments of our business in Asia. You will build deep product knowledge, develop meaningful client relationships, and contribute to the continued expansion of Citi's Prime Brokerage platform.\nResponsibilities\n- Act as the dedicated operational contact for a portfolio of Prime Brokerage clients, delivering high-quality service and managing the onboarding of new clients to Citi's platform.\n- Manage the end-to-end trade lifecycle for Equity Swaps and Participatory Notes, covering execution, allocation, settlements, and query resolution including fails management.\n- Identify and resolve securities and derivative settlement issues, escalating complex cases to the appropriate teams and collaborating on timely solutions.\n- Monitor transaction processing to detect errors early, assess risk exposure, and recommend process improvements to minimise operational risk to the firm.\n- Design and analyse moderately complex operational reports to meet management requirements and support control activities across the team.\n- Partner directly with Front Office Sales and Trading teams to provide trade support and contribute to growing Citi's client base across the Asia region.\n- Ensure all processes and activities adhere to audit standards, control frameworks, and applicable regulatory requirements.\nRequired Qualifications & Skills\n- Between one and three years of experience in a Middle Office, Prime Brokerage Operations, or Trade Support function.\n- Demonstrated understanding of trade lifecycle processes including trade capture, settlements, reconciliations, and query management.\n- Ability to manage multiple concurrent priorities accurately in a fast-paced, high-volume environment with strong attention to risk and control.\n- Clear and confident communication skills, with the ability to engage directly with clients and manage key relationships independently.\n- Bachelor's degree in Finance, Business, or a related field, or equivalent industry experience.\nBeneficial Skills & Qualifications\n- Knowledge of Cash Equity and Equity Swaps, or related equity derivative products, is highly valued.\n- Familiarity with Corporate Actions processing and its impact on the trade lifecycle is a meaningful advantage.\n- Experience working within a Prime Brokerage or Delta One environment and an understanding of Synthetic Prime Brokerage structures.\n- Competency with macro-enabled tools or reporting automation to support operational efficiency.\nWhat We Offer\nThis is a high-impact junior role within a specialist team at Citi, offering hands-on exposure to complex equity derivative products and the chance to build expertise across the full trade lifecycle. You will work closely with senior professionals across Middle Office, Front Office, and client teams, gaining the breadth of experience needed to build a strong and lasting career in financial markets operations.\n- Structured exposure to the full front-to-back lifecycle of equity derivative products, equipping you with deep and marketable product knowledge from day one.\n- Direct involvement in client relationship management, giving you early career experience in managing and developing Prime Brokerage partnerships.\n- Opportunity to contribute to the regional growth of Citi's Delta One and Synthetic Prime Brokerage business across Asia, with visibility into strategic business development.\n- A performance-driven team environment where your contributions directly support Front Office Sales and Trading outcomes.\n- Access to learning and development resources within one of the world's leading financial institutions, supporting your professional growth and long-term career progression.\nApply now to bring your operational expertise to Citi's Prime Finance division and take the next step in building your career at the forefront of equity derivatives.\n------------------------------------------------------\nJob Family Group:\nOperations - Transaction Services ------------------------------------------------------\nJob Family:\nSecurities and Derivatives Processing ------------------------------------------------------\nTime Type:\nFull time ------------------------------------------------------\nMost Relevant Skills\nPlease see the requirements listed above. ------------------------------------------------------\nOther Relevant Skills\nFor complementary skills, please see above and/or contact the recruiter. ------------------------------------------------------\nCiti is an equal opportunity employer, and qualified candidates will receive consideration without regard to their race, color, religion, sex, sexual orientation, gender identity, national origin, disability, status as a protected veteran, or any other characteristic protected by law.\nIf you are a person with a disability and need a reasonable accommodation to use our search tools and/or apply for a career opportunity review Accessibility at Citi .\nView Citi’s EEO Policy Statement and the Know Your Rights poster.",
-    "category": null,
-    "salary_min": null,
-    "salary_max": null,
-    "currency": null,
-    "posted_at": "2026-09-01T00:56:16.202Z",
-    "active": true,
-    "first_seen_at": "2026-08-29T09:05:24.640Z",
-    "last_seen_at": "2026-10-01T00:54:36.301Z",
-    "updated_at": "2026-10-01T00:54:36.301Z"
-  },
-  {
-    "id": "ebb0cebdd1befc89cc0a8183e3db3737",
-    "title": "Prime Brokerage Client Service - Analyst",
-    "company": "Citi",
-    "location": "Kowloon  Hong Kong, Kowloon  Hong Kong",
-    "source": "Workday",
-    "apply_url": "https://citi.wd5.myworkdayjobs.com/2/job/Kowloon--Hong-Kong/Prime-Brokerage-Client-Service---Analyst_26938271",
-    "description": "At Citi , we get to connect millions of people across hundreds of cities and countries every day.  And we've been doing it for more than 200 years.  We do this through our unparalleled global network.  We provide a broad range of financial services and products to our clients – whether they be consumers, corporations, governments or institutions – to help them meet their biggest opportunities and face the world's toughest challenges.\nShape your Career with Citi\nCiti’s Markets business provides world-class solutions and an unmatched global presence.  We serve corporates, institutional investors and governments from trading floors in almost 80 countries.  The strength of our underwriting, sales and trading and distribution capabilities span asset classes and currencies, providing us with an unmatched ability to meet the needs of our clients.\nWe’re currently looking for a high caliber professional to join our team as Officer, Prime Brokerage Client Service Analyst - Hybrid (Internal Job Title: Securities & Derivatives Analyst 2 – C10) based in Hong Kong.  Being part of our team means that we’ll provide you with the resources to meet your unique needs, empower you to make healthy decision and manage your financial well-being to help plan for your future.  For instance:\n- Citi provides programs and services for your physical and mental well-being including access to telehealth options, health advocates, confidential counseling and more. Coverage varies by country.\n- We believe all parents deserve time to adjust to parenthood and bond with the newest members of their families. That’s why in early 2020 we began rolling out our expanded Paid Parental Leave Policy to include Citi employees around the world.\n- We empower our employees to manage their financial well-being and help them plan for the future.\n- Citi provides access to an array of learning and development resources to help broaden and deepen your skills and knowledge as your career progresses.\n- We have a variety of programs that help employees balance their work and life, including generous paid time off packages.\n- We offer our employees resources and tools to volunteer in the communities in which they live and work. In 2019, Citi employee volunteers contributed more than 1 million volunteer hours around the world.\nIn this role, you’re expected to:\n- Main point of contact for client/administrator operational queries\n- Trade handling across equity and fixed income PB, including trade capture, trade kick-outs, broker mapping and connectivity issue resolution with clients/administrators\n- Management of client trade activity, liaising with settlements and clients to resolve any issues\n- Management of client cash activity, authorisations, reporting and query resolution\n- Driving initiatives to reduce Manual Touch Points (MTP’s) for local and global team.\n- Helping to maintain a culture and environment where processes, risks and controls are continually monitored, and potential risks\nAs a successful candidate, you’d ideally have the following skills and exposure:\n- Open for Fresh Graduated, 1-2 years relevant experiences are preferrable\n- Operational Expertise: demonstrate considerable understanding of key operational functions such as Settlements, Reconciliations, Trade Support, Treasury and Corporate Actions\n- Strong, influential communicator who is articulate and concise\n- Strong risk management and control mindset\n- Provides evaluative judgement based on analysis of factual information in complicated, unique and dynamic situations; draws on diverse range of internal and external sources.\n- Self-reliant, good problem solver, results orientated.\n- Ability to establish and build trust with professionals throughout the business.\nWorking at Citi is far more than just a job. A career with us means joining a family of more than 230,000 dedicated people from around the globe. At Citi, you’ll have the opportunity to grow your career, give back to your community and make a real impact.\nTake the next step in your career, apply for this role at Citi today\n------------------------------------------------------\nJob Family Group:\nOperations - Transaction Services ------------------------------------------------------\nJob Family:\nSecurities and Derivatives Processing ------------------------------------------------------\nTime Type:\nFull time ------------------------------------------------------\nMost Relevant Skills\nPlease see the requirements listed above. ------------------------------------------------------\nOther Relevant Skills\nFor complementary skills, please see above and/or contact the recruiter. ------------------------------------------------------\nCiti is an equal opportunity employer, and qualified candidates will receive consideration without regard to their race, color, religion, sex, sexual orientation, gender identity, national origin, disability, status as a protected veteran, or any other characteristic protected by law.\nIf you are a person with a disability and need a reasonable accommodation to use our search tools and/or apply for a career opportunity review Accessibility at Citi .\nView Citi’s EEO Policy Statement and the Know Your Rights poster.",
-    "category": null,
-    "salary_min": null,
-    "salary_max": null,
-    "currency": null,
-    "posted_at": "2026-09-01T00:56:15.011Z",
-    "active": true,
-    "first_seen_at": "2026-08-28T03:54:32.234Z",
-    "last_seen_at": "2026-10-01T00:54:36.301Z",
-    "updated_at": "2026-10-01T00:54:36.301Z"
+    "last_seen_at": "2026-10-02T01:11:25.920Z",
+    "updated_at": "2026-10-02T01:11:25.920Z"
   },
   {
     "id": "9f02c5e15ff4d1d4459bcaf486a6ae6f",
@@ -734,42 +770,6 @@
     "posted_at": "2026-09-01T00:55:20.505Z",
     "active": true,
     "first_seen_at": "2026-10-01T00:54:36.301Z",
-    "last_seen_at": "2026-10-01T00:54:36.301Z",
-    "updated_at": "2026-10-01T00:54:36.301Z"
-  },
-  {
-    "id": "63adc5d86474c74a12a2145da4fc664e",
-    "title": "Market Administrator (Trading Tech Support Analyst)",
-    "company": "TP ICAP",
-    "location": "Hong Kong, Hong Kong",
-    "source": "Workday",
-    "apply_url": "https://tp.wd107.myworkdayjobs.com/TP-ICAP/job/Hong-Kong/Market-Administrator--Trading-Tech-Support-Analyst-_R5395-1",
-    "description": "Group Overview:\nThe TP ICAP Group is a world leading provider of market infrastructure.\nOur purpose is to provide clients with access to global financial and commodities markets, improving price discovery, liquidity, and distribution of data, through responsible and innovative solutions.\nThrough our people and technology, we connect clients to superior liquidity and data solutions.\nThe Group is home to a stable of premium brands. Collectively, TP ICAP is the largest interdealer broker in the world by revenue, the number one Energy & Commodities broker in the world, the world’s leading provider of OTC data, and an award winning all-to-all trading platform.\nThe Group operates from more than 60 offices in 27 countries.  We are 5,300 people strong.  We work as one to achieve our vision of being the world’s most trusted, innovative, liquidity and data solutions specialist.\nRole Overview:\nThe Market Administrator plays a critical role in supporting the front office trading platforms and ensuring seamless trade execution and system performance. This role combines technical expertise, client service, and leadership to manage platform support, incident resolution, and stakeholder engagement. The Senior Market Administrator also mentors junior team members and contributes to strategic initiatives and platform enhancements.\nGuided by TP ICAP’s Triple-A Values—Accountability, Authenticity, and Adaptability —this position fosters a culture of ownership, transparency, and continuous improvement across the team and broader organization\nRole Responsibilities:\nPlatform & Trade Support\n- Provide first- and second-line support for trading platforms, including incident management, trade issue investigation, and resolution.\n- Monitor system logs, outputs, and support chats to proactively identify and resolve issues.\n- Ensure data accuracy and perform ongoing maintenance of platform configurations.\n- Support and test new software releases and upgrades, including out-of-hours coverage when required.\n- Client & Stakeholder Engagement\n- Act as a key liaison with internal stakeholders (brokers, traders, business managers) and external clients (banks, vendors).\n- Handle escalations and maintain strong client relationships with a service-oriented approach.\n- Assist in client onboarding, account maintenance, and credit matrix updates.\nTriple-A Values in Action\n- Accountability: Owns outcomes, delivers on commitments, and ensures operational excellence across all responsibilities.\n- Authenticity: Acts with integrity, communicates transparently, and builds trust with clients and colleagues.\n- Adaptability: Embraces change, responds effectively to evolving business needs, and drives continuous improvement.\n- Leadership & Documentation\n- Lead project initiatives and contribute to workflow and system improvements.\n- Mentor and train associate-level team members.\n- Maintain and enhance team documentation, procedures, and technical manuals.\n- Participate in cross-training and contribute to global knowledge sharing.\n- Technical & Operational Excellence\n- Support deployment and integration of trading platforms (e.g., Java Webstart, STP, API).\n- Liaise with third-party vendors (e.g., ION, Markit, Traiana, ICE, Reuters) as needed.\n- Ensure compliance with internal policies, risk controls, and regulatory requirements.\n- Log and track incidents using ServiceNow and contribute to risk assessments and reviews.\nSkills & Experience\nTechnical Competencies\n- Strong understanding of trade flows and trading systems.\n- Experience with system administration, data processing, and XML/log analysis. Familiarity with network tracing and MS Office tools.\n- High technical competency and ability to troubleshoot complex issues.\nProfessional Attributes\n- Excellent communication skills (verbal and written).\n- Strong client-facing and interpersonal skills.\n- Highly organized, detail-oriented, and proactive.\n- Demonstrated ability to lead, mentor, and work collaboratively in a team.\n- Resilient under pressure and adaptable to fast-paced environments.\nPreferred Background\n- Experience in financial services, preferably in credit, rates, FX or other trading environments.\n- Prior experience in a market support or technical operations role.\n- Knowledge of OTC markets and electronic trading platforms.\n- Profiles with deeper market knowledge can be considered for a Senior Market Administrator role.\nNot The Perfect Fit?\nConcerned that you may not meet the criteria precisely? At TP ICAP, we wholeheartedly believe in fostering inclusivity and cultivating a work environment where everyone can flourish, regardless of your personal or professional background. If you are enthusiastic about this role but find that your experience doesn't align perfectly with every aspect of the job description, we strongly encourage you to apply. You may be the ideal candidate for this position or another opportunity within our organisation. Our dedicated Talent Acquisition team is here to assist you in recognising how your unique skills and abilities can be a valuable contribution. Don't hesitate to take the leap and explore the possibilities. Your potential is what truly matters to us.\nCompany Statement\nWe know that the best innovation happens when diverse people with different perspectives and skills work together in an inclusive atmosphere. That's why we're building a culture where everyone plays a part in making people feel welcome, ready and willing to contribute. TP ICAP Accord - our Employee Network - is a central to this. As well as representing specific groups, TP ICAP Accord helps increase awareness, collaboration, shares best practice, and holds our firm to account for driving continuous cultural improvement.\nLocation\nHong Kong - 21st Floor - One Hennessy - Wan Chai",
-    "category": null,
-    "salary_min": null,
-    "salary_max": null,
-    "currency": null,
-    "posted_at": "2026-09-01T00:55:07.895Z",
-    "active": true,
-    "first_seen_at": "2026-08-29T03:53:52.727Z",
-    "last_seen_at": "2026-10-01T00:54:36.301Z",
-    "updated_at": "2026-10-01T00:54:36.301Z"
-  },
-  {
-    "id": "d9ee9e9653f90f0d643ee68a2f15a1eb",
-    "title": "Analyst, Finance Process & Automation, Regional Finance, Asia",
-    "company": "FTI Consulting",
-    "location": "Hong Kong, Hong Kong, Hong Kong, Hong Kong",
-    "source": "Workday",
-    "apply_url": "https://fticonsulting.wd108.myworkdayjobs.com/FTIConsultingCareers/job/Hong-Kong-Hong-Kong/Senior-Accountant--Regional-Finance--Asia_JR260782",
-    "description": "Who We Are\nFTI Consulting is the leading global expert firm for organizations facing crisis and transformation. We work with many of the world’s top multinational corporations, law firms, banks and private equity firms on their most important issues to deliver impact that makes a difference. From resolving disputes, navigating crises, managing risk and optimizing performance, our teams respond rapidly to dynamic and complex situations.\nAt FTI Consulting, you’ll work side-by side with leaders who have shaped history, helping solve the biggest challenges making headlines today. From day one, you’ll be an integral part of a focused team where you can make a real impact. You’ll be surrounded by an open, collaborative culture that embraces diversity, recognition, professional development and, most importantly, you.\nAre you ready to make your impact?\nAbout The Role\nWe are looking for a motivated and technology-driven Finance Analyst to join our Asia Finance team. This role is ideal for a recent graduate or early-career professional who is passionate about leveraging AI, automation, and data analytics to improve finance processes and enhance operational efficiency.\nThe successful candidate will support finance operations while identifying opportunities to simplify, standardize, and automate processes. This includes improving the efficiency and accuracy of month-end close, reducing manual effort, enhancing data quality, and streamlining reconciliations and reporting activities.\nWe are looking for someone who enjoys understanding how finance processes work today and finding better ways to make them faster, more accurate, and less dependent on manual intervention. The ideal candidate combines strong analytical thinking with technology capabilities and is excited about applying AI, automation, and data analytics to improve controls, simplify workflows, and create capacity for higher-value finance activities. Experience gained through academic projects, internships, personal initiatives, or work experience involving AI, automation, process improvement, or data analytics will be highly valued.\nWhat You’ll Do\n- Support month-end close activities, financial reporting and finance operations across Asia region.\n- Identify opportunities to simplify, standardize, and improve finance processes to enhance efficiency, accuracy, and scalability.\n- Leverage AI, automation, digital tools, and data analytics to reduce manual effort, repetitive reviews, and spreadsheet-driven activities.\n- Analyze and reconcile data from multiple sources, ensuring completeness, consistency, and reliability of financial information.\n- Develop reports, dashboards, and practical solutions that improve visibility, controls, and decision-making.\n- Support audit, tax, compliance, and reporting requirements through better data management, automation, and process optimization.\n- Participate in finance transformation and continuous improvement initiatives across the region.\n​ What You Will Need to Succeed\nBasic Qualifications\n- Eligible to work in Hong Kong\nPreferred Qualifications\n- Degree in Accounting, Finance, Data Analytics, Computer Science, Information Systems, or a related discipline.\n- Fresh graduates and early-career professionals are encouraged to apply.\n- Strong interest in AI, automation, technology, and process improvement.\n- Familiarity with Excel, Power BI, Power Query, Python, SQL, Power Automate, Copilot, VBA, or similar tools would be advantageous.\n- Strong analytical and problem-solving skills with the ability to work with large datasets.\n- Curious mindset with a passion for finding smarter and more efficient ways of working.\n- Good communication and stakeholder management skills.\n- Self-motivated, proactive, and eager to learn new technologies.\n#LI-MN1\nFTI Consulting is an equal opportunity employer and does not discriminate on the basis of race, color, national origin, ancestry, citizenship status, protected veteran status, religion, physical or mental disability, marital status, sex, sexual orientation, gender identity or expression, age, or any other basis protected by law, ordinance, or regulation.",
-    "category": null,
-    "salary_min": null,
-    "salary_max": null,
-    "currency": null,
-    "posted_at": "2026-09-01T00:54:58.426Z",
-    "active": true,
-    "first_seen_at": "2026-08-29T03:53:52.727Z",
     "last_seen_at": "2026-10-01T00:54:36.301Z",
     "updated_at": "2026-10-01T00:54:36.301Z"
   },
@@ -1093,8 +1093,8 @@
     "currency": null,
     "active": true,
     "first_seen_at": "2026-08-26T11:16:32.348Z",
-    "last_seen_at": "2026-10-01T00:54:36.301Z",
-    "updated_at": "2026-10-01T00:54:36.301Z",
+    "last_seen_at": "2026-10-02T01:11:25.920Z",
+    "updated_at": "2026-10-02T01:11:25.920Z",
     "posted_at": "2026-08-13T20:03:26-04:00"
   },
   {
@@ -1112,8 +1112,8 @@
     "posted_at": "2026-08-13T02:43:24-04:00",
     "active": true,
     "first_seen_at": "2026-09-03T09:18:36.758Z",
-    "last_seen_at": "2026-10-01T00:54:36.301Z",
-    "updated_at": "2026-10-01T00:54:36.301Z"
+    "last_seen_at": "2026-10-02T01:11:25.920Z",
+    "updated_at": "2026-10-02T01:11:25.920Z"
   },
   {
     "id": "f9a569c1e7b61bf9b58b4d8b2fbe40e1",
@@ -1256,8 +1256,8 @@
     "posted_at": "2026-07-23T08:18:09.681Z",
     "active": true,
     "first_seen_at": "2026-08-29T09:05:24.640Z",
-    "last_seen_at": "2026-10-01T00:54:36.301Z",
-    "updated_at": "2026-10-01T00:54:36.301Z"
+    "last_seen_at": "2026-10-02T01:11:25.920Z",
+    "updated_at": "2026-10-02T01:11:25.920Z"
   },
   {
     "id": "eclipse-trading-junior-trading-analyst-volatility-trading-hong-kong-20260719",
