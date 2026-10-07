@@ -482,7 +482,10 @@ function normalizedDedupeText(value: string | null | undefined) {
 }
 
 function jobDedupeKey(job: JobInput) {
-  return [job.company, job.title, job.location].map(normalizedDedupeText).join("|");
+  return (
+    job.apply_url.trim() ||
+    [job.company, job.title, job.location].map(normalizedDedupeText).join("|")
+  );
 }
 
 function dedupeFetchedJobs(jobs: JobInput[]) {

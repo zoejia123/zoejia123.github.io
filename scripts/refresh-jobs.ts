@@ -34,7 +34,9 @@ function dedupeJobs(jobs: Job[]) {
   const byKey = new Map<string, Job>();
 
   for (const job of jobs) {
-    const key = [job.company, job.title, job.location].map(normalizedKey).join("|");
+    const key =
+      job.apply_url.trim() ||
+      [job.company, job.title, job.location].map(normalizedKey).join("|");
     const existing = byKey.get(key);
 
     if (!existing || sortByPostedDateDesc(job, existing) < 0) {
