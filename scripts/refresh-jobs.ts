@@ -14,9 +14,10 @@ function isCleanHistoricalJob(job: Partial<Job>) {
     !/\bchief\b|\bsenior\b|\bintermediate\b|\bmanager\b|\bdirector\b|\blead\b|\bprincipal\b|\bstaff\b|\bvice president\b|\bvp\b/i.test(
       job.title ?? ""
     ) &&
-    !/\binformation technology\b|\bit service\b|\bservice management\b|\btechnology service\b|\bidentity and access\b|\buser acceptance testing\b|\bdigital\b|\bsoftware\b|\bengineer\b/i.test(
+    !/\binformation technology\b|\bit service\b|\bservice management\b|\btechnology service\b|\bidentity and access\b|\buser acceptance testing\b|\bdigital\b|\bsoftware\b|\bengineer\b|\bdata science\b|\bartificial intelligence\b|\bai application\b/i.test(
       job.title ?? ""
     ) &&
+    /hong kong|hong-kong|\bhk\b/i.test(job.location ?? "") &&
     !/^macau\b|malaysia|cyberjaya|my-aia/i.test(job.location ?? "")
   );
 }
@@ -34,9 +35,7 @@ function dedupeJobs(jobs: Job[]) {
   const byKey = new Map<string, Job>();
 
   for (const job of jobs) {
-    const key =
-      job.apply_url.trim() ||
-      [job.company, job.title, job.location].map(normalizedKey).join("|");
+    const key = [job.company, job.title, job.location].map(normalizedKey).join("|") || job.apply_url.trim();
     const existing = byKey.get(key);
 
     if (!existing || sortByPostedDateDesc(job, existing) < 0) {

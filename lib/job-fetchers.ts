@@ -42,6 +42,14 @@ const museKeywords = [
   "treasury sales",
   "business development",
   "account management",
+  "consulting",
+  "consultant",
+  "advisory",
+  "strategy analyst",
+  "business analyst",
+  "business operations",
+  "client operations",
+  "project analyst",
   "asset management",
   "fund reporting",
   "listed structured products"
@@ -80,6 +88,14 @@ const workdaySearchTerms = [
   "payments",
   "business development",
   "account management",
+  "consulting",
+  "consultant",
+  "advisory",
+  "strategy",
+  "business analyst",
+  "business operations",
+  "client operations",
+  "project analyst",
   "graduate programme",
   "graduate program"
 ];
@@ -113,6 +129,9 @@ const companyNames: Record<string, string> = {
   elliptic: "Elliptic",
   lalamove: "Lalamove",
   "gersonlehrmangroup": "GLG",
+  alphasights: "AlphaSights",
+  thirdbridge: "Third Bridge",
+  guidepoint: "Guidepoint",
   "checkout.com": "Checkout.com",
   pavebank: "Pave Bank"
 };
@@ -138,7 +157,10 @@ const defaultGreenhouseBoards = [
   "drw",
   "virtu",
   "akuna",
-  "alphagrep"
+  "alphagrep",
+  "alphasights",
+  "thirdbridge",
+  "guidepoint"
 ];
 
 const defaultLeverCompanies = [
@@ -482,10 +504,7 @@ function normalizedDedupeText(value: string | null | undefined) {
 }
 
 function jobDedupeKey(job: JobInput) {
-  return (
-    job.apply_url.trim() ||
-    [job.company, job.title, job.location].map(normalizedDedupeText).join("|")
-  );
+  return [job.company, job.title, job.location].map(normalizedDedupeText).join("|") || job.apply_url.trim();
 }
 
 function dedupeFetchedJobs(jobs: JobInput[]) {
@@ -516,7 +535,7 @@ function normalizeLocation(value: unknown) {
 }
 
 function looksHongKong(location: string) {
-  return /hong kong|hong-kong|hk/i.test(location);
+  return /hong kong|hong-kong|\bhk\b/i.test(location);
 }
 
 function looksFinance(title: string, description = "") {
@@ -536,7 +555,13 @@ function looksFinance(title: string, description = "") {
     "portfolio",
     "capital markets",
     "private equity",
-    "credit"
+    "credit",
+    "consulting",
+    "consultant",
+    "advisory",
+    "business operations",
+    "client service",
+    "client services"
   ].some((keyword) => haystack.includes(keyword));
 }
 
@@ -710,7 +735,14 @@ function isEarlyCareerRole(title: string, category = "", description = "") {
     /\bsales development representative\b/,
     /\baccount executive\b/,
     /\btrade operations analyst\b/,
-    /\bfinancial reporting accountant\b/
+    /\bfinancial reporting accountant\b/,
+    /\bconsultant\b/,
+    /\bconsulting analyst\b/,
+    /\bstrategy analyst\b/,
+    /\bbusiness analyst\b/,
+    /\boperations analyst\b/,
+    /\bproject analyst\b/,
+    /\bclient service (?:analyst|associate)\b/
   ];
 
   const hasTitleSignal = strongEntrySignals.some((pattern) => pattern.test(titleAndCategory));
@@ -757,7 +789,10 @@ function isRelevantFinanceRole(title: string, category = "", description = "") {
     "user acceptance testing",
     "digital",
     "software",
-    "engineer"
+    "engineer",
+    "data science",
+    "artificial intelligence",
+    "ai application"
   ];
 
   if (excludedTitleTerms.some((term) => title.toLowerCase().includes(term))) {
@@ -785,6 +820,15 @@ function isRelevantFinanceRole(title: string, category = "", description = "") {
     "credit",
     "sales",
     "business development",
+    "consultant",
+    "consulting",
+    "advisory",
+    "strategy",
+    "business analyst",
+    "business operations",
+    "client operations",
+    "project analyst",
+    "client service",
     "operations",
     "settlement",
     "middle office",
@@ -1049,7 +1093,10 @@ export async function fetchGreenhouseJobs(): Promise<JobInput[]> {
           salary_min: null,
           salary_max: null,
           currency: null,
-          posted_at: item.first_published ?? item.updated_at ?? null
+          // Greenhouse keeps the original publish date even when an employer
+          // actively refreshes a still-open role. The update date reflects
+          // the two-month freshness rule used by this site.
+          posted_at: item.updated_at ?? item.first_published ?? null
         });
       }
     } catch {
@@ -1972,6 +2019,7 @@ async function fetchWorkdaySourceJobs(source: WorkdaySource) {
       !title ||
       !applyUrl ||
       !workdayHasHongKongSignal(posting, detail) ||
+      !(looksHongKong(location) || /^HK-/i.test(location)) ||
       looksMacauBased(location) ||
       !isPostedOnOrAfterCutoff(postedAt) ||
       !isRelevantFinanceRole(title, category, description ?? "") ||

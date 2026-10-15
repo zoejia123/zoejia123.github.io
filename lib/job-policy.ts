@@ -1,6 +1,6 @@
 import type { Job } from "./types";
 
-export const minPostedDate = "2026-07-01";
+export const minPostedDate = "2026-08-15";
 
 export function dateValue(value: string | null | undefined) {
   if (!value) {

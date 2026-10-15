@@ -8,7 +8,7 @@ A tiny public Next.js page that shows a daily refreshed list of non-internship, 
 - Filters out internships and senior roles.
 - Prioritizes graduate programs, trainee roles, junior roles, analyst/associate roles, and entry-level quant/trading/finance roles.
 - Keeps previously found jobs instead of replacing the page on each refresh.
-- Shows only jobs posted on or after 2026-07-01.
+- Shows only jobs posted within the current two-month window (from 2026-08-15 for this refresh).
 - Sorts all displayed jobs by source posting time from newest to oldest.
 - Tries to find 30+ fresh matching roles on each daily refresh, while keeping strict no-internship and early-career filters.
 - Stores normalized jobs in Supabase.

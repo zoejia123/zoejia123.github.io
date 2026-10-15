@@ -40,26 +40,36 @@ function formatDate(value: string | null | undefined) {
   return Number.isFinite(date.getTime()) ? date.toISOString().slice(0, 10) : "";
 }
 
+function cleanLocation(value: string) {
+  const parts = value.split(",").map((part) => part.trim()).filter(Boolean);
+  const compact = parts.filter((part, index) => part !== parts[index - 1]);
+  const half = compact.length / 2;
+  if (Number.isInteger(half) && compact.slice(0, half).join("|") === compact.slice(half).join("|")) {
+    return compact.slice(0, half).join(", ");
+  }
+  return compact.join(", ");
+}
+
 function renderJob(job: Job) {
   const description = cleanText(job.description);
   const postedAt = formatDate(job.posted_at);
+  const location = cleanLocation(job.location);
+  const searchable = `${job.title} ${job.company} ${location} ${job.source}`.toLowerCase();
 
   return `
-    <article class="job">
+    <article class="job" data-search="${escapeHtml(searchable)}" data-company="${escapeHtml(job.company)}" data-source="${escapeHtml(job.source)}">
       <div class="job-top">
-        <div>
+        <div class="role-cell">
           <div class="title">${escapeHtml(job.title)}</div>
-          <div class="meta">
-            <span>${escapeHtml(job.company)}</span>
-            <span>${escapeHtml(job.location)}</span>
-            <span>${escapeHtml(job.source)}</span>
-            ${postedAt ? `<span>${escapeHtml(postedAt)}</span>` : ""}
-          </div>
+          ${postedAt ? `<time datetime="${escapeHtml(postedAt)}">Posted ${escapeHtml(postedAt)}</time>` : ""}
         </div>
-        <a class="apply" href="${escapeHtml(job.apply_url)}" target="_blank" rel="noreferrer">Apply</a>
+        <div class="company">${escapeHtml(job.company)}</div>
+        <div class="location">${escapeHtml(location)}</div>
+        <div><span class="source">${escapeHtml(job.source)}</span></div>
+        <a class="apply" href="${escapeHtml(job.apply_url)}" target="_blank" rel="noreferrer">Apply <span aria-hidden="true">↗</span></a>
       </div>
       <details class="details">
-        <summary>JD</summary>
+        <summary>View job description <span aria-hidden="true">⌄</span></summary>
         <div class="body">${description ? `<pre>${escapeHtml(description)}</pre>` : "<p>Full job description is available on the source application page.</p>"}</div>
       </details>
     </article>
@@ -74,6 +84,8 @@ async function main() {
   const jobs = (JSON.parse(await readFile(dataPath, "utf8")) as Job[])
     .filter((job) => job.active)
     .sort(sortByPostedDateDesc);
+  const companies = [...new Set(jobs.map((job) => job.company))].sort((a, b) => a.localeCompare(b));
+  const sources = [...new Set(jobs.map((job) => job.source))].sort((a, b) => a.localeCompare(b));
 
   const html = `<!doctype html>
   <html lang="en">
@@ -85,13 +97,14 @@ async function main() {
       <style>
         :root {
           color-scheme: light;
-          --bg: #f5f7f4;
-          --ink: #17211b;
-          --muted: #5f6a62;
-          --line: #d9e1d8;
+          --bg: #f3f6f4;
+          --ink: #10231c;
+          --muted: #617068;
+          --line: #dce5df;
           --panel: #ffffff;
           --accent: #0f766e;
           --accent-dark: #0b544f;
+          --soft: #e8f4ef;
         }
         * { box-sizing: border-box; }
         body {
@@ -104,14 +117,14 @@ async function main() {
         .shell {
           width: min(1120px, calc(100% - 32px));
           margin: 0 auto;
-          padding: 40px 0;
+          padding: 48px 0 72px;
         }
         .topbar {
           display: flex;
           align-items: flex-end;
           justify-content: space-between;
           gap: 24px;
-          margin-bottom: 24px;
+          margin-bottom: 28px;
         }
         .eyebrow {
           margin: 0 0 6px;
@@ -132,16 +145,40 @@ async function main() {
           min-height: 36px;
           padding: 8px 12px;
           border: 1px solid var(--line);
-          border-radius: 8px;
+          border-radius: 999px;
           background: var(--panel);
           color: var(--muted);
           white-space: nowrap;
         }
+        .intro { max-width: 650px; margin: 12px 0 0; color: var(--muted); line-height: 1.6; }
+        .toolbar {
+          display: grid;
+          grid-template-columns: minmax(260px, 1.8fr) 1fr 1fr auto;
+          gap: 10px;
+          margin-bottom: 14px;
+          padding: 12px;
+          border: 1px solid var(--line);
+          border-radius: 14px;
+          background: rgba(255,255,255,.82);
+          box-shadow: 0 10px 35px rgba(16,35,28,.06);
+        }
+        .field { position: relative; }
+        .field input, .field select {
+          width: 100%; height: 44px; padding: 0 13px; border: 1px solid var(--line); border-radius: 10px;
+          background: #fff; color: var(--ink); font: inherit; outline: none;
+        }
+        .field input { padding-left: 38px; }
+        .field-icon { position: absolute; left: 13px; top: 12px; color: var(--muted); pointer-events: none; }
+        .field input:focus, .field select:focus { border-color: var(--accent); box-shadow: 0 0 0 3px rgba(15,118,110,.12); }
+        .clear { height: 44px; padding: 0 15px; border: 0; border-radius: 10px; background: var(--soft); color: var(--accent-dark); font-weight: 750; cursor: pointer; }
+        .results-bar { display: flex; justify-content: space-between; align-items: center; margin: 0 2px 12px; color: var(--muted); font-size: .92rem; }
+        .results-bar strong { color: var(--ink); }
         .panel {
           overflow: hidden;
           border: 1px solid var(--line);
-          border-radius: 8px;
+          border-radius: 14px;
           background: var(--panel);
+          box-shadow: 0 18px 50px rgba(16,35,28,.07);
         }
         .head {
           display: grid;
@@ -150,14 +187,16 @@ async function main() {
           align-items: center;
           padding: 14px 18px;
           border-bottom: 1px solid var(--line);
-          background: #edf3ed;
+          background: #f0f5f2;
           color: var(--muted);
           font-size: 0.78rem;
           font-weight: 800;
           text-transform: uppercase;
         }
         .list { display: grid; }
-        .job { border-bottom: 1px solid var(--line); color: var(--muted); }
+        .job { border-bottom: 1px solid var(--line); color: var(--muted); transition: background 150ms ease; }
+        .job:hover { background: #fbfdfc; }
+        .job[hidden] { display: none; }
         .job:last-child { border-bottom: 0; }
         .job-top {
           display: grid;
@@ -167,14 +206,17 @@ async function main() {
           min-height: 76px;
           padding: 16px 18px 12px;
         }
-        .title { color: var(--ink); font-weight: 760; }
-        .meta { display: flex; flex-wrap: wrap; gap: 8px 14px; margin-top: 4px; font-size: 0.92rem; }
+        .title { color: var(--ink); font-weight: 760; line-height: 1.35; }
+        time { display: block; margin-top: 7px; font-size: .78rem; color: #7a8981; }
+        .company { color: #30443b; font-weight: 650; }
+        .location { font-size: .9rem; line-height: 1.4; }
+        .source { display: inline-flex; padding: 5px 9px; border-radius: 999px; background: #f0f5f2; color: #506159; font-size: .75rem; font-weight: 750; }
         .apply {
           display: inline-flex;
           align-items: center;
           justify-content: center;
           min-height: 38px;
-          border-radius: 8px;
+          border-radius: 10px;
           background: var(--accent);
           color: #fff;
           font-weight: 800;
@@ -185,13 +227,15 @@ async function main() {
           display: inline-flex;
           align-items: center;
           min-height: 34px;
-          color: var(--accent-dark);
+          color: var(--accent);
           cursor: pointer;
           font-size: 0.9rem;
-          font-weight: 800;
+          font-weight: 700;
           list-style: none;
         }
         .details summary::-webkit-details-marker { display: none; }
+        .details summary span { display: inline-block; margin-left: 6px; transition: transform 160ms ease; }
+        .details[open] summary span { transform: rotate(180deg); }
         .body {
           margin-top: 8px;
           padding: 14px;
@@ -207,20 +251,27 @@ async function main() {
           word-break: break-word;
           font: inherit;
         }
+        .empty { display: none; padding: 52px 20px; text-align: center; color: var(--muted); }
+        .empty.visible { display: block; }
         @media (max-width: 760px) {
           .shell { width: min(100% - 24px, 680px); padding: 24px 0; }
           .topbar { display: grid; align-items: start; }
           .note { width: fit-content; white-space: normal; }
+          .toolbar { grid-template-columns: 1fr; }
           .head { display: none; }
           .panel { border: 0; background: transparent; }
           .list { gap: 10px; }
           .job { border: 1px solid var(--line); border-radius: 8px; background: var(--panel); }
           .job-top {
             grid-template-columns: 1fr;
+            gap: 8px;
             min-height: 0;
             padding-bottom: 14px;
           }
-          .apply { width: 104px; }
+          .apply { width: 100%; margin-top: 6px; }
+          .company::before { content: "Company · "; color: #86938c; font-weight: 500; }
+          .location::before { content: "Location · "; color: #86938c; }
+          .source { margin-top: 2px; }
         }
       </style>
     </head>
@@ -230,9 +281,17 @@ async function main() {
           <div>
             <p class="eyebrow">Daily refreshed</p>
             <h1>66offer Hong Kong Finance Jobs</h1>
+            <p class="intro">Fresh finance opportunities across Hong Kong, gathered in one place so you can spend less time searching and more time applying.</p>
           </div>
-          <div class="note">Newest first · since 2026-07-01</div>
+          <div class="note">Newest first · since 2026-08-15</div>
         </header>
+        <section class="toolbar" aria-label="Filter jobs">
+          <label class="field"><span class="field-icon" aria-hidden="true">⌕</span><input id="search" type="search" placeholder="Search roles, companies or locations" autocomplete="off" /></label>
+          <label class="field"><select id="company"><option value="">All companies</option>${companies.map((company) => `<option>${escapeHtml(company)}</option>`).join("")}</select></label>
+          <label class="field"><select id="source"><option value="">All sources</option>${sources.map((source) => `<option>${escapeHtml(source)}</option>`).join("")}</select></label>
+          <button class="clear" id="clear" type="button">Clear</button>
+        </section>
+        <div class="results-bar" aria-live="polite"><span><strong id="count">${jobs.length}</strong> opportunities</span><span>Newest first</span></div>
         <section class="panel" aria-label="Available roles">
           <div class="head">
             <span>Role</span>
@@ -244,8 +303,30 @@ async function main() {
           <div class="list">
             ${jobs.map(renderJob).join("\n")}
           </div>
+          <div class="empty" id="empty"><strong>No matching roles</strong><br />Try a broader search or clear your filters.</div>
         </section>
       </main>
+      <script>
+        const jobs = [...document.querySelectorAll('.job')];
+        const search = document.querySelector('#search');
+        const company = document.querySelector('#company');
+        const source = document.querySelector('#source');
+        const count = document.querySelector('#count');
+        const empty = document.querySelector('#empty');
+        function filterJobs() {
+          const query = search.value.trim().toLowerCase();
+          let visible = 0;
+          jobs.forEach((job) => {
+            const match = (!query || job.dataset.search.includes(query)) && (!company.value || job.dataset.company === company.value) && (!source.value || job.dataset.source === source.value);
+            job.hidden = !match;
+            if (match) visible += 1;
+          });
+          count.textContent = visible;
+          empty.classList.toggle('visible', visible === 0);
+        }
+        [search, company, source].forEach((control) => control.addEventListener('input', filterJobs));
+        document.querySelector('#clear').addEventListener('click', () => { search.value = ''; company.value = ''; source.value = ''; filterJobs(); search.focus(); });
+      </script>
     </body>
   </html>`;
 
