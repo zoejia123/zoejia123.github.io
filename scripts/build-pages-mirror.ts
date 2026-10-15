@@ -50,14 +50,21 @@ function cleanLocation(value: string) {
   return compact.join(", ");
 }
 
+function isGraduateFriendly(job: Job, description: string | null) {
+  const text = `${job.title} ${job.category ?? ""} ${description ?? ""}`.toLowerCase();
+  return /\bgraduate(?:s| programme| program)?\b|\bnew grad\b|\bentry[- ]level\b|\btrainee\b|\banalyst\b|\bassociate\b|\bjunior\b|\bclient services?\b|\boperations?\b/.test(text) &&
+    !/\b(?:senior|manager|director|vice president|\bvp\b|head of|lead)\b/.test(job.title.toLowerCase());
+}
+
 function renderJob(job: Job) {
   const description = cleanText(job.description);
   const postedAt = formatDate(job.posted_at);
   const location = cleanLocation(job.location);
   const searchable = `${job.title} ${job.company} ${location} ${job.source}`.toLowerCase();
+  const graduateFriendly = isGraduateFriendly(job, description);
 
   return `
-    <article class="job" data-search="${escapeHtml(searchable)}" data-company="${escapeHtml(job.company)}" data-source="${escapeHtml(job.source)}">
+    <article class="job" data-search="${escapeHtml(searchable)}" data-company="${escapeHtml(job.company)}" data-source="${escapeHtml(job.source)}" data-graduate="${graduateFriendly}">
       <div class="job-top">
         <div class="role-cell">
           <div class="title">${escapeHtml(job.title)}</div>
@@ -153,7 +160,7 @@ async function main() {
         .intro { max-width: 650px; margin: 12px 0 0; color: var(--muted); line-height: 1.6; }
         .toolbar {
           display: grid;
-          grid-template-columns: minmax(260px, 1.8fr) 1fr 1fr auto;
+          grid-template-columns: minmax(260px, 1.6fr) 1fr 1fr 1fr auto;
           gap: 10px;
           margin-bottom: 14px;
           padding: 12px;
@@ -289,6 +296,7 @@ async function main() {
           <label class="field"><span class="field-icon" aria-hidden="true">⌕</span><input id="search" type="search" placeholder="Search roles, companies or locations" autocomplete="off" /></label>
           <label class="field"><select id="company"><option value="">All companies</option>${companies.map((company) => `<option>${escapeHtml(company)}</option>`).join("")}</select></label>
           <label class="field"><select id="source"><option value="">All sources</option>${sources.map((source) => `<option>${escapeHtml(source)}</option>`).join("")}</select></label>
+          <label class="field"><select id="level"><option value="">All experience levels</option><option value="graduate">Graduate-friendly</option></select></label>
           <button class="clear" id="clear" type="button">Clear</button>
         </section>
         <div class="results-bar" aria-live="polite"><span><strong id="count">${jobs.length}</strong> opportunities</span><span>Newest first</span></div>
@@ -317,15 +325,16 @@ async function main() {
           const query = search.value.trim().toLowerCase();
           let visible = 0;
           jobs.forEach((job) => {
-            const match = (!query || job.dataset.search.includes(query)) && (!company.value || job.dataset.company === company.value) && (!source.value || job.dataset.source === source.value);
+          const match = (!query || job.dataset.search.includes(query)) && (!company.value || job.dataset.company === company.value) && (!source.value || job.dataset.source === source.value) && (!level.value || job.dataset.graduate === 'true');
             job.hidden = !match;
             if (match) visible += 1;
           });
           count.textContent = visible;
           empty.classList.toggle('visible', visible === 0);
         }
-        [search, company, source].forEach((control) => control.addEventListener('input', filterJobs));
-        document.querySelector('#clear').addEventListener('click', () => { search.value = ''; company.value = ''; source.value = ''; filterJobs(); search.focus(); });
+        const level = document.querySelector('#level');
+        [search, company, source, level].forEach((control) => control.addEventListener('input', filterJobs));
+        document.querySelector('#clear').addEventListener('click', () => { search.value = ''; company.value = ''; source.value = ''; level.value = ''; filterJobs(); search.focus(); });
       </script>
     </body>
   </html>`;

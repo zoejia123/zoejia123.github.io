@@ -64,7 +64,7 @@
         .intro { max-width: 650px; margin: 12px 0 0; color: var(--muted); line-height: 1.6; }
         .toolbar {
           display: grid;
-          grid-template-columns: minmax(260px, 1.8fr) 1fr 1fr auto;
+          grid-template-columns: minmax(260px, 1.6fr) 1fr 1fr 1fr auto;
           gap: 10px;
           margin-bottom: 14px;
           padding: 12px;
@@ -200,6 +200,7 @@
           <label class="field"><span class="field-icon" aria-hidden="true">⌕</span><input id="search" type="search" placeholder="Search roles, companies or locations" autocomplete="off" /></label>
           <label class="field"><select id="company"><option value="">All companies</option><option>AIA</option><option>Airwallex</option><option>Animoca Brands</option><option>Bank of America</option><option>Barclays</option><option>Citi</option><option>Crypto.com</option><option>Deutsche Bank</option><option>DV Trading</option><option>Eclipse Trading</option><option>Fidelity</option><option>Flow Traders</option><option>FTI Consulting</option><option>Goldman Sachs</option><option>HKEX</option><option>Houlihan Lokey</option><option>IMC</option><option>Jane Street</option><option>JPMorgan Chase</option><option>Julius Baer</option><option>Manulife</option><option>Mastercard</option><option>Mizuho</option><option>Morgan Stanley</option><option>MUFG</option><option>Neuberger Berman</option><option>OKX</option><option>Point72</option><option>SS&amp;C Technologies</option><option>State Street</option><option>TD Bank</option><option>Third Bridge</option><option>TP ICAP</option><option>UOB</option><option>Wells Fargo</option></select></label>
           <label class="field"><select id="source"><option value="">All sources</option><option>Ashby</option><option>Greenhouse</option><option>Lever</option><option>The Muse</option><option>Workday</option></select></label>
+          <label class="field"><select id="level"><option value="">All experience levels</option><option value="graduate">Graduate-friendly</option></select></label>
           <button class="clear" id="clear" type="button">Clear</button>
         </section>
         <div class="results-bar" aria-live="polite"><span><strong id="count">81</strong> opportunities</span><span>Newest first</span></div>
@@ -213,7 +214,7 @@
           </div>
           <div class="list">
             
-    <article class="job" data-search="business development, aia-citi partnership &amp; strategic banks, consultant aia hong kong, hk-aia hong kong &amp; macau workday" data-company="AIA" data-source="Workday">
+    <article class="job" data-search="business development, aia-citi partnership &amp; strategic banks, consultant aia hong kong, hk-aia hong kong &amp; macau workday" data-company="AIA" data-source="Workday" data-graduate="true">
       <div class="job-top">
         <div class="role-cell">
           <div class="title">Business Development, AIA-Citi Partnership &amp; Strategic Banks, Consultant</div>
@@ -262,7 +263,7 @@ You must provide all requested information, including Personal Data, to be consi
     </article>
   
 
-    <article class="job" data-search="morgan stanley fund services, portfolio analytics - associate- hong kong morgan stanley hong kong workday" data-company="Morgan Stanley" data-source="Workday">
+    <article class="job" data-search="morgan stanley fund services, portfolio analytics - associate- hong kong morgan stanley hong kong workday" data-company="Morgan Stanley" data-source="Workday" data-graduate="true">
       <div class="job-top">
         <div class="role-cell">
           <div class="title">Morgan Stanley Fund Services, Portfolio Analytics - Associate- Hong Kong</div>
@@ -286,7 +287,7 @@ For more information, please visit: https://www.morganstanley.com/people-opportu
     </article>
   
 
-    <article class="job" data-search="officer, derivatives trading operations (morning shift) - 12 month contract hkex hk-one es 45/f workday" data-company="HKEX" data-source="Workday">
+    <article class="job" data-search="officer, derivatives trading operations (morning shift) - 12 month contract hkex hk-one es 45/f workday" data-company="HKEX" data-source="Workday" data-graduate="true">
       <div class="job-top">
         <div class="role-cell">
           <div class="title">Officer, Derivatives Trading Operations (Morning Shift) - 12 month Contract</div>
@@ -333,7 +334,7 @@ Contract</pre></div>
     </article>
   
 
-    <article class="job" data-search="ibcm - equity capital markets - analyst deutsche bank hong kong, intl commerce ctr workday" data-company="Deutsche Bank" data-source="Workday">
+    <article class="job" data-search="ibcm - equity capital markets - analyst deutsche bank hong kong, intl commerce ctr workday" data-company="Deutsche Bank" data-source="Workday" data-graduate="true">
       <div class="job-top">
         <div class="role-cell">
           <div class="title">IBCM - Equity Capital Markets - Analyst</div>
@@ -389,7 +390,7 @@ We welcome applications from all people and promote a positive, fair and inclusi
     </article>
   
 
-    <article class="job" data-search="officer - microstructure, trading development, operations (12 months contract) hkex hk-two es 6/f workday" data-company="HKEX" data-source="Workday">
+    <article class="job" data-search="officer - microstructure, trading development, operations (12 months contract) hkex hk-two es 6/f workday" data-company="HKEX" data-source="Workday" data-graduate="true">
       <div class="job-top">
         <div class="role-cell">
           <div class="title">Officer - Microstructure, Trading Development, Operations (12 months Contract)</div>
@@ -435,7 +436,7 @@ Contract</pre></div>
     </article>
   
 
-    <article class="job" data-search="quantitative trader, cash otc okx hong kong, hong kong sar greenhouse" data-company="OKX" data-source="Greenhouse">
+    <article class="job" data-search="quantitative trader, cash otc okx hong kong, hong kong sar greenhouse" data-company="OKX" data-source="Greenhouse" data-graduate="false">
       <div class="job-top">
         <div class="role-cell">
           <div class="title">Quantitative Trader, Cash OTC</div>
@@ -496,7 +497,7 @@ Information collected and processed as part of the recruitment process of any jo
     </article>
   
 
-    <article class="job" data-search="trade operations analyst imc hong kong greenhouse" data-company="IMC" data-source="Greenhouse">
+    <article class="job" data-search="trade operations analyst imc hong kong greenhouse" data-company="IMC" data-source="Greenhouse" data-graduate="true">
       <div class="job-top">
         <div class="role-cell">
           <div class="title">Trade Operations Analyst</div>
@@ -530,7 +531,7 @@ IMC is a research-driven trading firm where quantitative modeling, machine learn
     </article>
   
 
-    <article class="job" data-search="investment banking financial crime officer barclays hong kong, cheung kong center workday" data-company="Barclays" data-source="Workday">
+    <article class="job" data-search="investment banking financial crime officer barclays hong kong, cheung kong center workday" data-company="Barclays" data-source="Workday" data-graduate="true">
       <div class="job-top">
         <div class="role-cell">
           <div class="title">Investment Banking Financial Crime Officer</div>
@@ -579,7 +580,7 @@ Barclays is required by law to confirm that you have the Legal Right to Work in 
     </article>
   
 
-    <article class="job" data-search="associate, client services - 2027 start third bridge hong kong greenhouse" data-company="Third Bridge" data-source="Greenhouse">
+    <article class="job" data-search="associate, client services - 2027 start third bridge hong kong greenhouse" data-company="Third Bridge" data-source="Greenhouse" data-graduate="true">
       <div class="job-top">
         <div class="role-cell">
           <div class="title">Associate, Client Services - 2027 Start</div>
@@ -646,7 +647,7 @@ We know that to be truly innovative, we need to have a diverse team around us. T
     </article>
   
 
-    <article class="job" data-search="financial planning &amp; analysis associate morgan stanley hong kong workday" data-company="Morgan Stanley" data-source="Workday">
+    <article class="job" data-search="financial planning &amp; analysis associate morgan stanley hong kong workday" data-company="Morgan Stanley" data-source="Workday" data-graduate="true">
       <div class="job-top">
         <div class="role-cell">
           <div class="title">Financial Planning &amp; Analysis Associate</div>
@@ -695,7 +696,7 @@ For more information, please visit: https://www.morganstanley.com/people-opportu
     </article>
   
 
-    <article class="job" data-search="quantitative researcher jane street hong kong greenhouse" data-company="Jane Street" data-source="Greenhouse">
+    <article class="job" data-search="quantitative researcher jane street hong kong greenhouse" data-company="Jane Street" data-source="Greenhouse" data-graduate="true">
       <div class="job-top">
         <div class="role-cell">
           <div class="title">Quantitative Researcher</div>
@@ -724,7 +725,7 @@ If you&#39;re a recruiting agency and want to partner with us, please reach out 
     </article>
   
 
-    <article class="job" data-search="officer – depository &amp; participant services (depository &amp; vault operations) hkex hk-cmp 6/f workday" data-company="HKEX" data-source="Workday">
+    <article class="job" data-search="officer – depository &amp; participant services (depository &amp; vault operations) hkex hk-cmp 6/f workday" data-company="HKEX" data-source="Workday" data-graduate="true">
       <div class="job-top">
         <div class="role-cell">
           <div class="title">Officer – Depository &amp; Participant Services (Depository &amp; Vault Operations)</div>
@@ -773,7 +774,7 @@ Permanent</pre></div>
     </article>
   
 
-    <article class="job" data-search="analyst, trade product, global payments solutions, hong kong bank of america hong kong workday" data-company="Bank of America" data-source="Workday">
+    <article class="job" data-search="analyst, trade product, global payments solutions, hong kong bank of america hong kong workday" data-company="Bank of America" data-source="Workday" data-graduate="true">
       <div class="job-top">
         <div class="role-cell">
           <div class="title">Analyst, Trade Product, Global Payments Solutions, Hong Kong</div>
@@ -820,7 +821,7 @@ Skills:
     </article>
   
 
-    <article class="job" data-search="account executive, corporate ss&amp;c technologies hong kong (jp) workday" data-company="SS&amp;C Technologies" data-source="Workday">
+    <article class="job" data-search="account executive, corporate ss&amp;c technologies hong kong (jp) workday" data-company="SS&amp;C Technologies" data-source="Workday" data-graduate="false">
       <div class="job-top">
         <div class="role-cell">
           <div class="title">Account Executive, Corporate</div>
@@ -884,7 +885,7 @@ SS&amp;C Technologies is an Equal Employment Opportunity employer and does not d
     </article>
   
 
-    <article class="job" data-search="treausry associate crypto.com hong kong lever" data-company="Crypto.com" data-source="Lever">
+    <article class="job" data-search="treausry associate crypto.com hong kong lever" data-company="Crypto.com" data-source="Lever" data-graduate="true">
       <div class="job-top">
         <div class="role-cell">
           <div class="title">Treausry Associate</div>
@@ -902,7 +903,7 @@ SS&amp;C Technologies is an Equal Employment Opportunity employer and does not d
     </article>
   
 
-    <article class="job" data-search="associate, finance administration crypto.com hong kong lever" data-company="Crypto.com" data-source="Lever">
+    <article class="job" data-search="associate, finance administration crypto.com hong kong lever" data-company="Crypto.com" data-source="Lever" data-graduate="true">
       <div class="job-top">
         <div class="role-cell">
           <div class="title">Associate, Finance Administration</div>
@@ -920,7 +921,7 @@ SS&amp;C Technologies is an Equal Employment Opportunity employer and does not d
     </article>
   
 
-    <article class="job" data-search="trading support analyst crypto.com hong kong lever" data-company="Crypto.com" data-source="Lever">
+    <article class="job" data-search="trading support analyst crypto.com hong kong lever" data-company="Crypto.com" data-source="Lever" data-graduate="true">
       <div class="job-top">
         <div class="role-cell">
           <div class="title">Trading Support Analyst</div>
@@ -938,7 +939,7 @@ SS&amp;C Technologies is an Equal Employment Opportunity employer and does not d
     </article>
   
 
-    <article class="job" data-search="associate, implementation and client service, transaction banking office for asia mufg hong kong - airside workday" data-company="MUFG" data-source="Workday">
+    <article class="job" data-search="associate, implementation and client service, transaction banking office for asia mufg hong kong - airside workday" data-company="MUFG" data-source="Workday" data-graduate="true">
       <div class="job-top">
         <div class="role-cell">
           <div class="title">Associate, Implementation and Client Service, Transaction Banking Office for Asia</div>
@@ -995,7 +996,7 @@ Mitsubishi UFJ Financial Group (MUFG) is an equal opportunity employer. We view 
     </article>
   
 
-    <article class="job" data-search="analyst, middle office sales support apac wells fargo hong kong workday" data-company="Wells Fargo" data-source="Workday">
+    <article class="job" data-search="analyst, middle office sales support apac wells fargo hong kong workday" data-company="Wells Fargo" data-source="Workday" data-graduate="true">
       <div class="job-top">
         <div class="role-cell">
           <div class="title">Analyst, Middle Office Sales Support APAC</div>
@@ -1044,7 +1045,7 @@ b. Wells Fargo requires you to directly represent your own experiences during th
     </article>
   
 
-    <article class="job" data-search="business controls officer barclays hong kong, cheung kong center workday" data-company="Barclays" data-source="Workday">
+    <article class="job" data-search="business controls officer barclays hong kong, cheung kong center workday" data-company="Barclays" data-source="Workday" data-graduate="true">
       <div class="job-top">
         <div class="role-cell">
           <div class="title">Business Controls Officer</div>
@@ -1093,7 +1094,7 @@ Barclays is required by law to confirm that you have the Legal Right to Work in 
     </article>
   
 
-    <article class="job" data-search="treasury associate (data &amp; automation) crypto.com hong kong lever" data-company="Crypto.com" data-source="Lever">
+    <article class="job" data-search="treasury associate (data &amp; automation) crypto.com hong kong lever" data-company="Crypto.com" data-source="Lever" data-graduate="true">
       <div class="job-top">
         <div class="role-cell">
           <div class="title">Treasury Associate (Data &amp; Automation)</div>
@@ -1111,7 +1112,7 @@ Barclays is required by law to confirm that you have the Legal Right to Work in 
     </article>
   
 
-    <article class="job" data-search="institutional equity division - asia quantitative &amp; derivative strategies, associate (hong kong) morgan stanley hong kong workday" data-company="Morgan Stanley" data-source="Workday">
+    <article class="job" data-search="institutional equity division - asia quantitative &amp; derivative strategies, associate (hong kong) morgan stanley hong kong workday" data-company="Morgan Stanley" data-source="Workday" data-graduate="true">
       <div class="job-top">
         <div class="role-cell">
           <div class="title">Institutional Equity Division - Asia Quantitative &amp; Derivative Strategies, Associate (Hong Kong)</div>
@@ -1172,7 +1173,7 @@ For more information, please visit: https://www.morganstanley.com/people-opportu
     </article>
   
 
-    <article class="job" data-search="investment rotation analyst program - general account investments 2027 intake manulife hong kong workday" data-company="Manulife" data-source="Workday">
+    <article class="job" data-search="investment rotation analyst program - general account investments 2027 intake manulife hong kong workday" data-company="Manulife" data-source="Workday" data-graduate="true">
       <div class="job-top">
         <div class="role-cell">
           <div class="title">Investment Rotation Analyst Program - General Account Investments 2027 intake</div>
@@ -1224,7 +1225,7 @@ Hybrid</pre></div>
     </article>
   
 
-    <article class="job" data-search="2027 quantitative researcher graduate (dv equities) dv trading hong kong greenhouse" data-company="DV Trading" data-source="Greenhouse">
+    <article class="job" data-search="2027 quantitative researcher graduate (dv equities) dv trading hong kong greenhouse" data-company="DV Trading" data-source="Greenhouse" data-graduate="true">
       <div class="job-top">
         <div class="role-cell">
           <div class="title">2027 Quantitative Researcher Graduate (DV Equities)</div>
@@ -1264,7 +1265,7 @@ DV is not accepting unsolicited resumes from search firms. Only search firms wit
     </article>
   
 
-    <article class="job" data-search="quantitative trader jane street hong kong greenhouse" data-company="Jane Street" data-source="Greenhouse">
+    <article class="job" data-search="quantitative trader jane street hong kong greenhouse" data-company="Jane Street" data-source="Greenhouse" data-graduate="false">
       <div class="job-top">
         <div class="role-cell">
           <div class="title">Quantitative Trader</div>
@@ -1294,7 +1295,7 @@ If you’d like to learn more, you can read about our interview process and meet
     </article>
   
 
-    <article class="job" data-search="ib - global markets analyst – macro sales deutsche bank hong kong, intl commerce ctr workday" data-company="Deutsche Bank" data-source="Workday">
+    <article class="job" data-search="ib - global markets analyst – macro sales deutsche bank hong kong, intl commerce ctr workday" data-company="Deutsche Bank" data-source="Workday" data-graduate="true">
       <div class="job-top">
         <div class="role-cell">
           <div class="title">IB - Global Markets Analyst – Macro Sales</div>
@@ -1357,7 +1358,7 @@ We welcome applications from all people and promote a positive, fair and inclusi
     </article>
   
 
-    <article class="job" data-search="2027 graduate analyst program - hong kong mizuho hong kong workday" data-company="Mizuho" data-source="Workday">
+    <article class="job" data-search="2027 graduate analyst program - hong kong mizuho hong kong workday" data-company="Mizuho" data-source="Workday" data-graduate="true">
       <div class="job-top">
         <div class="role-cell">
           <div class="title">2027 Graduate Analyst Program - Hong Kong</div>
@@ -1387,7 +1388,7 @@ Role Prerequisites
     </article>
   
 
-    <article class="job" data-search="consultant - accounting ( 1 year contract) animoca brands hong kong lever" data-company="Animoca Brands" data-source="Lever">
+    <article class="job" data-search="consultant - accounting ( 1 year contract) animoca brands hong kong lever" data-company="Animoca Brands" data-source="Lever" data-graduate="true">
       <div class="job-top">
         <div class="role-cell">
           <div class="title">Consultant - Accounting ( 1 year contract)</div>
@@ -1407,7 +1408,7 @@ We are searching for a Senior Associate to join our dynamic team to handle day-t
     </article>
   
 
-    <article class="job" data-search="phd graduate quantitative researcher flow traders hong kong greenhouse" data-company="Flow Traders" data-source="Greenhouse">
+    <article class="job" data-search="phd graduate quantitative researcher flow traders hong kong greenhouse" data-company="Flow Traders" data-source="Greenhouse" data-graduate="true">
       <div class="job-top">
         <div class="role-cell">
           <div class="title">PhD Graduate Quantitative Researcher</div>
@@ -1439,7 +1440,7 @@ Flow Traders does not accept unsolicited resumes from any professional staffing 
     </article>
   
 
-    <article class="job" data-search="2027 quantitative trader graduate (dv equities) dv trading hong kong greenhouse" data-company="DV Trading" data-source="Greenhouse">
+    <article class="job" data-search="2027 quantitative trader graduate (dv equities) dv trading hong kong greenhouse" data-company="DV Trading" data-source="Greenhouse" data-graduate="true">
       <div class="job-top">
         <div class="role-cell">
           <div class="title">2027 Quantitative Trader Graduate (DV Equities)</div>
@@ -1480,7 +1481,7 @@ DV is not accepting unsolicited resumes from search firms. Only search firms wit
     </article>
   
 
-    <article class="job" data-search="cubist quantitative researcher point72 dubai, london, paris, hong kong, sydney, toronto, tokyo greenhouse" data-company="Point72" data-source="Greenhouse">
+    <article class="job" data-search="cubist quantitative researcher point72 dubai, london, paris, hong kong, sydney, toronto, tokyo greenhouse" data-company="Point72" data-source="Greenhouse" data-graduate="true">
       <div class="job-top">
         <div class="role-cell">
           <div class="title">Cubist Quantitative Researcher</div>
@@ -1516,7 +1517,7 @@ REQUIRMENTS
     </article>
   
 
-    <article class="job" data-search="ib - gem trader - analyst deutsche bank hong kong, intl commerce ctr workday" data-company="Deutsche Bank" data-source="Workday">
+    <article class="job" data-search="ib - gem trader - analyst deutsche bank hong kong, intl commerce ctr workday" data-company="Deutsche Bank" data-source="Workday" data-graduate="true">
       <div class="job-top">
         <div class="role-cell">
           <div class="title">IB - GEM Trader - Analyst</div>
@@ -1575,7 +1576,7 @@ We welcome applications from all people and promote a positive, fair and inclusi
     </article>
   
 
-    <article class="job" data-search="2027 dws graduate program (p.a.c.e.) - investment – hong kong sar deutsche bank hong kong, intl commerce ctr workday" data-company="Deutsche Bank" data-source="Workday">
+    <article class="job" data-search="2027 dws graduate program (p.a.c.e.) - investment – hong kong sar deutsche bank hong kong, intl commerce ctr workday" data-company="Deutsche Bank" data-source="Workday" data-graduate="true">
       <div class="job-top">
         <div class="role-cell">
           <div class="title">2027 DWS Graduate Program (P.A.C.E.) - Investment – Hong Kong SAR</div>
@@ -1631,7 +1632,7 @@ We at DWS are committed to creating a diverse and inclusive workplace, one that 
     </article>
   
 
-    <article class="job" data-search="corporate development &amp; investment analyst crypto.com hong kong lever" data-company="Crypto.com" data-source="Lever">
+    <article class="job" data-search="corporate development &amp; investment analyst crypto.com hong kong lever" data-company="Crypto.com" data-source="Lever" data-graduate="true">
       <div class="job-top">
         <div class="role-cell">
           <div class="title">Corporate Development &amp; Investment Analyst</div>
@@ -1649,7 +1650,7 @@ We at DWS are committed to creating a diverse and inclusive workplace, one that 
     </article>
   
 
-    <article class="job" data-search="quantitative researcher - machine learning point72 new york, london, or hong kong greenhouse" data-company="Point72" data-source="Greenhouse">
+    <article class="job" data-search="quantitative researcher - machine learning point72 new york, london, or hong kong greenhouse" data-company="Point72" data-source="Greenhouse" data-graduate="false">
       <div class="job-top">
         <div class="role-cell">
           <div class="title">Quantitative Researcher - Machine Learning</div>
@@ -1682,7 +1683,7 @@ DESIRABLE CANDIDATES:
     </article>
   
 
-    <article class="job" data-search="officer, investment operations citi kowloon  hong kong workday" data-company="Citi" data-source="Workday">
+    <article class="job" data-search="officer, investment operations citi kowloon  hong kong workday" data-company="Citi" data-source="Workday" data-graduate="true">
       <div class="job-top">
         <div class="role-cell">
           <div class="title">Officer, Investment Operations</div>
@@ -1745,7 +1746,7 @@ View Citi’s EEO Policy Statement and the Know Your Rights poster.</pre></div>
     </article>
   
 
-    <article class="job" data-search="officer, equities delta one middle office analyst citi kowloon  hong kong workday" data-company="Citi" data-source="Workday">
+    <article class="job" data-search="officer, equities delta one middle office analyst citi kowloon  hong kong workday" data-company="Citi" data-source="Workday" data-graduate="true">
       <div class="job-top">
         <div class="role-cell">
           <div class="title">Officer, Equities Delta One Middle Office Analyst</div>
@@ -1804,7 +1805,7 @@ View Citi’s EEO Policy Statement and the Know Your Rights poster.</pre></div>
     </article>
   
 
-    <article class="job" data-search="prime brokerage client service - analyst citi kowloon  hong kong workday" data-company="Citi" data-source="Workday">
+    <article class="job" data-search="prime brokerage client service - analyst citi kowloon  hong kong workday" data-company="Citi" data-source="Workday" data-graduate="true">
       <div class="job-top">
         <div class="role-cell">
           <div class="title">Prime Brokerage Client Service - Analyst</div>
@@ -1862,7 +1863,7 @@ View Citi’s EEO Policy Statement and the Know Your Rights poster.</pre></div>
     </article>
   
 
-    <article class="job" data-search="sales, trading and structuring graduate programme 2027 hong kong barclays hong kong, cheung kong center workday" data-company="Barclays" data-source="Workday">
+    <article class="job" data-search="sales, trading and structuring graduate programme 2027 hong kong barclays hong kong, cheung kong center workday" data-company="Barclays" data-source="Workday" data-graduate="true">
       <div class="job-top">
         <div class="role-cell">
           <div class="title">Sales, Trading and Structuring Graduate Programme 2027 Hong Kong</div>
@@ -1933,7 +1934,7 @@ It is the policy of Barclays to ensure equal employment opportunity without disc
     </article>
   
 
-    <article class="job" data-search="mufg analyst programme 2027 – global operations mufg hong kong - airside workday" data-company="MUFG" data-source="Workday">
+    <article class="job" data-search="mufg analyst programme 2027 – global operations mufg hong kong - airside workday" data-company="MUFG" data-source="Workday" data-graduate="true">
       <div class="job-top">
         <div class="role-cell">
           <div class="title">MUFG Analyst Programme 2027 – Global Operations</div>
@@ -1988,7 +1989,7 @@ Mitsubishi UFJ Financial Group (MUFG) is an equal opportunity employer. We view 
     </article>
   
 
-    <article class="job" data-search="mufg analyst programme 2027 – global corporate banking mufg hong kong - airside workday" data-company="MUFG" data-source="Workday">
+    <article class="job" data-search="mufg analyst programme 2027 – global corporate banking mufg hong kong - airside workday" data-company="MUFG" data-source="Workday" data-graduate="true">
       <div class="job-top">
         <div class="role-cell">
           <div class="title">MUFG Analyst Programme 2027 – Global Corporate Banking</div>
@@ -2043,7 +2044,7 @@ Mitsubishi UFJ Financial Group (MUFG) is an equal opportunity employer. We view 
     </article>
   
 
-    <article class="job" data-search="mufg analyst programme 2027 – corporate functions mufg hong kong - airside workday" data-company="MUFG" data-source="Workday">
+    <article class="job" data-search="mufg analyst programme 2027 – corporate functions mufg hong kong - airside workday" data-company="MUFG" data-source="Workday" data-graduate="true">
       <div class="job-top">
         <div class="role-cell">
           <div class="title">MUFG Analyst Programme 2027 – Corporate Functions</div>
@@ -2094,7 +2095,7 @@ Mitsubishi UFJ Financial Group (MUFG) is an equal opportunity employer. We view 
     </article>
   
 
-    <article class="job" data-search="associate, credit management mufg hong kong - airside workday" data-company="MUFG" data-source="Workday">
+    <article class="job" data-search="associate, credit management mufg hong kong - airside workday" data-company="MUFG" data-source="Workday" data-graduate="true">
       <div class="job-top">
         <div class="role-cell">
           <div class="title">Associate, Credit Management</div>
@@ -2139,7 +2140,7 @@ Mitsubishi UFJ Financial Group (MUFG) is an equal opportunity employer. We view 
     </article>
   
 
-    <article class="job" data-search="ai solution, analyst aia hong kong, hk-aia hong kong &amp; macau workday" data-company="AIA" data-source="Workday">
+    <article class="job" data-search="ai solution, analyst aia hong kong, hk-aia hong kong &amp; macau workday" data-company="AIA" data-source="Workday" data-graduate="true">
       <div class="job-top">
         <div class="role-cell">
           <div class="title">AI Solution, Analyst</div>
@@ -2211,7 +2212,7 @@ You must provide all requested information, including Personal Data, to be consi
     </article>
   
 
-    <article class="job" data-search="distribution marketing, corporate solutions, consultant aia hong kong, hk-aia hong kong &amp; macau workday" data-company="AIA" data-source="Workday">
+    <article class="job" data-search="distribution marketing, corporate solutions, consultant aia hong kong, hk-aia hong kong &amp; macau workday" data-company="AIA" data-source="Workday" data-graduate="true">
       <div class="job-top">
         <div class="role-cell">
           <div class="title">Distribution Marketing, Corporate Solutions, Consultant</div>
@@ -2259,7 +2260,7 @@ You must provide all requested information, including Personal Data, to be consi
     </article>
   
 
-    <article class="job" data-search="officer, clearing &amp; participant services, post trade operations (12 months contract) hkex hk-one es 30/f workday" data-company="HKEX" data-source="Workday">
+    <article class="job" data-search="officer, clearing &amp; participant services, post trade operations (12 months contract) hkex hk-one es 30/f workday" data-company="HKEX" data-source="Workday" data-graduate="true">
       <div class="job-top">
         <div class="role-cell">
           <div class="title">Officer, Clearing &amp; Participant Services, Post Trade Operations (12 months contract)</div>
@@ -2306,7 +2307,7 @@ Contract</pre></div>
     </article>
   
 
-    <article class="job" data-search="officer - depository &amp; participant services - operations hkex hk-cmp 6/f workday" data-company="HKEX" data-source="Workday">
+    <article class="job" data-search="officer - depository &amp; participant services - operations hkex hk-cmp 6/f workday" data-company="HKEX" data-source="Workday" data-graduate="true">
       <div class="job-top">
         <div class="role-cell">
           <div class="title">Officer - Depository &amp; Participant Services - Operations</div>
@@ -2354,7 +2355,7 @@ Permanent</pre></div>
     </article>
   
 
-    <article class="job" data-search="associate - derivatives trading operations (night shift) - operations hkex hk-two es 6/f workday" data-company="HKEX" data-source="Workday">
+    <article class="job" data-search="associate - derivatives trading operations (night shift) - operations hkex hk-two es 6/f workday" data-company="HKEX" data-source="Workday" data-graduate="true">
       <div class="job-top">
         <div class="role-cell">
           <div class="title">Associate - Derivatives Trading Operations (Night Shift) - Operations</div>
@@ -2401,7 +2402,7 @@ Permanent</pre></div>
     </article>
   
 
-    <article class="job" data-search="officer – nominee &amp; issuer service operations hkex hk-one es 21/f workday" data-company="HKEX" data-source="Workday">
+    <article class="job" data-search="officer – nominee &amp; issuer service operations hkex hk-one es 21/f workday" data-company="HKEX" data-source="Workday" data-graduate="true">
       <div class="job-top">
         <div class="role-cell">
           <div class="title">Officer – Nominee &amp; Issuer Service Operations</div>
@@ -2451,7 +2452,7 @@ Permanent</pre></div>
     </article>
   
 
-    <article class="job" data-search="associate - derivatives trading operations (mid shift) - operations hkex hk-two es 6/f workday" data-company="HKEX" data-source="Workday">
+    <article class="job" data-search="associate - derivatives trading operations (mid shift) - operations hkex hk-two es 6/f workday" data-company="HKEX" data-source="Workday" data-graduate="true">
       <div class="job-top">
         <div class="role-cell">
           <div class="title">Associate - Derivatives Trading Operations (Mid Shift) - Operations</div>
@@ -2504,7 +2505,7 @@ Permanent</pre></div>
     </article>
   
 
-    <article class="job" data-search="market administrator (trading tech support analyst) tp icap hong kong workday" data-company="TP ICAP" data-source="Workday">
+    <article class="job" data-search="market administrator (trading tech support analyst) tp icap hong kong workday" data-company="TP ICAP" data-source="Workday" data-graduate="true">
       <div class="job-top">
         <div class="role-cell">
           <div class="title">Market Administrator (Trading Tech Support Analyst)</div>
@@ -2576,7 +2577,7 @@ Hong Kong - 21st Floor - One Hennessy - Wan Chai</pre></div>
     </article>
   
 
-    <article class="job" data-search="core operations, officer state street hong kong, china workday" data-company="State Street" data-source="Workday">
+    <article class="job" data-search="core operations, officer state street hong kong, china workday" data-company="State Street" data-source="Workday" data-graduate="true">
       <div class="job-top">
         <div class="role-cell">
           <div class="title">Core Operations, Officer</div>
@@ -2663,7 +2664,7 @@ Read our CEO Statement</pre></div>
     </article>
   
 
-    <article class="job" data-search="client analyst (sales support) – intermediary neuberger berman hong kong workday" data-company="Neuberger Berman" data-source="Workday">
+    <article class="job" data-search="client analyst (sales support) – intermediary neuberger berman hong kong workday" data-company="Neuberger Berman" data-source="Workday" data-graduate="true">
       <div class="job-top">
         <div class="role-cell">
           <div class="title">Client Analyst (Sales Support) – Intermediary</div>
@@ -2700,7 +2701,7 @@ Learn about the Applicant Privacy Notice .</pre></div>
     </article>
   
 
-    <article class="job" data-search="associate, trade product (supply chain finance), global payments solutions, hong kong bank of america hong kong workday" data-company="Bank of America" data-source="Workday">
+    <article class="job" data-search="associate, trade product (supply chain finance), global payments solutions, hong kong bank of america hong kong workday" data-company="Bank of America" data-source="Workday" data-graduate="true">
       <div class="job-top">
         <div class="role-cell">
           <div class="title">Associate, Trade Product (Supply Chain Finance), Global Payments Solutions, Hong Kong</div>
@@ -2747,7 +2748,7 @@ Skills:
     </article>
   
 
-    <article class="job" data-search="officer, global markets operation uob hong kong (city area) workday" data-company="UOB" data-source="Workday">
+    <article class="job" data-search="officer, global markets operation uob hong kong (city area) workday" data-company="UOB" data-source="Workday" data-graduate="true">
       <div class="job-top">
         <div class="role-cell">
           <div class="title">Officer, Global Markets Operation</div>
@@ -2793,7 +2794,7 @@ Apply now and make a Difference</pre></div>
     </article>
   
 
-    <article class="job" data-search="product owner/business analyst- equities tp icap hong kong workday" data-company="TP ICAP" data-source="Workday">
+    <article class="job" data-search="product owner/business analyst- equities tp icap hong kong workday" data-company="TP ICAP" data-source="Workday" data-graduate="true">
       <div class="job-top">
         <div class="role-cell">
           <div class="title">Product Owner/Business Analyst- Equities</div>
@@ -2866,7 +2867,7 @@ Hong Kong - 21st Floor - One Hennessy - Wan Chai</pre></div>
     </article>
   
 
-    <article class="job" data-search="associate analyst, account management, launch graduate program 2027 – hong kong sar mastercard wanchai, hong kong workday" data-company="Mastercard" data-source="Workday">
+    <article class="job" data-search="associate analyst, account management, launch graduate program 2027 – hong kong sar mastercard wanchai, hong kong workday" data-company="Mastercard" data-source="Workday" data-graduate="true">
       <div class="job-top">
         <div class="role-cell">
           <div class="title">Associate Analyst, Account Management, Launch Graduate Program 2027 – Hong Kong SAR</div>
@@ -2914,7 +2915,7 @@ All activities involving access to Mastercard assets, information, and networks 
     </article>
   
 
-    <article class="job" data-search="associate analyst, business development, launch graduate program 2027 – hong kong sar mastercard wanchai, hong kong workday" data-company="Mastercard" data-source="Workday">
+    <article class="job" data-search="associate analyst, business development, launch graduate program 2027 – hong kong sar mastercard wanchai, hong kong workday" data-company="Mastercard" data-source="Workday" data-graduate="true">
       <div class="job-top">
         <div class="role-cell">
           <div class="title">Associate Analyst, Business Development, Launch Graduate Program 2027 – Hong Kong SAR</div>
@@ -2960,7 +2961,7 @@ All activities involving access to Mastercard assets, information, and networks 
     </article>
   
 
-    <article class="job" data-search="university graduate – asia pb sales fx &amp; pm 100% (f/m/d) julius baer hong kong workday" data-company="Julius Baer" data-source="Workday">
+    <article class="job" data-search="university graduate – asia pb sales fx &amp; pm 100% (f/m/d) julius baer hong kong workday" data-company="Julius Baer" data-source="Workday" data-graduate="true">
       <div class="job-top">
         <div class="role-cell">
           <div class="title">University Graduate – Asia PB Sales FX &amp; PM 100% (f/m/d)</div>
@@ -3007,7 +3008,7 @@ Is this not quite what you are looking for? Set up a job alert by creating a can
     </article>
   
 
-    <article class="job" data-search="frs firm financing sales, analyst/associate, isg management division morgan stanley hong kong workday" data-company="Morgan Stanley" data-source="Workday">
+    <article class="job" data-search="frs firm financing sales, analyst/associate, isg management division morgan stanley hong kong workday" data-company="Morgan Stanley" data-source="Workday" data-graduate="true">
       <div class="job-top">
         <div class="role-cell">
           <div class="title">FRS Firm Financing Sales, Analyst/Associate, ISG Management Division</div>
@@ -3054,7 +3055,7 @@ For more information, please visit: https://www.morganstanley.com/people-opportu
     </article>
   
 
-    <article class="job" data-search="quantitative trader (d1 liquidity) okx hong kong, hong kong sar greenhouse" data-company="OKX" data-source="Greenhouse">
+    <article class="job" data-search="quantitative trader (d1 liquidity) okx hong kong, hong kong sar greenhouse" data-company="OKX" data-source="Greenhouse" data-graduate="false">
       <div class="job-top">
         <div class="role-cell">
           <div class="title">Quantitative Trader (D1 Liquidity)</div>
@@ -3126,7 +3127,7 @@ Information collected and processed as part of the recruitment process of any jo
     </article>
   
 
-    <article class="job" data-search="macro insurance analyst, group investment consulting unit aia hong kong, hk-aia group office workday" data-company="AIA" data-source="Workday">
+    <article class="job" data-search="macro insurance analyst, group investment consulting unit aia hong kong, hk-aia group office workday" data-company="AIA" data-source="Workday" data-graduate="true">
       <div class="job-top">
         <div class="role-cell">
           <div class="title">Macro Insurance Analyst, Group Investment Consulting Unit</div>
@@ -3170,7 +3171,7 @@ You must provide all requested information, including Personal Data, to be consi
     </article>
   
 
-    <article class="job" data-search="investment bank financial crime kyc advisory officer barclays hong kong, cheung kong center workday" data-company="Barclays" data-source="Workday">
+    <article class="job" data-search="investment bank financial crime kyc advisory officer barclays hong kong, cheung kong center workday" data-company="Barclays" data-source="Workday" data-graduate="true">
       <div class="job-top">
         <div class="role-cell">
           <div class="title">Investment Bank Financial Crime KYC Advisory Officer</div>
@@ -3227,7 +3228,7 @@ Barclays is required by law to confirm that you have the Legal Right to Work in 
     </article>
   
 
-    <article class="job" data-search="analyst, finance process &amp; automation, regional finance, asia fti consulting hong kong workday" data-company="FTI Consulting" data-source="Workday">
+    <article class="job" data-search="analyst, finance process &amp; automation, regional finance, asia fti consulting hong kong workday" data-company="FTI Consulting" data-source="Workday" data-graduate="true">
       <div class="job-top">
         <div class="role-cell">
           <div class="title">Analyst, Finance Process &amp; Automation, Regional Finance, Asia</div>
@@ -3274,7 +3275,7 @@ FTI Consulting is an equal opportunity employer and does not discriminate on the
     </article>
   
 
-    <article class="job" data-search="markets – sales and trading, full time analyst, hong kong - 2027 citi hong kong  hong kong workday" data-company="Citi" data-source="Workday">
+    <article class="job" data-search="markets – sales and trading, full time analyst, hong kong - 2027 citi hong kong  hong kong workday" data-company="Citi" data-source="Workday" data-graduate="true">
       <div class="job-top">
         <div class="role-cell">
           <div class="title">Markets – Sales and Trading, Full Time Analyst, Hong Kong - 2027</div>
@@ -3326,7 +3327,7 @@ View Citi’s EEO Policy Statement and the Know Your Rights poster.</pre></div>
     </article>
   
 
-    <article class="job" data-search="client services analyst ss&amp;c technologies hong kong workday" data-company="SS&amp;C Technologies" data-source="Workday">
+    <article class="job" data-search="client services analyst ss&amp;c technologies hong kong workday" data-company="SS&amp;C Technologies" data-source="Workday" data-graduate="true">
       <div class="job-top">
         <div class="role-cell">
           <div class="title">Client Services Analyst</div>
@@ -3344,7 +3345,7 @@ View Citi’s EEO Policy Statement and the Know Your Rights poster.</pre></div>
     </article>
   
 
-    <article class="job" data-search="officer, clearing operations hkex hk-one es 30/f workday" data-company="HKEX" data-source="Workday">
+    <article class="job" data-search="officer, clearing operations hkex hk-one es 30/f workday" data-company="HKEX" data-source="Workday" data-graduate="true">
       <div class="job-top">
         <div class="role-cell">
           <div class="title">Officer, Clearing Operations</div>
@@ -3390,7 +3391,7 @@ Permanent</pre></div>
     </article>
   
 
-    <article class="job" data-search="associate, client service third bridge hong kong greenhouse" data-company="Third Bridge" data-source="Greenhouse">
+    <article class="job" data-search="associate, client service third bridge hong kong greenhouse" data-company="Third Bridge" data-source="Greenhouse" data-graduate="true">
       <div class="job-top">
         <div class="role-cell">
           <div class="title">Associate, Client Service</div>
@@ -3459,7 +3460,7 @@ We know that to be truly innovative, we need to have a diverse team around us. T
     </article>
   
 
-    <article class="job" data-search="financial analyst - financial restructuring, hong kong houlihan lokey hong kong, china workday" data-company="Houlihan Lokey" data-source="Workday">
+    <article class="job" data-search="financial analyst - financial restructuring, hong kong houlihan lokey hong kong, china workday" data-company="Houlihan Lokey" data-source="Workday" data-graduate="true">
       <div class="job-top">
         <div class="role-cell">
           <div class="title">Financial Analyst - Financial Restructuring, Hong Kong</div>
@@ -3477,7 +3478,7 @@ We know that to be truly innovative, we need to have a diverse team around us. T
     </article>
   
 
-    <article class="job" data-search="associate - financial restructuring, hong kong houlihan lokey hong kong, china workday" data-company="Houlihan Lokey" data-source="Workday">
+    <article class="job" data-search="associate - financial restructuring, hong kong houlihan lokey hong kong, china workday" data-company="Houlihan Lokey" data-source="Workday" data-graduate="true">
       <div class="job-top">
         <div class="role-cell">
           <div class="title">Associate - Financial Restructuring, Hong Kong</div>
@@ -3495,7 +3496,7 @@ We know that to be truly innovative, we need to have a diverse team around us. T
     </article>
   
 
-    <article class="job" data-search="sales development representative, sme &amp; growth, hk airwallex hk - hong kong sar ashby" data-company="Airwallex" data-source="Ashby">
+    <article class="job" data-search="sales development representative, sme &amp; growth, hk airwallex hk - hong kong sar ashby" data-company="Airwallex" data-source="Ashby" data-graduate="true">
       <div class="job-top">
         <div class="role-cell">
           <div class="title">Sales Development Representative, SME &amp; Growth, HK</div>
@@ -3545,7 +3546,7 @@ Airwallex is proud to be an equal opportunity employer. We value diversity and a
     </article>
   
 
-    <article class="job" data-search="graduate trader flow traders hong kong greenhouse" data-company="Flow Traders" data-source="Greenhouse">
+    <article class="job" data-search="graduate trader flow traders hong kong greenhouse" data-company="Flow Traders" data-source="Greenhouse" data-graduate="true">
       <div class="job-top">
         <div class="role-cell">
           <div class="title">Graduate Trader</div>
@@ -3576,7 +3577,7 @@ Flow Traders does not accept unsolicited resumes from any professional staffing 
     </article>
   
 
-    <article class="job" data-search="officer, derivatives trading operations (evening shift) hkex hk-two es 6/f workday" data-company="HKEX" data-source="Workday">
+    <article class="job" data-search="officer, derivatives trading operations (evening shift) hkex hk-two es 6/f workday" data-company="HKEX" data-source="Workday" data-graduate="true">
       <div class="job-top">
         <div class="role-cell">
           <div class="title">Officer, Derivatives Trading Operations (Evening Shift)</div>
@@ -3633,7 +3634,7 @@ Permanent</pre></div>
     </article>
   
 
-    <article class="job" data-search="analyst/associate – equity capital markets (china origination), hong kong goldman sachs hong kong workday" data-company="Goldman Sachs" data-source="Workday">
+    <article class="job" data-search="analyst/associate – equity capital markets (china origination), hong kong goldman sachs hong kong workday" data-company="Goldman Sachs" data-source="Workday" data-graduate="true">
       <div class="job-top">
         <div class="role-cell">
           <div class="title">Analyst/Associate – Equity Capital Markets (China Origination), Hong Kong</div>
@@ -3667,7 +3668,7 @@ Minimum Education Requirement: Bachelor’s degree in related field</pre></div>
     </article>
   
 
-    <article class="job" data-search="international private bank, analyst - china market jpmorgan chase hong kong the muse" data-company="JPMorgan Chase" data-source="The Muse">
+    <article class="job" data-search="international private bank, analyst - china market jpmorgan chase hong kong the muse" data-company="JPMorgan Chase" data-source="The Muse" data-graduate="true">
       <div class="job-top">
         <div class="role-cell">
           <div class="title">International Private Bank, Analyst - China Market</div>
@@ -3708,7 +3709,7 @@ J.P. Morgan Asset &amp; Wealth Management delivers industry-leading investment m
     </article>
   
 
-    <article class="job" data-search="associate, fixed income sales td bank hong kong the muse" data-company="TD Bank" data-source="The Muse">
+    <article class="job" data-search="associate, fixed income sales td bank hong kong the muse" data-company="TD Bank" data-source="The Muse" data-graduate="true">
       <div class="job-top">
         <div class="role-cell">
           <div class="title">Associate, Fixed Income Sales</div>
@@ -3783,7 +3784,7 @@ If you require an accommodation for the recruitment / interview process (includi
     </article>
   
 
-    <article class="job" data-search="equity research – analyst/associate, greater china technology hardware (hong kong) morgan stanley hong kong workday" data-company="Morgan Stanley" data-source="Workday">
+    <article class="job" data-search="equity research – analyst/associate, greater china technology hardware (hong kong) morgan stanley hong kong workday" data-company="Morgan Stanley" data-source="Workday" data-graduate="true">
       <div class="job-top">
         <div class="role-cell">
           <div class="title">Equity Research – Analyst/Associate, Greater China Technology Hardware (Hong Kong)</div>
@@ -3801,7 +3802,7 @@ If you require an accommodation for the recruitment / interview process (includi
     </article>
   
 
-    <article class="job" data-search="finance associate crypto.com hong kong lever" data-company="Crypto.com" data-source="Lever">
+    <article class="job" data-search="finance associate crypto.com hong kong lever" data-company="Crypto.com" data-source="Lever" data-graduate="true">
       <div class="job-top">
         <div class="role-cell">
           <div class="title">Finance Associate</div>
@@ -3819,7 +3820,7 @@ If you require an accommodation for the recruitment / interview process (includi
     </article>
   
 
-    <article class="job" data-search="graduate trader | 2027 intake eclipse trading hong kong greenhouse" data-company="Eclipse Trading" data-source="Greenhouse">
+    <article class="job" data-search="graduate trader | 2027 intake eclipse trading hong kong greenhouse" data-company="Eclipse Trading" data-source="Greenhouse" data-graduate="true">
       <div class="job-top">
         <div class="role-cell">
           <div class="title">Graduate Trader | 2027 Intake</div>
@@ -3857,7 +3858,7 @@ Due to the high number of responses that we receive, we are only able to respond
     </article>
   
 
-    <article class="job" data-search="international small cap research analyst fidelity 3 locations, boston, ma, hong kong, london, great britain workday" data-company="Fidelity" data-source="Workday">
+    <article class="job" data-search="international small cap research analyst fidelity 3 locations, boston, ma, hong kong, london, great britain workday" data-company="Fidelity" data-source="Workday" data-graduate="true">
       <div class="job-top">
         <div class="role-cell">
           <div class="title">International Small Cap Research Analyst</div>
@@ -3908,7 +3909,7 @@ Investment Professionals</pre></div>
     </article>
   
 
-    <article class="job" data-search="officer, equities delta 1 middle office analyst citi kowloon  hong kong workday" data-company="Citi" data-source="Workday">
+    <article class="job" data-search="officer, equities delta 1 middle office analyst citi kowloon  hong kong workday" data-company="Citi" data-source="Workday" data-graduate="true">
       <div class="job-top">
         <div class="role-cell">
           <div class="title">Officer, Equities Delta 1 Middle Office Analyst</div>
@@ -3978,15 +3979,16 @@ View Citi’s EEO Policy Statement and the Know Your Rights poster.</pre></div>
           const query = search.value.trim().toLowerCase();
           let visible = 0;
           jobs.forEach((job) => {
-            const match = (!query || job.dataset.search.includes(query)) && (!company.value || job.dataset.company === company.value) && (!source.value || job.dataset.source === source.value);
+          const match = (!query || job.dataset.search.includes(query)) && (!company.value || job.dataset.company === company.value) && (!source.value || job.dataset.source === source.value) && (!level.value || job.dataset.graduate === 'true');
             job.hidden = !match;
             if (match) visible += 1;
           });
           count.textContent = visible;
           empty.classList.toggle('visible', visible === 0);
         }
-        [search, company, source].forEach((control) => control.addEventListener('input', filterJobs));
-        document.querySelector('#clear').addEventListener('click', () => { search.value = ''; company.value = ''; source.value = ''; filterJobs(); search.focus(); });
+        const level = document.querySelector('#level');
+        [search, company, source, level].forEach((control) => control.addEventListener('input', filterJobs));
+        document.querySelector('#clear').addEventListener('click', () => { search.value = ''; company.value = ''; source.value = ''; level.value = ''; filterJobs(); search.focus(); });
       </script>
     </body>
   </html>
