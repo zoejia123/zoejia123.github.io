@@ -1,21 +1,21 @@
 [
   {
-    "id": "c1091870f7a17af97e1269e222f7cbc7",
+    "id": "f919bd07098c323bb35796a4885329e1",
     "title": "Quantitative Researcher",
     "company": "Jane Street",
     "location": "Hong Kong, Hong Kong",
     "source": "Greenhouse",
-    "apply_url": "https://www.janestreet.com/join-jane-street/apply/8754684002?gh_jid=8754684002",
-    "description": "About the position\nWe are looking for Quantitative Researchers to help us build models, strategies, and systems that price and trade financial instruments. You’ll work side by side with experienced researchers who are committed to teaching, guiding, and supporting our newest hires, learning how we think about experiment design, dataset generation, time series analysis, feature engineering, and model building for financial datasets.\nAt Jane Street, our researchers, engineers, and traders sit a few feet away from each other and work together to train models, architect systems, and run trading strategies. We work with petabytes of data, a computing cluster with hundreds of thousands of cores, and a growing GPU cluster containing tens of thousands of high-end GPUs. Depending on the day, we might be diving deep into market data, tuning hyperparameters, debugging distributed training performance, or studying how our model likes to trade in production.\nWe don’t believe in “one-size-fits-all” modelling solutions; we are open to and excited about applying all different types of statistical and ML techniques, from linear models to deep learning, depending on what best fits a given problem. The most successful researchers will be driven by a curiosity for how their contributions fit into the larger picture of our trading operations, and how to adapt their findings into actionable strategies.\nAbout you\nIf you’ve never thought about a career in finance, you’re in good company. Many of us were in the same position before working here. If you have a curious mind and a passion for solving interesting problems, we have a feeling you’ll fit right in. You should be:\n- Able to apply logical and mathematical thinking to all kinds of problems\n- Intellectually curious; eager to ask questions, admit mistakes, and learn new things\n- A strong programmer who’s comfortable with Python\n- An open-minded thinker and precise communicator who enjoys collaborating with colleagues from a wide range of backgrounds and areas of expertise\n- Fluent in English\nMost candidates will have experience with data science or machine learning, but ultimately, we’re more interested in how you think and learn than what you currently know. PhD or other research experience is a plus.\nIf you’d like to learn more, you can read about our interview process and meet some of the team .",
+    "apply_url": "https://www.janestreet.com/join-jane-street/apply/7514485002?gh_jid=7514485002",
+    "description": "About the Position\nWe are looking for Quantitative Researchers to help us build models, strategies and systems that price and trade financial instruments. You'll apply your experience in experiment design, dataset generation, time series analysis, feature engineering and model building to financial datasets, while collaborating with colleagues who will challenge and refine your approach.\nAt Jane Street, our researchers, engineers and traders sit a few feet away from each other and work together to train models, architect systems and run trading strategies. We work with petabytes of data and a growing GPU cluster containing tens of thousands of high-end GPUs. Depending on the day, we might be diving deep into market data, tuning hyperparameters, debugging distributed training performance or studying how our model likes to trade in production.\nWe don’t believe in “one-size-fits-all” modelling solutions; we are open to and excited about applying all different types of statistical and machine learning techniques, from linear models to deep learning, depending on what best fits a given problem. The most successful researchers will be driven by a curiosity for how their contributions fit into the larger picture of our trading operations, and how to adapt their findings into actionable strategies.\nAbout You\nIf you’ve never thought about a career in finance, you’re in good company. Many of us were in the same position before working here. If you have a curious mind and a passion for solving interesting problems, we have a feeling you’ll fit right in. You should be:\n- Able to apply logical and mathematical thinking to all kinds of problems\n- Intellectually curious; eager to ask questions, admit mistakes and learn new things\n- A strong programmer who’s comfortable with Python\n- An open-minded thinker and precise communicator who enjoys collaborating with colleagues from a wide range of backgrounds and areas of expertise\n- Fluent in English\nIf you're a recruiting agency and want to partner with us, please reach out to agency-partnerships@janestreet.com .",
     "category": "Quantitative Research",
     "salary_min": null,
     "salary_max": null,
     "currency": null,
-    "posted_at": "2026-10-17T09:23:57-04:00",
+    "posted_at": "2026-10-19T08:39:27-04:00",
     "active": true,
-    "first_seen_at": "2026-10-17T23:36:56.561Z",
-    "last_seen_at": "2026-10-18T23:47:41.421Z",
-    "updated_at": "2026-10-18T23:47:41.421Z"
+    "first_seen_at": "2026-10-20T00:47:44.878Z",
+    "last_seen_at": "2026-10-20T00:47:44.878Z",
+    "updated_at": "2026-10-20T00:47:44.878Z"
   },
   {
     "id": "b7717126eb840fbf7ab32fc891703d98",
@@ -29,11 +29,11 @@
     "salary_min": null,
     "salary_max": null,
     "currency": null,
-    "posted_at": "2026-10-17T09:23:57-04:00",
+    "posted_at": "2026-10-19T08:39:27-04:00",
     "active": true,
     "first_seen_at": "2026-10-17T23:36:56.561Z",
-    "last_seen_at": "2026-10-18T23:47:41.421Z",
-    "updated_at": "2026-10-18T23:47:41.421Z"
+    "last_seen_at": "2026-10-20T00:47:44.878Z",
+    "updated_at": "2026-10-20T00:47:44.878Z"
   },
   {
     "id": "ffa9d99524439462eb78fe4f682150df",
@@ -47,11 +47,11 @@
     "salary_min": null,
     "salary_max": null,
     "currency": null,
-    "posted_at": "2026-10-15T23:49:07.413Z",
+    "posted_at": "2026-10-16T00:49:03.203Z",
     "active": true,
     "first_seen_at": "2026-10-15T12:29:14.899Z",
-    "last_seen_at": "2026-10-18T23:47:41.421Z",
-    "updated_at": "2026-10-18T23:47:41.421Z"
+    "last_seen_at": "2026-10-20T00:47:44.878Z",
+    "updated_at": "2026-10-20T00:47:44.878Z"
   },
   {
     "id": "3ea0d959752ecc2ebbf0853a438a892f",
@@ -65,11 +65,11 @@
     "salary_min": null,
     "salary_max": null,
     "currency": null,
-    "posted_at": "2026-10-15T23:48:38.934Z",
+    "posted_at": "2026-10-16T00:48:53.097Z",
     "active": true,
     "first_seen_at": "2026-10-15T12:29:14.899Z",
-    "last_seen_at": "2026-10-18T23:47:41.421Z",
-    "updated_at": "2026-10-18T23:47:41.421Z"
+    "last_seen_at": "2026-10-20T00:47:44.878Z",
+    "updated_at": "2026-10-20T00:47:44.878Z"
   },
   {
     "id": "571f53376a2c102138d32fa733bf00c2",
@@ -83,11 +83,11 @@
     "salary_min": null,
     "salary_max": null,
     "currency": null,
-    "posted_at": "2026-10-15T23:48:26.046Z",
+    "posted_at": "2026-10-16T00:48:27.036Z",
     "active": true,
     "first_seen_at": "2026-08-29T09:05:24.640Z",
-    "last_seen_at": "2026-10-18T23:47:41.421Z",
-    "updated_at": "2026-10-18T23:47:41.421Z"
+    "last_seen_at": "2026-10-20T00:47:44.878Z",
+    "updated_at": "2026-10-20T00:47:44.878Z"
   },
   {
     "id": "e8825e9244bf64fb16a41190eb5728a1",
@@ -101,11 +101,11 @@
     "salary_min": null,
     "salary_max": null,
     "currency": null,
-    "posted_at": "2026-10-14T23:48:56.673Z",
+    "posted_at": "2026-10-15T00:48:56.046Z",
     "active": true,
     "first_seen_at": "2026-10-15T12:29:14.899Z",
-    "last_seen_at": "2026-10-18T23:47:41.421Z",
-    "updated_at": "2026-10-18T23:47:41.421Z"
+    "last_seen_at": "2026-10-20T00:47:44.878Z",
+    "updated_at": "2026-10-20T00:47:44.878Z"
   },
   {
     "id": "7a3bd5b9af9fff3ce79ca88f9004ea86",
@@ -119,11 +119,11 @@
     "salary_min": null,
     "salary_max": null,
     "currency": null,
-    "posted_at": "2026-10-14T23:48:24.041Z",
+    "posted_at": "2026-10-15T00:48:25.310Z",
     "active": true,
     "first_seen_at": "2026-10-15T00:10:59.772Z",
-    "last_seen_at": "2026-10-18T23:47:41.421Z",
-    "updated_at": "2026-10-18T23:47:41.421Z"
+    "last_seen_at": "2026-10-20T00:47:44.878Z",
+    "updated_at": "2026-10-20T00:47:44.878Z"
   },
   {
     "id": "c877ffa7bbbedf9fd90fa583d16abf35",
@@ -140,8 +140,8 @@
     "posted_at": "2026-10-14T06:01:35-04:00",
     "active": true,
     "first_seen_at": "2026-10-15T14:17:25.493Z",
-    "last_seen_at": "2026-10-18T23:47:41.421Z",
-    "updated_at": "2026-10-18T23:47:41.421Z"
+    "last_seen_at": "2026-10-20T00:47:44.878Z",
+    "updated_at": "2026-10-20T00:47:44.878Z"
   },
   {
     "id": "add2b179356ba5c961a00d2f688b379c",
@@ -155,11 +155,11 @@
     "salary_min": null,
     "salary_max": null,
     "currency": null,
-    "posted_at": "2026-10-13T23:49:26.257Z",
+    "posted_at": "2026-10-14T00:49:26.768Z",
     "active": true,
     "first_seen_at": "2026-10-03T10:13:23.386Z",
-    "last_seen_at": "2026-10-18T23:47:41.421Z",
-    "updated_at": "2026-10-18T23:47:41.421Z"
+    "last_seen_at": "2026-10-20T00:47:44.878Z",
+    "updated_at": "2026-10-20T00:47:44.878Z"
   },
   {
     "id": "f295e7b0abd1d42e24a3fdb5581a00cc",
@@ -176,8 +176,8 @@
     "posted_at": "2026-10-13T11:40:55-04:00",
     "active": true,
     "first_seen_at": "2026-10-15T14:17:25.493Z",
-    "last_seen_at": "2026-10-18T23:47:41.421Z",
-    "updated_at": "2026-10-18T23:47:41.421Z"
+    "last_seen_at": "2026-10-20T00:47:44.878Z",
+    "updated_at": "2026-10-20T00:47:44.878Z"
   },
   {
     "id": "13346d1ef41b68227cf8f18e7d60248d",
@@ -194,8 +194,8 @@
     "posted_at": "2026-10-13T00:33:19-04:00",
     "active": true,
     "first_seen_at": "2026-10-15T12:59:16.519Z",
-    "last_seen_at": "2026-10-18T23:47:41.421Z",
-    "updated_at": "2026-10-18T23:47:41.421Z"
+    "last_seen_at": "2026-10-20T00:47:44.878Z",
+    "updated_at": "2026-10-20T00:47:44.878Z"
   },
   {
     "id": "2c9987db2a847302b7603f50f5cae664",
@@ -209,11 +209,11 @@
     "salary_min": null,
     "salary_max": null,
     "currency": null,
-    "posted_at": "2026-10-12T23:48:38.615Z",
+    "posted_at": "2026-10-13T00:48:52.635Z",
     "active": true,
     "first_seen_at": "2026-10-13T02:45:55.266Z",
-    "last_seen_at": "2026-10-18T23:47:41.421Z",
-    "updated_at": "2026-10-18T23:47:41.421Z"
+    "last_seen_at": "2026-10-20T00:47:44.878Z",
+    "updated_at": "2026-10-20T00:47:44.878Z"
   },
   {
     "id": "1e1ced1381f5c2ca08ed087ef20de287",
@@ -227,11 +227,11 @@
     "salary_min": null,
     "salary_max": null,
     "currency": null,
-    "posted_at": "2026-10-08T23:48:24.819Z",
+    "posted_at": "2026-10-09T00:48:26.014Z",
     "active": true,
     "first_seen_at": "2026-08-29T09:05:24.640Z",
-    "last_seen_at": "2026-10-18T23:47:41.421Z",
-    "updated_at": "2026-10-18T23:47:41.421Z"
+    "last_seen_at": "2026-10-20T00:47:44.878Z",
+    "updated_at": "2026-10-20T00:47:44.878Z"
   },
   {
     "id": "25e7ca6f87919b27a24293daeab32ea1",
@@ -284,8 +284,8 @@
     "posted_at": "2026-10-06T12:14:37.515Z",
     "active": true,
     "first_seen_at": "2026-10-07T01:06:36.865Z",
-    "last_seen_at": "2026-10-18T23:47:41.421Z",
-    "updated_at": "2026-10-18T23:47:41.421Z"
+    "last_seen_at": "2026-10-20T00:47:44.878Z",
+    "updated_at": "2026-10-20T00:47:44.878Z"
   },
   {
     "id": "fed1f7a07e805388604c0280530b1524",
@@ -302,8 +302,8 @@
     "posted_at": "2026-10-06T12:10:48.282Z",
     "active": true,
     "first_seen_at": "2026-10-07T01:06:36.865Z",
-    "last_seen_at": "2026-10-18T23:47:41.421Z",
-    "updated_at": "2026-10-18T23:47:41.421Z"
+    "last_seen_at": "2026-10-20T00:47:44.878Z",
+    "updated_at": "2026-10-20T00:47:44.878Z"
   },
   {
     "id": "ef14699ab2f654bb00d0251d36ae7680",
@@ -320,8 +320,8 @@
     "posted_at": "2026-10-05T05:49:09.804Z",
     "active": true,
     "first_seen_at": "2026-10-06T01:58:40.100Z",
-    "last_seen_at": "2026-10-18T23:47:41.421Z",
-    "updated_at": "2026-10-18T23:47:41.421Z"
+    "last_seen_at": "2026-10-20T00:47:44.878Z",
+    "updated_at": "2026-10-20T00:47:44.878Z"
   },
   {
     "id": "b575e98b405fce3dc8ac3243a5aa994d",
@@ -335,11 +335,11 @@
     "salary_min": null,
     "salary_max": null,
     "currency": null,
-    "posted_at": "2026-10-02T23:49:04.885Z",
+    "posted_at": "2026-10-03T00:49:05.677Z",
     "active": true,
     "first_seen_at": "2026-10-15T12:29:14.899Z",
-    "last_seen_at": "2026-10-18T23:47:41.421Z",
-    "updated_at": "2026-10-18T23:47:41.421Z"
+    "last_seen_at": "2026-10-20T00:47:44.878Z",
+    "updated_at": "2026-10-20T00:47:44.878Z"
   },
   {
     "id": "fdc7e09168f28e1caf66c47a2fb80fa0",
@@ -392,8 +392,8 @@
     "posted_at": "2026-09-30T09:57:55.870Z",
     "active": true,
     "first_seen_at": "2026-10-01T00:54:36.301Z",
-    "last_seen_at": "2026-10-18T23:47:41.421Z",
-    "updated_at": "2026-10-18T23:47:41.421Z"
+    "last_seen_at": "2026-10-20T00:47:44.878Z",
+    "updated_at": "2026-10-20T00:47:44.878Z"
   },
   {
     "id": "b6b3f62ba9ea904832b1e4e4c0f14e54",
@@ -407,11 +407,11 @@
     "salary_min": null,
     "salary_max": null,
     "currency": null,
-    "posted_at": "2026-09-29T23:48:56.129Z",
+    "posted_at": "2026-09-30T00:48:58.238Z",
     "active": true,
     "first_seen_at": "2026-09-25T00:07:39.330Z",
-    "last_seen_at": "2026-10-18T23:47:41.421Z",
-    "updated_at": "2026-10-18T23:47:41.421Z"
+    "last_seen_at": "2026-10-20T00:47:44.878Z",
+    "updated_at": "2026-10-20T00:47:44.878Z"
   },
   {
     "id": "180221459a8466ecd2dd8f88eda44ac8",
@@ -425,11 +425,11 @@
     "salary_min": null,
     "salary_max": null,
     "currency": null,
-    "posted_at": "2026-09-29T23:48:39.856Z",
+    "posted_at": "2026-09-30T00:48:53.871Z",
     "active": true,
     "first_seen_at": "2026-09-30T00:51:40.848Z",
-    "last_seen_at": "2026-10-18T23:47:41.421Z",
-    "updated_at": "2026-10-18T23:47:41.421Z"
+    "last_seen_at": "2026-10-20T00:47:44.878Z",
+    "updated_at": "2026-10-20T00:47:44.878Z"
   },
   {
     "id": "29cf6e97d419bbf422c26788d8f11a3c",
@@ -445,9 +445,9 @@
     "currency": null,
     "posted_at": "2026-09-28T23:59:05-04:00",
     "active": true,
-    "first_seen_at": "2026-10-18T23:47:41.421Z",
-    "last_seen_at": "2026-10-18T23:47:41.421Z",
-    "updated_at": "2026-10-18T23:47:41.421Z"
+    "first_seen_at": "2026-10-20T00:47:44.878Z",
+    "last_seen_at": "2026-10-20T00:47:44.878Z",
+    "updated_at": "2026-10-20T00:47:44.878Z"
   },
   {
     "id": "300de373ae3590a4e48d4a212ba36e09",
@@ -479,11 +479,11 @@
     "salary_min": null,
     "salary_max": null,
     "currency": null,
-    "posted_at": "2026-09-24T23:48:16.975Z",
+    "posted_at": "2026-09-25T00:48:08.235Z",
     "active": true,
     "first_seen_at": "2026-09-25T00:07:39.330Z",
-    "last_seen_at": "2026-10-18T23:47:41.421Z",
-    "updated_at": "2026-10-18T23:47:41.421Z"
+    "last_seen_at": "2026-10-20T00:47:44.878Z",
+    "updated_at": "2026-10-20T00:47:44.878Z"
   },
   {
     "id": "7cee77b1bfcbace1c94dadaba412b5f7",
@@ -500,8 +500,8 @@
     "posted_at": "2026-09-23T01:42:38.564Z",
     "active": true,
     "first_seen_at": "2026-10-15T12:29:14.899Z",
-    "last_seen_at": "2026-10-18T23:47:41.421Z",
-    "updated_at": "2026-10-18T23:47:41.421Z"
+    "last_seen_at": "2026-10-20T00:47:44.878Z",
+    "updated_at": "2026-10-20T00:47:44.878Z"
   },
   {
     "id": "ff5d3b25f30bf1b4f77b01d5224f23e9",
@@ -518,8 +518,8 @@
     "posted_at": "2026-09-21T03:22:51-04:00",
     "active": true,
     "first_seen_at": "2026-09-21T12:05:06.441Z",
-    "last_seen_at": "2026-10-18T23:47:41.421Z",
-    "updated_at": "2026-10-18T23:47:41.421Z"
+    "last_seen_at": "2026-10-20T00:47:44.878Z",
+    "updated_at": "2026-10-20T00:47:44.878Z"
   },
   {
     "id": "4c2cc98df9d221a3d05b0976059ac2e7",
@@ -533,11 +533,11 @@
     "salary_min": null,
     "salary_max": null,
     "currency": null,
-    "posted_at": "2026-09-18T23:49:38.591Z",
+    "posted_at": "2026-09-20T00:49:49.642Z",
     "active": true,
     "first_seen_at": "2026-08-29T09:05:24.640Z",
-    "last_seen_at": "2026-10-18T23:47:41.421Z",
-    "updated_at": "2026-10-18T23:47:41.421Z"
+    "last_seen_at": "2026-10-20T00:47:44.878Z",
+    "updated_at": "2026-10-20T00:47:44.878Z"
   },
   {
     "id": "485ba0589f980485de384cba6dc9f586",
@@ -551,11 +551,11 @@
     "salary_min": null,
     "salary_max": null,
     "currency": null,
-    "posted_at": "2026-09-18T23:49:38.304Z",
+    "posted_at": "2026-09-20T00:49:49.325Z",
     "active": true,
     "first_seen_at": "2026-08-29T09:05:24.640Z",
-    "last_seen_at": "2026-10-18T23:47:41.421Z",
-    "updated_at": "2026-10-18T23:47:41.421Z"
+    "last_seen_at": "2026-10-20T00:47:44.878Z",
+    "updated_at": "2026-10-20T00:47:44.878Z"
   },
   {
     "id": "ebb0cebdd1befc89cc0a8183e3db3737",
@@ -569,11 +569,11 @@
     "salary_min": null,
     "salary_max": null,
     "currency": null,
-    "posted_at": "2026-09-18T23:49:37.320Z",
+    "posted_at": "2026-09-20T00:49:48.198Z",
     "active": true,
     "first_seen_at": "2026-08-28T03:54:32.234Z",
-    "last_seen_at": "2026-10-18T23:47:41.421Z",
-    "updated_at": "2026-10-18T23:47:41.421Z"
+    "last_seen_at": "2026-10-20T00:47:44.878Z",
+    "updated_at": "2026-10-20T00:47:44.878Z"
   },
   {
     "id": "7862ee5ef6b1d4099c91f4133b70da2d",
@@ -587,11 +587,11 @@
     "salary_min": null,
     "salary_max": null,
     "currency": null,
-    "posted_at": "2026-09-18T23:49:26.689Z",
+    "posted_at": "2026-09-20T00:49:27.526Z",
     "active": true,
     "first_seen_at": "2026-08-28T03:54:32.234Z",
-    "last_seen_at": "2026-10-18T23:47:41.421Z",
-    "updated_at": "2026-10-18T23:47:41.421Z"
+    "last_seen_at": "2026-10-20T00:47:44.878Z",
+    "updated_at": "2026-10-20T00:47:44.878Z"
   },
   {
     "id": "33f297ebd8be7113e0dd3a09e0b57fe6",
@@ -605,29 +605,11 @@
     "salary_min": null,
     "salary_max": null,
     "currency": null,
-    "posted_at": "2026-09-18T23:49:04.208Z",
+    "posted_at": "2026-09-20T00:49:05.280Z",
     "active": true,
     "first_seen_at": "2026-09-15T00:04:11.096Z",
-    "last_seen_at": "2026-10-18T23:47:41.421Z",
-    "updated_at": "2026-10-18T23:47:41.421Z"
-  },
-  {
-    "id": "a7f631eb5afb56947f3f0257553b3c68",
-    "title": "MUFG Analyst Programme 2027 – Global Corporate Banking",
-    "company": "MUFG",
-    "location": "Hong Kong - Airside, Hong Kong - Airside",
-    "source": "Workday",
-    "apply_url": "https://mufgub.wd3.myworkdayjobs.com/MUFG-Careers/job/Hong-Kong---Airside/MUFG-Analyst-Programme-2027---Global-Corporate-Banking_10079444-WD-1",
-    "description": "Do you want your voice heard and your actions to count?\nDiscover your opportunity with Mitsubishi UFJ Financial Group (MUFG), one of the world’s leading financial groups. Across the globe, we’re 150,000 colleagues, striving to make a difference for every client, organization, and community we serve. We stand for our values, building long-term relationships, serving society, and fostering shared and sustainable growth for a better world.\nWith a vision to be the world’s most trusted financial group, it’s part of our culture to put people first, listen to new and diverse ideas and collaborate toward greater innovation, speed and agility. This means investing in talent, technologies, and tools that empower you to own your career.\nJoin MUFG, where being inspired is expected and making a meaningful impact is rewarded.\nAbout MUFG Bank\nMUFG Bank, Ltd. is Japan’s premier bank, with a global network spanning around 40 markets. Outside of Japan, the bank offers an extensive scope of commercial and investment banking products and services to businesses, governments and individuals worldwide.\nMUFG Bank’s parent, Mitsubishi UFJ Financial Group, Inc. (MUFG) is one of the world’s leading financial groups. Headquartered in Tokyo and with over 360 years of history, MUFG has a global network with approximately 2,000 locations in more than 40 markets. The Group has about 120,000 employees and offers services including commercial banking, trust banking, securities, credit cards, consumer finance, asset management, and leasing. The Group aims to “be the world’s most trusted financial group” through close collaboration among our operating companies and flexibly respond to all of the financial needs of our customers, serving society, and fostering shared and sustainable growth for a better world. MUFG’s shares trade on the Tokyo, Nagoya, and New York stock exchanges. For more information, visit https://www.mufg.jp/english .\nMUFG Analyst Programme 2027 – Global Corporate Banking\nMUFG Bank, Ltd. Hong Kong Branch\nKickstart your career with our prestigious MUFG Analyst Programme - tailored for talented graduates who are keen to embark on a rewarding and challenging career in the banking sector. While developing your expertise through a well-designed curriculum, there will be opportunities to collaborate with our key stakeholders to steer changes and success within MUFG. You will be provided guidance by mentors, interact with senior management and build robust networks to accelerate your growth within a top-tier international bank. Join us and be a part of legacy that empowers you to make a lasting impact.\nWe are currently offering opportunities for you to build a foundation for a successful career in Global Corporate Banking. Work alongside corporate banking colleagues supporting relationship management, client analysis and the development of solutions for local and multinational corporate clients. The role offers exposure to cross-border business, internal product partners and disciplined risk-aware decision-making.\nThe calibre we are looking for\n- Commercial curiosity and a genuine interest in corporate clients and banking solutions.\n- Structured thinking, sound judgement and the ability to connect client needs with broader market developments.\n- Clear communication, stakeholder awareness and confidence working across teams.\n- Strong attention to detail, ownership and respect for risk and controls.\n- Interest in cross-border business and MUFG's regional and global network.\nWhat you can expect in the programme\n- An extensive 2-year job rotation journey across teams & product offices;\n- Network-wide ongoing development programme with potential overseas training opportunity;\n- Outside-in exposure events including company visits and external training;\n- Regular career coaching from HR & direct managers;\n- Wide range of staff engagement activities to build up internal network.\nJob Requirements:\n- Bachelor’s degree or higher with less than 1 year’s postgraduate full time work experience;\n- Students pursuing Business, Finance, Economics, Accounting or other relevant disciplines are preferred;\n- Strong team player with excellent interpersonal, communication and stakeholder-management skills;\n- Demonstrated commercial awareness and an interest in corporate clients, financial markets and cross-border banking solutions;\n- Proficiency in English and Cantonese is required. Fluency in Mandarin would be an advantage;\n- Self-motivated with a genuine interest in pursuing a career in corporate banking and relationship management;\n- Strong analytical and problem-solving skills, with the ability to conduct research and present information clearly; and\n- Willingness to learn, take ownership and demonstrate a proactive, can-do attitude.\nApplication Method :\nUp for the challenge with MUFG? Apply through our career website.\nApplication will now be extended to 31 December 2026. You will be contacted for next steps in Jan 2027.\nPersonal data collected will be used for recruitment purposes only. For our Privacy Policy, please visit: https://www.mufgamericas.com/candidate-privacy-policies-by-country\nWe regret to inform that only shortlisted applicants will be notified.\nMitsubishi UFJ Financial Group (MUFG) is an equal opportunity employer. We view our employees as our key assets as they are fundamental to our long-term growth and success. MUFG is committed to hiring based on merit and organsational fit, regardless of race, religion or gender.",
-    "category": null,
-    "salary_min": null,
-    "salary_max": null,
-    "currency": null,
-    "posted_at": "2026-09-18T23:49:03.774Z",
-    "active": true,
-    "first_seen_at": "2026-09-15T00:04:11.096Z",
-    "last_seen_at": "2026-10-18T23:47:41.421Z",
-    "updated_at": "2026-10-18T23:47:41.421Z"
+    "last_seen_at": "2026-10-20T00:47:44.878Z",
+    "updated_at": "2026-10-20T00:47:44.878Z"
   },
   {
     "id": "700c5f7149b62fd66568a6246282b958",
@@ -641,11 +623,29 @@
     "salary_min": null,
     "salary_max": null,
     "currency": null,
-    "posted_at": "2026-09-18T23:49:03.593Z",
+    "posted_at": "2026-09-20T00:49:05.255Z",
     "active": true,
     "first_seen_at": "2026-09-08T14:04:29.177Z",
-    "last_seen_at": "2026-10-18T23:47:41.421Z",
-    "updated_at": "2026-10-18T23:47:41.421Z"
+    "last_seen_at": "2026-10-20T00:47:44.878Z",
+    "updated_at": "2026-10-20T00:47:44.878Z"
+  },
+  {
+    "id": "a7f631eb5afb56947f3f0257553b3c68",
+    "title": "MUFG Analyst Programme 2027 – Global Corporate Banking",
+    "company": "MUFG",
+    "location": "Hong Kong - Airside, Hong Kong - Airside",
+    "source": "Workday",
+    "apply_url": "https://mufgub.wd3.myworkdayjobs.com/MUFG-Careers/job/Hong-Kong---Airside/MUFG-Analyst-Programme-2027---Global-Corporate-Banking_10079444-WD-1",
+    "description": "Do you want your voice heard and your actions to count?\nDiscover your opportunity with Mitsubishi UFJ Financial Group (MUFG), one of the world’s leading financial groups. Across the globe, we’re 150,000 colleagues, striving to make a difference for every client, organization, and community we serve. We stand for our values, building long-term relationships, serving society, and fostering shared and sustainable growth for a better world.\nWith a vision to be the world’s most trusted financial group, it’s part of our culture to put people first, listen to new and diverse ideas and collaborate toward greater innovation, speed and agility. This means investing in talent, technologies, and tools that empower you to own your career.\nJoin MUFG, where being inspired is expected and making a meaningful impact is rewarded.\nAbout MUFG Bank\nMUFG Bank, Ltd. is Japan’s premier bank, with a global network spanning around 40 markets. Outside of Japan, the bank offers an extensive scope of commercial and investment banking products and services to businesses, governments and individuals worldwide.\nMUFG Bank’s parent, Mitsubishi UFJ Financial Group, Inc. (MUFG) is one of the world’s leading financial groups. Headquartered in Tokyo and with over 360 years of history, MUFG has a global network with approximately 2,000 locations in more than 40 markets. The Group has about 120,000 employees and offers services including commercial banking, trust banking, securities, credit cards, consumer finance, asset management, and leasing. The Group aims to “be the world’s most trusted financial group” through close collaboration among our operating companies and flexibly respond to all of the financial needs of our customers, serving society, and fostering shared and sustainable growth for a better world. MUFG’s shares trade on the Tokyo, Nagoya, and New York stock exchanges. For more information, visit https://www.mufg.jp/english .\nMUFG Analyst Programme 2027 – Global Corporate Banking\nMUFG Bank, Ltd. Hong Kong Branch\nKickstart your career with our prestigious MUFG Analyst Programme - tailored for talented graduates who are keen to embark on a rewarding and challenging career in the banking sector. While developing your expertise through a well-designed curriculum, there will be opportunities to collaborate with our key stakeholders to steer changes and success within MUFG. You will be provided guidance by mentors, interact with senior management and build robust networks to accelerate your growth within a top-tier international bank. Join us and be a part of legacy that empowers you to make a lasting impact.\nWe are currently offering opportunities for you to build a foundation for a successful career in Global Corporate Banking. Work alongside corporate banking colleagues supporting relationship management, client analysis and the development of solutions for local and multinational corporate clients. The role offers exposure to cross-border business, internal product partners and disciplined risk-aware decision-making.\nThe calibre we are looking for\n- Commercial curiosity and a genuine interest in corporate clients and banking solutions.\n- Structured thinking, sound judgement and the ability to connect client needs with broader market developments.\n- Clear communication, stakeholder awareness and confidence working across teams.\n- Strong attention to detail, ownership and respect for risk and controls.\n- Interest in cross-border business and MUFG's regional and global network.\nWhat you can expect in the programme\n- An extensive 2-year job rotation journey across teams & product offices;\n- Network-wide ongoing development programme with potential overseas training opportunity;\n- Outside-in exposure events including company visits and external training;\n- Regular career coaching from HR & direct managers;\n- Wide range of staff engagement activities to build up internal network.\nJob Requirements:\n- Bachelor’s degree or higher with less than 1 year’s postgraduate full time work experience;\n- Students pursuing Business, Finance, Economics, Accounting or other relevant disciplines are preferred;\n- Strong team player with excellent interpersonal, communication and stakeholder-management skills;\n- Demonstrated commercial awareness and an interest in corporate clients, financial markets and cross-border banking solutions;\n- Proficiency in English and Cantonese is required. Fluency in Mandarin would be an advantage;\n- Self-motivated with a genuine interest in pursuing a career in corporate banking and relationship management;\n- Strong analytical and problem-solving skills, with the ability to conduct research and present information clearly; and\n- Willingness to learn, take ownership and demonstrate a proactive, can-do attitude.\nApplication Method :\nUp for the challenge with MUFG? Apply through our career website.\nApplication will now be extended to 31 December 2026. You will be contacted for next steps in Jan 2027.\nPersonal data collected will be used for recruitment purposes only. For our Privacy Policy, please visit: https://www.mufgamericas.com/candidate-privacy-policies-by-country\nWe regret to inform that only shortlisted applicants will be notified.\nMitsubishi UFJ Financial Group (MUFG) is an equal opportunity employer. We view our employees as our key assets as they are fundamental to our long-term growth and success. MUFG is committed to hiring based on merit and organsational fit, regardless of race, religion or gender.",
+    "category": null,
+    "salary_min": null,
+    "salary_max": null,
+    "currency": null,
+    "posted_at": "2026-09-20T00:49:04.856Z",
+    "active": true,
+    "first_seen_at": "2026-09-15T00:04:11.096Z",
+    "last_seen_at": "2026-10-20T00:47:44.878Z",
+    "updated_at": "2026-10-20T00:47:44.878Z"
   },
   {
     "id": "0d3995adedc07fc875d1bc1733edecfe",
@@ -659,11 +659,11 @@
     "salary_min": null,
     "salary_max": null,
     "currency": null,
-    "posted_at": "2026-09-18T23:49:03.326Z",
+    "posted_at": "2026-09-20T00:49:04.456Z",
     "active": true,
     "first_seen_at": "2026-09-15T00:04:11.096Z",
-    "last_seen_at": "2026-10-18T23:47:41.421Z",
-    "updated_at": "2026-10-18T23:47:41.421Z"
+    "last_seen_at": "2026-10-20T00:47:44.878Z",
+    "updated_at": "2026-10-20T00:47:44.878Z"
   },
   {
     "id": "9f02c5e15ff4d1d4459bcaf486a6ae6f",
@@ -677,11 +677,11 @@
     "salary_min": null,
     "salary_max": null,
     "currency": null,
-    "posted_at": "2026-09-18T23:49:02.465Z",
+    "posted_at": "2026-09-20T00:49:03.695Z",
     "active": true,
     "first_seen_at": "2026-08-28T03:54:32.234Z",
-    "last_seen_at": "2026-10-18T23:47:41.421Z",
-    "updated_at": "2026-10-18T23:47:41.421Z"
+    "last_seen_at": "2026-10-20T00:47:44.878Z",
+    "updated_at": "2026-10-20T00:47:44.878Z"
   },
   {
     "id": "793127fb30691bec818d8f8e9766a08d",
@@ -695,11 +695,11 @@
     "salary_min": null,
     "salary_max": null,
     "currency": null,
-    "posted_at": "2026-09-18T23:49:00.719Z",
+    "posted_at": "2026-09-20T00:48:57.891Z",
     "active": true,
     "first_seen_at": "2026-10-15T12:29:14.899Z",
-    "last_seen_at": "2026-10-18T23:47:41.421Z",
-    "updated_at": "2026-10-18T23:47:41.421Z"
+    "last_seen_at": "2026-10-20T00:47:44.878Z",
+    "updated_at": "2026-10-20T00:47:44.878Z"
   },
   {
     "id": "6546cf284cfbddcb7ef030df18c25845",
@@ -713,11 +713,11 @@
     "salary_min": null,
     "salary_max": null,
     "currency": null,
-    "posted_at": "2026-09-18T23:48:28.402Z",
+    "posted_at": "2026-09-20T00:48:29.478Z",
     "active": true,
     "first_seen_at": "2026-09-02T23:40:31.243Z",
-    "last_seen_at": "2026-10-18T23:47:41.421Z",
-    "updated_at": "2026-10-18T23:47:41.421Z"
+    "last_seen_at": "2026-10-20T00:47:44.878Z",
+    "updated_at": "2026-10-20T00:47:44.878Z"
   },
   {
     "id": "4a2aa74a261069f908d2b87c74b49c5c",
@@ -731,11 +731,47 @@
     "salary_min": null,
     "salary_max": null,
     "currency": null,
-    "posted_at": "2026-09-18T23:48:28.011Z",
+    "posted_at": "2026-09-20T00:48:29.127Z",
     "active": true,
     "first_seen_at": "2026-10-01T00:54:36.301Z",
-    "last_seen_at": "2026-10-18T23:47:41.421Z",
-    "updated_at": "2026-10-18T23:47:41.421Z"
+    "last_seen_at": "2026-10-20T00:47:44.878Z",
+    "updated_at": "2026-10-20T00:47:44.878Z"
+  },
+  {
+    "id": "cb558c299659ea342ee8dd7107fb0db4",
+    "title": "Officer – Nominee & Issuer Service Operations",
+    "company": "HKEX",
+    "location": "HK-ONE ES 21/F, HK-ONE ES 21/F",
+    "source": "Workday",
+    "apply_url": "https://hkex.wd3.myworkdayjobs.com/HKEXCareerPage/job/HK-ONE-ES-21F/Officer---Nominee---Issuer-Service-Operations_R004416",
+    "description": "Company Introduction:\nWe’re home to Asia's most dynamic and vibrant capital markets.\nConnecting capital, ideas, inspiration and innovation for deeper, more diverse and liquid global capital markets; providing greater choice and opportunity for our customers, each and every day.\nHKEX is a purpose-driven company. Our commitment to the long-term development of our business and our markets is articulated in our purpose: \"To Connect, Promote and Progress our Markets and the Communities they support for the prosperity of all.\"\nJob Summary:\nThe Issuer Platform Support team manages and supports HKEX's issuer-facing regulatory filing systems, including ESS and DION, which facilitate issuer disclosures on the HKEXnews website. The team handles hotline support, user enquiries, system operations, enhancement projects and testing activities.\nWe are now seeking a high-calibre individual to join our team. The successful candidate will provide operational and user support for HKEX's issuer-facing systems, assist in project and testing activities, and contribute to the continuous enhancement of our services and platforms.\nJob Duties:\nJob Responsibilities\n- Handle enquiries on matters relating to various regulatory filings systems, ensuring timely and professional support\n- Support regulatory filing services to enable listed issuers to publish disclosure documents\n- Assist in project delivery by gathering and documenting user requirements, coordinating and executing user acceptance testing (UAT), and supporting system implementation and rollout activities\n- Provide operational support such as strategic reporting and database management\n- Undertake other ad hoc tasks as assigned by supervisor\nJob Requirements\n- University degree in Finance, Business Administration, Economics, or a related discipline\n- 1-2 years’ relevant experience in reputable financial institutions\n- Good knowledge of the financial service industry and securities market operations\n- Strong organizational skills, task prioritization, attention to detail, and problem-solving skills\n- Self-starter, highly motivated with strong interpersonal and communication skills\n- Proficient in Microsoft Office applications, particularly Excel, Word, and PowerPoint\n- Good command of written and spoken English and Chinese. Proficiency in Putonghua is essential\n- Willing to work shift duty, including early mornings, evenings and public holidays\n- Fresh Graduates are welcome\nHKEX is committed as an Equal Opportunity Employer. Diversity is one of our core values and we look to support, respect diverse perspectives, abilities, culture and experiences within our workplace.\nLocation:\nHKEX - Exchange Square\nShift:\nStandard - 40 Hours (Hong Kong SAR)\nScheduled Weekly Hours:\n40\nWorker Type:\nPermanent",
+    "category": null,
+    "salary_min": null,
+    "salary_max": null,
+    "currency": null,
+    "posted_at": "2026-09-20T00:48:27.607Z",
+    "active": true,
+    "first_seen_at": "2026-09-15T23:48:51.314Z",
+    "last_seen_at": "2026-10-20T00:47:44.878Z",
+    "updated_at": "2026-10-20T00:47:44.878Z"
+  },
+  {
+    "id": "63adc5d86474c74a12a2145da4fc664e",
+    "title": "Market Administrator (Trading Tech Support Analyst)",
+    "company": "TP ICAP",
+    "location": "Hong Kong, Hong Kong",
+    "source": "Workday",
+    "apply_url": "https://tp.wd107.myworkdayjobs.com/TP-ICAP/job/Hong-Kong/Market-Administrator--Trading-Tech-Support-Analyst-_R5395-1",
+    "description": "Group Overview:\nThe TP ICAP Group is a world leading provider of market infrastructure.\nOur purpose is to provide clients with access to global financial and commodities markets, improving price discovery, liquidity, and distribution of data, through responsible and innovative solutions.\nThrough our people and technology, we connect clients to superior liquidity and data solutions.\nThe Group is home to a stable of premium brands. Collectively, TP ICAP is the largest interdealer broker in the world by revenue, the number one Energy & Commodities broker in the world, the world’s leading provider of OTC data, and an award winning all-to-all trading platform.\nThe Group operates from more than 60 offices in 27 countries.  We are 5,300 people strong.  We work as one to achieve our vision of being the world’s most trusted, innovative, liquidity and data solutions specialist.\nRole Overview:\nThe Market Administrator plays a critical role in supporting the front office trading platforms and ensuring seamless trade execution and system performance. This role combines technical expertise, client service, and leadership to manage platform support, incident resolution, and stakeholder engagement. The Senior Market Administrator also mentors junior team members and contributes to strategic initiatives and platform enhancements.\nGuided by TP ICAP’s Triple-A Values—Accountability, Authenticity, and Adaptability —this position fosters a culture of ownership, transparency, and continuous improvement across the team and broader organization\nRole Responsibilities:\nPlatform & Trade Support\n- Provide first- and second-line support for trading platforms, including incident management, trade issue investigation, and resolution.\n- Monitor system logs, outputs, and support chats to proactively identify and resolve issues.\n- Ensure data accuracy and perform ongoing maintenance of platform configurations.\n- Support and test new software releases and upgrades, including out-of-hours coverage when required.\n- Client & Stakeholder Engagement\n- Act as a key liaison with internal stakeholders (brokers, traders, business managers) and external clients (banks, vendors).\n- Handle escalations and maintain strong client relationships with a service-oriented approach.\n- Assist in client onboarding, account maintenance, and credit matrix updates.\nTriple-A Values in Action\n- Accountability: Owns outcomes, delivers on commitments, and ensures operational excellence across all responsibilities.\n- Authenticity: Acts with integrity, communicates transparently, and builds trust with clients and colleagues.\n- Adaptability: Embraces change, responds effectively to evolving business needs, and drives continuous improvement.\n- Leadership & Documentation\n- Lead project initiatives and contribute to workflow and system improvements.\n- Mentor and train associate-level team members.\n- Maintain and enhance team documentation, procedures, and technical manuals.\n- Participate in cross-training and contribute to global knowledge sharing.\n- Technical & Operational Excellence\n- Support deployment and integration of trading platforms (e.g., Java Webstart, STP, API).\n- Liaise with third-party vendors (e.g., ION, Markit, Traiana, ICE, Reuters) as needed.\n- Ensure compliance with internal policies, risk controls, and regulatory requirements.\n- Log and track incidents using ServiceNow and contribute to risk assessments and reviews.\nSkills & Experience\nTechnical Competencies\n- Strong understanding of trade flows and trading systems.\n- Experience with system administration, data processing, and XML/log analysis. Familiarity with network tracing and MS Office tools.\n- High technical competency and ability to troubleshoot complex issues.\nProfessional Attributes\n- Excellent communication skills (verbal and written).\n- Strong client-facing and interpersonal skills.\n- Highly organized, detail-oriented, and proactive.\n- Demonstrated ability to lead, mentor, and work collaboratively in a team.\n- Resilient under pressure and adaptable to fast-paced environments.\nPreferred Background\n- Experience in financial services, preferably in credit, rates, FX or other trading environments.\n- Prior experience in a market support or technical operations role.\n- Knowledge of OTC markets and electronic trading platforms.\n- Profiles with deeper market knowledge can be considered for a Senior Market Administrator role.\nNot The Perfect Fit?\nConcerned that you may not meet the criteria precisely? At TP ICAP, we wholeheartedly believe in fostering inclusivity and cultivating a work environment where everyone can flourish, regardless of your personal or professional background. If you are enthusiastic about this role but find that your experience doesn't align perfectly with every aspect of the job description, we strongly encourage you to apply. You may be the ideal candidate for this position or another opportunity within our organisation. Our dedicated Talent Acquisition team is here to assist you in recognising how your unique skills and abilities can be a valuable contribution. Don't hesitate to take the leap and explore the possibilities. Your potential is what truly matters to us.\nCompany Statement\nWe know that the best innovation happens when diverse people with different perspectives and skills work together in an inclusive atmosphere. That's why we're building a culture where everyone plays a part in making people feel welcome, ready and willing to contribute. TP ICAP Accord - our Employee Network - is a central to this. As well as representing specific groups, TP ICAP Accord helps increase awareness, collaboration, shares best practice, and holds our firm to account for driving continuous cultural improvement.\nLocation\nHong Kong - 21st Floor - One Hennessy - Wan Chai",
+    "category": null,
+    "salary_min": null,
+    "salary_max": null,
+    "currency": null,
+    "posted_at": "2026-09-20T00:48:09.361Z",
+    "active": true,
+    "first_seen_at": "2026-08-29T03:53:52.727Z",
+    "last_seen_at": "2026-10-20T00:47:44.878Z",
+    "updated_at": "2026-10-20T00:47:44.878Z"
   },
   {
     "id": "3bb2589a4af763a905e8bea7fc1fb1c3",
@@ -770,42 +806,6 @@
     "posted_at": "2026-09-18T23:48:26.851Z",
     "active": true,
     "first_seen_at": "2026-08-28T03:54:32.234Z",
-    "last_seen_at": "2026-10-18T23:47:41.421Z",
-    "updated_at": "2026-10-18T23:47:41.421Z"
-  },
-  {
-    "id": "cb558c299659ea342ee8dd7107fb0db4",
-    "title": "Officer – Nominee & Issuer Service Operations",
-    "company": "HKEX",
-    "location": "HK-ONE ES 21/F, HK-ONE ES 21/F",
-    "source": "Workday",
-    "apply_url": "https://hkex.wd3.myworkdayjobs.com/HKEXCareerPage/job/HK-ONE-ES-21F/Officer---Nominee---Issuer-Service-Operations_R004416",
-    "description": "Company Introduction:\nWe’re home to Asia's most dynamic and vibrant capital markets.\nConnecting capital, ideas, inspiration and innovation for deeper, more diverse and liquid global capital markets; providing greater choice and opportunity for our customers, each and every day.\nHKEX is a purpose-driven company. Our commitment to the long-term development of our business and our markets is articulated in our purpose: \"To Connect, Promote and Progress our Markets and the Communities they support for the prosperity of all.\"\nJob Summary:\nThe Issuer Platform Support team manages and supports HKEX's issuer-facing regulatory filing systems, including ESS and DION, which facilitate issuer disclosures on the HKEXnews website. The team handles hotline support, user enquiries, system operations, enhancement projects and testing activities.\nWe are now seeking a high-calibre individual to join our team. The successful candidate will provide operational and user support for HKEX's issuer-facing systems, assist in project and testing activities, and contribute to the continuous enhancement of our services and platforms.\nJob Duties:\nJob Responsibilities\n- Handle enquiries on matters relating to various regulatory filings systems, ensuring timely and professional support\n- Support regulatory filing services to enable listed issuers to publish disclosure documents\n- Assist in project delivery by gathering and documenting user requirements, coordinating and executing user acceptance testing (UAT), and supporting system implementation and rollout activities\n- Provide operational support such as strategic reporting and database management\n- Undertake other ad hoc tasks as assigned by supervisor\nJob Requirements\n- University degree in Finance, Business Administration, Economics, or a related discipline\n- 1-2 years’ relevant experience in reputable financial institutions\n- Good knowledge of the financial service industry and securities market operations\n- Strong organizational skills, task prioritization, attention to detail, and problem-solving skills\n- Self-starter, highly motivated with strong interpersonal and communication skills\n- Proficient in Microsoft Office applications, particularly Excel, Word, and PowerPoint\n- Good command of written and spoken English and Chinese. Proficiency in Putonghua is essential\n- Willing to work shift duty, including early mornings, evenings and public holidays\n- Fresh Graduates are welcome\nHKEX is committed as an Equal Opportunity Employer. Diversity is one of our core values and we look to support, respect diverse perspectives, abilities, culture and experiences within our workplace.\nLocation:\nHKEX - Exchange Square\nShift:\nStandard - 40 Hours (Hong Kong SAR)\nScheduled Weekly Hours:\n40\nWorker Type:\nPermanent",
-    "category": null,
-    "salary_min": null,
-    "salary_max": null,
-    "currency": null,
-    "posted_at": "2026-09-18T23:48:26.454Z",
-    "active": true,
-    "first_seen_at": "2026-09-15T23:48:51.314Z",
-    "last_seen_at": "2026-10-18T23:47:41.421Z",
-    "updated_at": "2026-10-18T23:47:41.421Z"
-  },
-  {
-    "id": "63adc5d86474c74a12a2145da4fc664e",
-    "title": "Market Administrator (Trading Tech Support Analyst)",
-    "company": "TP ICAP",
-    "location": "Hong Kong, Hong Kong",
-    "source": "Workday",
-    "apply_url": "https://tp.wd107.myworkdayjobs.com/TP-ICAP/job/Hong-Kong/Market-Administrator--Trading-Tech-Support-Analyst-_R5395-1",
-    "description": "Group Overview:\nThe TP ICAP Group is a world leading provider of market infrastructure.\nOur purpose is to provide clients with access to global financial and commodities markets, improving price discovery, liquidity, and distribution of data, through responsible and innovative solutions.\nThrough our people and technology, we connect clients to superior liquidity and data solutions.\nThe Group is home to a stable of premium brands. Collectively, TP ICAP is the largest interdealer broker in the world by revenue, the number one Energy & Commodities broker in the world, the world’s leading provider of OTC data, and an award winning all-to-all trading platform.\nThe Group operates from more than 60 offices in 27 countries.  We are 5,300 people strong.  We work as one to achieve our vision of being the world’s most trusted, innovative, liquidity and data solutions specialist.\nRole Overview:\nThe Market Administrator plays a critical role in supporting the front office trading platforms and ensuring seamless trade execution and system performance. This role combines technical expertise, client service, and leadership to manage platform support, incident resolution, and stakeholder engagement. The Senior Market Administrator also mentors junior team members and contributes to strategic initiatives and platform enhancements.\nGuided by TP ICAP’s Triple-A Values—Accountability, Authenticity, and Adaptability —this position fosters a culture of ownership, transparency, and continuous improvement across the team and broader organization\nRole Responsibilities:\nPlatform & Trade Support\n- Provide first- and second-line support for trading platforms, including incident management, trade issue investigation, and resolution.\n- Monitor system logs, outputs, and support chats to proactively identify and resolve issues.\n- Ensure data accuracy and perform ongoing maintenance of platform configurations.\n- Support and test new software releases and upgrades, including out-of-hours coverage when required.\n- Client & Stakeholder Engagement\n- Act as a key liaison with internal stakeholders (brokers, traders, business managers) and external clients (banks, vendors).\n- Handle escalations and maintain strong client relationships with a service-oriented approach.\n- Assist in client onboarding, account maintenance, and credit matrix updates.\nTriple-A Values in Action\n- Accountability: Owns outcomes, delivers on commitments, and ensures operational excellence across all responsibilities.\n- Authenticity: Acts with integrity, communicates transparently, and builds trust with clients and colleagues.\n- Adaptability: Embraces change, responds effectively to evolving business needs, and drives continuous improvement.\n- Leadership & Documentation\n- Lead project initiatives and contribute to workflow and system improvements.\n- Mentor and train associate-level team members.\n- Maintain and enhance team documentation, procedures, and technical manuals.\n- Participate in cross-training and contribute to global knowledge sharing.\n- Technical & Operational Excellence\n- Support deployment and integration of trading platforms (e.g., Java Webstart, STP, API).\n- Liaise with third-party vendors (e.g., ION, Markit, Traiana, ICE, Reuters) as needed.\n- Ensure compliance with internal policies, risk controls, and regulatory requirements.\n- Log and track incidents using ServiceNow and contribute to risk assessments and reviews.\nSkills & Experience\nTechnical Competencies\n- Strong understanding of trade flows and trading systems.\n- Experience with system administration, data processing, and XML/log analysis. Familiarity with network tracing and MS Office tools.\n- High technical competency and ability to troubleshoot complex issues.\nProfessional Attributes\n- Excellent communication skills (verbal and written).\n- Strong client-facing and interpersonal skills.\n- Highly organized, detail-oriented, and proactive.\n- Demonstrated ability to lead, mentor, and work collaboratively in a team.\n- Resilient under pressure and adaptable to fast-paced environments.\nPreferred Background\n- Experience in financial services, preferably in credit, rates, FX or other trading environments.\n- Prior experience in a market support or technical operations role.\n- Knowledge of OTC markets and electronic trading platforms.\n- Profiles with deeper market knowledge can be considered for a Senior Market Administrator role.\nNot The Perfect Fit?\nConcerned that you may not meet the criteria precisely? At TP ICAP, we wholeheartedly believe in fostering inclusivity and cultivating a work environment where everyone can flourish, regardless of your personal or professional background. If you are enthusiastic about this role but find that your experience doesn't align perfectly with every aspect of the job description, we strongly encourage you to apply. You may be the ideal candidate for this position or another opportunity within our organisation. Our dedicated Talent Acquisition team is here to assist you in recognising how your unique skills and abilities can be a valuable contribution. Don't hesitate to take the leap and explore the possibilities. Your potential is what truly matters to us.\nCompany Statement\nWe know that the best innovation happens when diverse people with different perspectives and skills work together in an inclusive atmosphere. That's why we're building a culture where everyone plays a part in making people feel welcome, ready and willing to contribute. TP ICAP Accord - our Employee Network - is a central to this. As well as representing specific groups, TP ICAP Accord helps increase awareness, collaboration, shares best practice, and holds our firm to account for driving continuous cultural improvement.\nLocation\nHong Kong - 21st Floor - One Hennessy - Wan Chai",
-    "category": null,
-    "salary_min": null,
-    "salary_max": null,
-    "currency": null,
-    "posted_at": "2026-09-18T23:48:09.677Z",
-    "active": true,
-    "first_seen_at": "2026-08-29T03:53:52.727Z",
     "last_seen_at": "2026-10-18T23:47:41.421Z",
     "updated_at": "2026-10-18T23:47:41.421Z"
   },
@@ -877,9 +877,9 @@
     "currency": null,
     "posted_at": "2026-09-17T02:05:23-04:00",
     "active": true,
-    "first_seen_at": "2026-10-18T23:47:41.421Z",
-    "last_seen_at": "2026-10-18T23:47:41.421Z",
-    "updated_at": "2026-10-18T23:47:41.421Z"
+    "first_seen_at": "2026-10-20T00:47:44.878Z",
+    "last_seen_at": "2026-10-20T00:47:44.878Z",
+    "updated_at": "2026-10-20T00:47:44.878Z"
   },
   {
     "id": "e01b766865473590ac117f71ce101706",
@@ -896,8 +896,8 @@
     "posted_at": "2026-09-16T08:28:13-04:00",
     "active": true,
     "first_seen_at": "2026-10-15T14:17:25.493Z",
-    "last_seen_at": "2026-10-18T23:47:41.421Z",
-    "updated_at": "2026-10-18T23:47:41.421Z"
+    "last_seen_at": "2026-10-20T00:47:44.878Z",
+    "updated_at": "2026-10-20T00:47:44.878Z"
   },
   {
     "id": "6a532d05ee701af901958b708ece94fc",
@@ -950,8 +950,8 @@
     "posted_at": "2026-09-15T23:48:30.862Z",
     "active": true,
     "first_seen_at": "2026-09-15T23:48:51.314Z",
-    "last_seen_at": "2026-10-18T23:47:41.421Z",
-    "updated_at": "2026-10-18T23:47:41.421Z"
+    "last_seen_at": "2026-10-20T00:47:44.878Z",
+    "updated_at": "2026-10-20T00:47:44.878Z"
   },
   {
     "id": "4f7ca7402d6daa47b1634fc84287307e",
@@ -968,8 +968,8 @@
     "posted_at": "2026-09-15T17:33:58-04:00",
     "active": true,
     "first_seen_at": "2026-10-15T14:17:25.493Z",
-    "last_seen_at": "2026-10-18T23:47:41.421Z",
-    "updated_at": "2026-10-18T23:47:41.421Z"
+    "last_seen_at": "2026-10-20T00:47:44.878Z",
+    "updated_at": "2026-10-20T00:47:44.878Z"
   },
   {
     "id": "59a047f87595c4f9a4397de509507144",
@@ -1094,8 +1094,8 @@
     "posted_at": "2026-09-10T03:33:27-04:00",
     "active": true,
     "first_seen_at": "2026-09-10T23:32:33.961Z",
-    "last_seen_at": "2026-10-18T23:47:41.421Z",
-    "updated_at": "2026-10-18T23:47:41.421Z"
+    "last_seen_at": "2026-10-20T00:47:44.878Z",
+    "updated_at": "2026-10-20T00:47:44.878Z"
   },
   {
     "id": "d44af1c4ddb8d78c944984aea8d41414",
@@ -1220,8 +1220,8 @@
     "posted_at": "2026-09-04T08:20:25-04:00",
     "active": true,
     "first_seen_at": "2026-10-15T12:59:16.519Z",
-    "last_seen_at": "2026-10-18T23:47:41.421Z",
-    "updated_at": "2026-10-18T23:47:41.421Z"
+    "last_seen_at": "2026-10-20T00:47:44.878Z",
+    "updated_at": "2026-10-20T00:47:44.878Z"
   },
   {
     "id": "houlihan-lokey-financial-analyst-financial-restructuring-hong-kong-20260904",
@@ -1274,8 +1274,8 @@
     "posted_at": "2026-09-01T04:41:30.489+00:00",
     "active": true,
     "first_seen_at": "2026-09-01T23:39:53.995Z",
-    "last_seen_at": "2026-10-18T23:47:41.421Z",
-    "updated_at": "2026-10-18T23:47:41.421Z"
+    "last_seen_at": "2026-10-20T00:47:44.878Z",
+    "updated_at": "2026-10-20T00:47:44.878Z"
   },
   {
     "id": "4f9a67b86791e73afc9fb4703dcaa1db",
@@ -1292,8 +1292,8 @@
     "posted_at": "2026-08-31T23:25:22-04:00",
     "active": true,
     "first_seen_at": "2026-10-15T14:17:25.493Z",
-    "last_seen_at": "2026-10-18T23:47:41.421Z",
-    "updated_at": "2026-10-18T23:47:41.421Z"
+    "last_seen_at": "2026-10-20T00:47:44.878Z",
+    "updated_at": "2026-10-20T00:47:44.878Z"
   },
   {
     "id": "faf8a0a81095bb1556f7cd23e37637f3",
@@ -1418,8 +1418,8 @@
     "posted_at": "2026-08-20T03:43:59-04:00",
     "active": true,
     "first_seen_at": "2026-10-15T14:17:25.493Z",
-    "last_seen_at": "2026-10-18T23:47:41.421Z",
-    "updated_at": "2026-10-18T23:47:41.421Z"
+    "last_seen_at": "2026-10-20T00:47:44.878Z",
+    "updated_at": "2026-10-20T00:47:44.878Z"
   },
   {
     "id": "c78162c9449cbd7aa1b837cd880d9e40",
