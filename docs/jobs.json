@@ -1,5 +1,59 @@
 [
   {
+    "id": "fe86b842aabb1318b7ef598bcf404120",
+    "title": "Business & AI Process Automation Analyst",
+    "company": "Crypto.com",
+    "location": "Hong Kong",
+    "source": "Lever",
+    "apply_url": "https://jobs.lever.co/crypto/bc9b829d-77a4-436d-85ba-d8973c461b54",
+    "description": "About the role\nWe are looking for a Senior Business Operations Associate to help run an AI-native operating environment across people, AI agents, and cross-functional teams.\nThis is a high-ownership business operations role for someone who combines strong business judgement with enough technical fluency. You will help turn AI-agent capabilities into reliable production workflows, keep teams aligned in real time, and ensure that AI-heavy processes have clear ownership, quality standards, handoffs, and escalation paths.\nThe role sits at the intersection of business operations, product operations, technology, and digital assets. You will need to move quickly, communicate clearly, understand changing market context, and remain dependable when urgent internal issues arise.",
+    "category": "Corporate Development",
+    "salary_min": null,
+    "salary_max": null,
+    "currency": null,
+    "posted_at": "2026-10-20T06:23:09.880Z",
+    "active": true,
+    "first_seen_at": "2026-10-21T00:13:40.782Z",
+    "last_seen_at": "2026-10-21T00:13:40.782Z",
+    "updated_at": "2026-10-21T00:13:40.782Z"
+  },
+  {
+    "id": "e53fdc2860f1966bdece07bea65d0176",
+    "title": "2027 Quantitative Trader Graduate (DV QES)",
+    "company": "DV Trading",
+    "location": "Hong Kong",
+    "source": "Greenhouse",
+    "apply_url": "https://job-boards.greenhouse.io/dvtrading/jobs/4691298005",
+    "description": "About Us:\nFounded two decades ago and headquartered in Chicago, the DV Group of financial services firms has grown to more than 600 people across North America, Europe and Asia. Since becoming an independent proprietary trading firm in 2016, DV Trading has scaled rapidly using its own capital, strategies and risk management to provide liquidity to markets worldwide. DV Group affiliates today include two broker-dealers, a cryptocurrency market maker and a growing investment adviser.\nDV Equities is the group's Asia-Pacific equities and futures market-making business, trading cash equities, ETFs, index futures and related products on exchanges across the region.\nOverview:\nAs a Quantitative Trader Graduate, you will join our DV Equities desk and participate in the execution and risk management of systematic trading strategies across global equity markets, learning our proprietary methodologies and systems through hands-on experience. You will work closely with senior traders and quantitative researchers to develop, refine, and monitor data-driven trading models. This role is designed for graduates with a strong quantitative foundation, a genuine curiosity about markets, and a willingness to grow in a fast-paced environment.\nResponsibilities:\n- Work closely with senior traders to learn proprietary methodologies and quantitative trading systems\n- Participate in the execution and risk management of systematic trading strategies, including trade execution and risk layoffs\n- Build, maintain, and improve quantitative trading models using historical market and orderbook data\n- Analyze large datasets to identify patterns, inefficiencies, and new alpha opportunities for systematic strategies\n- Enhance existing strategies and identify new opportunities through data-driven research\n- Liaise between the trading desk, internal teams, and OTC relationships\n- Monitor live trading performance and iterate on models based on real-time market feedback\n- Additional responsibilities may be driven by the individual's interests and skills\nRequirements:\n- Currently pursuing a Bachelor's, Master's, or PhD in a quantitative field (Mathematics, Statistics, Economics, Computer Science, Physics, Engineering, or related), with an expected graduation by Summer 2027\n- Strong proficiency in Python; experience with SQL, statistical modeling, or C++ is highly preferred\n- Strong foundation in math, probability, and statistics\n- Genuine interest in financial markets, algorithmic trading, and market microstructure\n- Demonstrated ability to learn quickly and perform in a fast-paced, high-pressure environment\n- Ability to maintain composure and communicate clearly under pressure\n- Exceptional problem-solving ability and multitasking skills\n- Prior internship experience in trading, quantitative research, or data analysis is a plus\nDV is not accepting unsolicited resumes from search firms. Only search firms with valid, written agreements with DV should submit resumes in response to DV’s posted positions. All resumes submitted by search firms to DV via e-mail, the Internet, personal delivery, facsimile, or any other method without a valid written agreement shall be deemed the sole property of DV, and no fee will be paid in the event the candidate is hired by DV. DV is proud to be an equal opportunity employer and committed to creating an inclusive environment for all employees.",
+    "category": "DV Equities",
+    "salary_min": null,
+    "salary_max": null,
+    "currency": null,
+    "posted_at": "2026-10-20T00:09:56-04:00",
+    "active": true,
+    "first_seen_at": "2026-10-21T00:13:40.782Z",
+    "last_seen_at": "2026-10-21T00:13:40.782Z",
+    "updated_at": "2026-10-21T00:13:40.782Z"
+  },
+  {
+    "id": "29cf6e97d419bbf422c26788d8f11a3c",
+    "title": "2027 Quantitative Researcher Graduate (DV QES)",
+    "company": "DV Trading",
+    "location": "Hong Kong",
+    "source": "Greenhouse",
+    "apply_url": "https://job-boards.greenhouse.io/dvtrading/jobs/4736954005",
+    "description": "About Us :\nFounded two decades ago and headquartered in Chicago, the DV Group of financial services firms has grown to more than 600 people across North America, Europe and Asia. Since becoming an independent proprietary trading firm in 2016, DV Trading has scaled rapidly using its own capital, strategies and risk management to provide liquidity to markets worldwide. DV Group affiliates today include two broker-dealers, a cryptocurrency market maker and a growing investment adviser.\nDV Equities is the group's Asia-Pacific equities and futures market-making business, trading cash equities, ETFs, index futures and related products on exchanges across the region.\nOverview:\nWe are looking for a 2027 Quantitative Researcher (Graduate) to join our equities team, where you will take direct ownership of systematic signal generation across multiple time horizons. This role is ideal for recent graduates with a strong quantitative foundation and hands-on experience in either high-frequency orderbook research or longer-term signal generation—whether through academic projects, prior internships, or independent research. You will work side-by-side with our senior researchers and traders to explore market data, develop predictive signals, and build models that directly inform real trading decisions.\nResponsibilities:\n- Analyze market data to uncover patterns, inefficiencies, and predictive signals across different time horizons\n- Build and backtest quantitative models using historical market data in a simulation environment\n- Apply statistical and machine learning techniques—with an emphasis on tree-based methods—to enhance signal quality\n- Collaborate closely with traders and researchers to translate research insights into robust trading strategies\n- Contribute to the development and maintenance of data pipelines for large-scale, high-frequency, and time-series market data\n- Iterate on research prototypes based on backtest results and team feedback, with increasing independence\n- Monitor live strategy performance and refine models based on real market feedback\nRequirements:\n- Currently pursuing a Bachelor's, Master's, or PhD in a quantitative field (Mathematics, Statistics, Economics, Computer Science, Physics, Engineering, or related), with an expected graduation by Summer 2027\n- Strong proficiency in Python; experience with SQL, statistical modeling, or C++ is highly preferred\n- Strong foundation in math, probability, and statistics\n- Genuine interest in financial markets, algorithmic trading, and market microstructure\n- Demonstrated ability to learn quickly and perform in a fast-paced, high-pressure environment\n- Ability to maintain composure and communicate clearly under pressure\n- Exceptional problem-solving ability and multitasking skills\n- Prior internship experience in trading, quantitative research, or data analysis is a plus\nDV is not accepting unsolicited resumes from search firms. Only search firms with valid, written agreements with DV should submit resumes in response to DV ’s posted positions. All resumes submitted by search firms to DV via e-mail, the Internet, personal delivery, facsimile, or any other method without a valid written agreement shall be deemed the sole property of DV , and no fee will be paid in the event the candidate is hired by DV . DV is proud to be an equal opportunity employer and committed to creating an inclusive environment for all employees.",
+    "category": "DV Equities",
+    "salary_min": null,
+    "salary_max": null,
+    "currency": null,
+    "posted_at": "2026-10-20T00:05:22-04:00",
+    "active": true,
+    "first_seen_at": "2026-10-21T00:13:40.782Z",
+    "last_seen_at": "2026-10-21T00:13:40.782Z",
+    "updated_at": "2026-10-21T00:13:40.782Z"
+  },
+  {
     "id": "f919bd07098c323bb35796a4885329e1",
     "title": "Quantitative Researcher",
     "company": "Jane Street",
@@ -14,8 +68,8 @@
     "posted_at": "2026-10-19T08:39:27-04:00",
     "active": true,
     "first_seen_at": "2026-10-20T00:47:44.878Z",
-    "last_seen_at": "2026-10-20T00:47:44.878Z",
-    "updated_at": "2026-10-20T00:47:44.878Z"
+    "last_seen_at": "2026-10-21T00:13:40.782Z",
+    "updated_at": "2026-10-21T00:13:40.782Z"
   },
   {
     "id": "b7717126eb840fbf7ab32fc891703d98",
@@ -32,8 +86,8 @@
     "posted_at": "2026-10-19T08:39:27-04:00",
     "active": true,
     "first_seen_at": "2026-10-17T23:36:56.561Z",
-    "last_seen_at": "2026-10-20T00:47:44.878Z",
-    "updated_at": "2026-10-20T00:47:44.878Z"
+    "last_seen_at": "2026-10-21T00:13:40.782Z",
+    "updated_at": "2026-10-21T00:13:40.782Z"
   },
   {
     "id": "ffa9d99524439462eb78fe4f682150df",
@@ -47,11 +101,11 @@
     "salary_min": null,
     "salary_max": null,
     "currency": null,
-    "posted_at": "2026-10-16T00:49:03.203Z",
+    "posted_at": "2026-10-16T00:15:06.509Z",
     "active": true,
     "first_seen_at": "2026-10-15T12:29:14.899Z",
-    "last_seen_at": "2026-10-20T00:47:44.878Z",
-    "updated_at": "2026-10-20T00:47:44.878Z"
+    "last_seen_at": "2026-10-21T00:13:40.782Z",
+    "updated_at": "2026-10-21T00:13:40.782Z"
   },
   {
     "id": "3ea0d959752ecc2ebbf0853a438a892f",
@@ -65,11 +119,11 @@
     "salary_min": null,
     "salary_max": null,
     "currency": null,
-    "posted_at": "2026-10-16T00:48:53.097Z",
+    "posted_at": "2026-10-16T00:14:51.272Z",
     "active": true,
     "first_seen_at": "2026-10-15T12:29:14.899Z",
-    "last_seen_at": "2026-10-20T00:47:44.878Z",
-    "updated_at": "2026-10-20T00:47:44.878Z"
+    "last_seen_at": "2026-10-21T00:13:40.782Z",
+    "updated_at": "2026-10-21T00:13:40.782Z"
   },
   {
     "id": "571f53376a2c102138d32fa733bf00c2",
@@ -83,11 +137,11 @@
     "salary_min": null,
     "salary_max": null,
     "currency": null,
-    "posted_at": "2026-10-16T00:48:27.036Z",
+    "posted_at": "2026-10-16T00:14:25.410Z",
     "active": true,
     "first_seen_at": "2026-08-29T09:05:24.640Z",
-    "last_seen_at": "2026-10-20T00:47:44.878Z",
-    "updated_at": "2026-10-20T00:47:44.878Z"
+    "last_seen_at": "2026-10-21T00:13:40.782Z",
+    "updated_at": "2026-10-21T00:13:40.782Z"
   },
   {
     "id": "e8825e9244bf64fb16a41190eb5728a1",
@@ -101,11 +155,11 @@
     "salary_min": null,
     "salary_max": null,
     "currency": null,
-    "posted_at": "2026-10-15T00:48:56.046Z",
+    "posted_at": "2026-10-15T00:14:44.557Z",
     "active": true,
     "first_seen_at": "2026-10-15T12:29:14.899Z",
-    "last_seen_at": "2026-10-20T00:47:44.878Z",
-    "updated_at": "2026-10-20T00:47:44.878Z"
+    "last_seen_at": "2026-10-21T00:13:40.782Z",
+    "updated_at": "2026-10-21T00:13:40.782Z"
   },
   {
     "id": "7a3bd5b9af9fff3ce79ca88f9004ea86",
@@ -119,11 +173,11 @@
     "salary_min": null,
     "salary_max": null,
     "currency": null,
-    "posted_at": "2026-10-15T00:48:25.310Z",
+    "posted_at": "2026-10-15T00:14:22.875Z",
     "active": true,
     "first_seen_at": "2026-10-15T00:10:59.772Z",
-    "last_seen_at": "2026-10-20T00:47:44.878Z",
-    "updated_at": "2026-10-20T00:47:44.878Z"
+    "last_seen_at": "2026-10-21T00:13:40.782Z",
+    "updated_at": "2026-10-21T00:13:40.782Z"
   },
   {
     "id": "c877ffa7bbbedf9fd90fa583d16abf35",
@@ -140,8 +194,8 @@
     "posted_at": "2026-10-14T06:01:35-04:00",
     "active": true,
     "first_seen_at": "2026-10-15T14:17:25.493Z",
-    "last_seen_at": "2026-10-20T00:47:44.878Z",
-    "updated_at": "2026-10-20T00:47:44.878Z"
+    "last_seen_at": "2026-10-21T00:13:40.782Z",
+    "updated_at": "2026-10-21T00:13:40.782Z"
   },
   {
     "id": "add2b179356ba5c961a00d2f688b379c",
@@ -155,11 +209,11 @@
     "salary_min": null,
     "salary_max": null,
     "currency": null,
-    "posted_at": "2026-10-14T00:49:26.768Z",
+    "posted_at": "2026-10-14T00:15:04.877Z",
     "active": true,
     "first_seen_at": "2026-10-03T10:13:23.386Z",
-    "last_seen_at": "2026-10-20T00:47:44.878Z",
-    "updated_at": "2026-10-20T00:47:44.878Z"
+    "last_seen_at": "2026-10-21T00:13:40.782Z",
+    "updated_at": "2026-10-21T00:13:40.782Z"
   },
   {
     "id": "f295e7b0abd1d42e24a3fdb5581a00cc",
@@ -176,8 +230,8 @@
     "posted_at": "2026-10-13T11:40:55-04:00",
     "active": true,
     "first_seen_at": "2026-10-15T14:17:25.493Z",
-    "last_seen_at": "2026-10-20T00:47:44.878Z",
-    "updated_at": "2026-10-20T00:47:44.878Z"
+    "last_seen_at": "2026-10-21T00:13:40.782Z",
+    "updated_at": "2026-10-21T00:13:40.782Z"
   },
   {
     "id": "13346d1ef41b68227cf8f18e7d60248d",
@@ -194,8 +248,8 @@
     "posted_at": "2026-10-13T00:33:19-04:00",
     "active": true,
     "first_seen_at": "2026-10-15T12:59:16.519Z",
-    "last_seen_at": "2026-10-20T00:47:44.878Z",
-    "updated_at": "2026-10-20T00:47:44.878Z"
+    "last_seen_at": "2026-10-21T00:13:40.782Z",
+    "updated_at": "2026-10-21T00:13:40.782Z"
   },
   {
     "id": "2c9987db2a847302b7603f50f5cae664",
@@ -209,11 +263,11 @@
     "salary_min": null,
     "salary_max": null,
     "currency": null,
-    "posted_at": "2026-10-13T00:48:52.635Z",
+    "posted_at": "2026-10-13T00:14:50.876Z",
     "active": true,
     "first_seen_at": "2026-10-13T02:45:55.266Z",
-    "last_seen_at": "2026-10-20T00:47:44.878Z",
-    "updated_at": "2026-10-20T00:47:44.878Z"
+    "last_seen_at": "2026-10-21T00:13:40.782Z",
+    "updated_at": "2026-10-21T00:13:40.782Z"
   },
   {
     "id": "1e1ced1381f5c2ca08ed087ef20de287",
@@ -227,11 +281,11 @@
     "salary_min": null,
     "salary_max": null,
     "currency": null,
-    "posted_at": "2026-10-09T00:48:26.014Z",
+    "posted_at": "2026-10-09T00:14:23.969Z",
     "active": true,
     "first_seen_at": "2026-08-29T09:05:24.640Z",
-    "last_seen_at": "2026-10-20T00:47:44.878Z",
-    "updated_at": "2026-10-20T00:47:44.878Z"
+    "last_seen_at": "2026-10-21T00:13:40.782Z",
+    "updated_at": "2026-10-21T00:13:40.782Z"
   },
   {
     "id": "25e7ca6f87919b27a24293daeab32ea1",
@@ -284,8 +338,8 @@
     "posted_at": "2026-10-06T12:14:37.515Z",
     "active": true,
     "first_seen_at": "2026-10-07T01:06:36.865Z",
-    "last_seen_at": "2026-10-20T00:47:44.878Z",
-    "updated_at": "2026-10-20T00:47:44.878Z"
+    "last_seen_at": "2026-10-21T00:13:40.782Z",
+    "updated_at": "2026-10-21T00:13:40.782Z"
   },
   {
     "id": "fed1f7a07e805388604c0280530b1524",
@@ -302,8 +356,8 @@
     "posted_at": "2026-10-06T12:10:48.282Z",
     "active": true,
     "first_seen_at": "2026-10-07T01:06:36.865Z",
-    "last_seen_at": "2026-10-20T00:47:44.878Z",
-    "updated_at": "2026-10-20T00:47:44.878Z"
+    "last_seen_at": "2026-10-21T00:13:40.782Z",
+    "updated_at": "2026-10-21T00:13:40.782Z"
   },
   {
     "id": "ef14699ab2f654bb00d0251d36ae7680",
@@ -320,8 +374,8 @@
     "posted_at": "2026-10-05T05:49:09.804Z",
     "active": true,
     "first_seen_at": "2026-10-06T01:58:40.100Z",
-    "last_seen_at": "2026-10-20T00:47:44.878Z",
-    "updated_at": "2026-10-20T00:47:44.878Z"
+    "last_seen_at": "2026-10-21T00:13:40.782Z",
+    "updated_at": "2026-10-21T00:13:40.782Z"
   },
   {
     "id": "b575e98b405fce3dc8ac3243a5aa994d",
@@ -392,8 +446,8 @@
     "posted_at": "2026-09-30T09:57:55.870Z",
     "active": true,
     "first_seen_at": "2026-10-01T00:54:36.301Z",
-    "last_seen_at": "2026-10-20T00:47:44.878Z",
-    "updated_at": "2026-10-20T00:47:44.878Z"
+    "last_seen_at": "2026-10-21T00:13:40.782Z",
+    "updated_at": "2026-10-21T00:13:40.782Z"
   },
   {
     "id": "b6b3f62ba9ea904832b1e4e4c0f14e54",
@@ -407,11 +461,11 @@
     "salary_min": null,
     "salary_max": null,
     "currency": null,
-    "posted_at": "2026-09-30T00:48:58.238Z",
+    "posted_at": "2026-09-30T00:14:52.802Z",
     "active": true,
     "first_seen_at": "2026-09-25T00:07:39.330Z",
-    "last_seen_at": "2026-10-20T00:47:44.878Z",
-    "updated_at": "2026-10-20T00:47:44.878Z"
+    "last_seen_at": "2026-10-21T00:13:40.782Z",
+    "updated_at": "2026-10-21T00:13:40.782Z"
   },
   {
     "id": "180221459a8466ecd2dd8f88eda44ac8",
@@ -425,29 +479,11 @@
     "salary_min": null,
     "salary_max": null,
     "currency": null,
-    "posted_at": "2026-09-30T00:48:53.871Z",
+    "posted_at": "2026-09-30T00:14:52.164Z",
     "active": true,
     "first_seen_at": "2026-09-30T00:51:40.848Z",
-    "last_seen_at": "2026-10-20T00:47:44.878Z",
-    "updated_at": "2026-10-20T00:47:44.878Z"
-  },
-  {
-    "id": "29cf6e97d419bbf422c26788d8f11a3c",
-    "title": "2027 Quantitative Researcher Graduate (DV Equities)",
-    "company": "DV Trading",
-    "location": "Hong Kong",
-    "source": "Greenhouse",
-    "apply_url": "https://job-boards.greenhouse.io/dvtrading/jobs/4736954005",
-    "description": "About Us :\nFounded two decades ago and headquartered in Chicago, the DV Group of financial services firms has grown to more than 600 people across North America, Europe and Asia. Since becoming an independent proprietary trading firm in 2016, DV Trading has scaled rapidly using its own capital, strategies and risk management to provide liquidity to markets worldwide. DV Group affiliates today include two broker-dealers, a cryptocurrency market maker and a growing investment adviser.\nDV Equities is the group's Asia-Pacific equities and futures market-making business, trading cash equities, ETFs, index futures and related products on exchanges across the region.\nOverview:\nWe are looking for a 2027 Quantitative Researcher (Graduate) to join our equities team, where you will take direct ownership of systematic signal generation across multiple time horizons. This role is ideal for recent graduates with a strong quantitative foundation and hands-on experience in either high-frequency orderbook research or longer-term signal generation—whether through academic projects, prior internships, or independent research. You will work side-by-side with our senior researchers and traders to explore market data, develop predictive signals, and build models that directly inform real trading decisions.\nResponsibilities:\n- Analyze market data to uncover patterns, inefficiencies, and predictive signals across different time horizons\n- Build and backtest quantitative models using historical market data in a simulation environment\n- Apply statistical and machine learning techniques—with an emphasis on tree-based methods—to enhance signal quality\n- Collaborate closely with traders and researchers to translate research insights into robust trading strategies\n- Contribute to the development and maintenance of data pipelines for large-scale, high-frequency, and time-series market data\n- Iterate on research prototypes based on backtest results and team feedback, with increasing independence\n- Monitor live strategy performance and refine models based on real market feedback\nRequirements:\n- Currently pursuing a Bachelor's, Master's, or PhD in a quantitative field (Mathematics, Statistics, Economics, Computer Science, Physics, Engineering, or related), with an expected graduation by Summer 2027\n- Strong proficiency in Python; experience with SQL, statistical modeling, or C++ is highly preferred\n- Strong foundation in math, probability, and statistics\n- Genuine interest in financial markets, algorithmic trading, and market microstructure\n- Demonstrated ability to learn quickly and perform in a fast-paced, high-pressure environment\n- Ability to maintain composure and communicate clearly under pressure\n- Exceptional problem-solving ability and multitasking skills\n- Prior internship experience in trading, quantitative research, or data analysis is a plus\nDV is not accepting unsolicited resumes from search firms. Only search firms with valid, written agreements with DV should submit resumes in response to DV ’s posted positions. All resumes submitted by search firms to DV via e-mail, the Internet, personal delivery, facsimile, or any other method without a valid written agreement shall be deemed the sole property of DV , and no fee will be paid in the event the candidate is hired by DV . DV is proud to be an equal opportunity employer and committed to creating an inclusive environment for all employees.",
-    "category": "DV Equities",
-    "salary_min": null,
-    "salary_max": null,
-    "currency": null,
-    "posted_at": "2026-09-28T23:59:05-04:00",
-    "active": true,
-    "first_seen_at": "2026-10-20T00:47:44.878Z",
-    "last_seen_at": "2026-10-20T00:47:44.878Z",
-    "updated_at": "2026-10-20T00:47:44.878Z"
+    "last_seen_at": "2026-10-21T00:13:40.782Z",
+    "updated_at": "2026-10-21T00:13:40.782Z"
   },
   {
     "id": "300de373ae3590a4e48d4a212ba36e09",
@@ -479,11 +515,11 @@
     "salary_min": null,
     "salary_max": null,
     "currency": null,
-    "posted_at": "2026-09-25T00:48:08.235Z",
+    "posted_at": "2026-09-25T00:14:06.681Z",
     "active": true,
     "first_seen_at": "2026-09-25T00:07:39.330Z",
-    "last_seen_at": "2026-10-20T00:47:44.878Z",
-    "updated_at": "2026-10-20T00:47:44.878Z"
+    "last_seen_at": "2026-10-21T00:13:40.782Z",
+    "updated_at": "2026-10-21T00:13:40.782Z"
   },
   {
     "id": "7cee77b1bfcbace1c94dadaba412b5f7",
@@ -500,8 +536,8 @@
     "posted_at": "2026-09-23T01:42:38.564Z",
     "active": true,
     "first_seen_at": "2026-10-15T12:29:14.899Z",
-    "last_seen_at": "2026-10-20T00:47:44.878Z",
-    "updated_at": "2026-10-20T00:47:44.878Z"
+    "last_seen_at": "2026-10-21T00:13:40.782Z",
+    "updated_at": "2026-10-21T00:13:40.782Z"
   },
   {
     "id": "ff5d3b25f30bf1b4f77b01d5224f23e9",
@@ -518,8 +554,8 @@
     "posted_at": "2026-09-21T03:22:51-04:00",
     "active": true,
     "first_seen_at": "2026-09-21T12:05:06.441Z",
-    "last_seen_at": "2026-10-20T00:47:44.878Z",
-    "updated_at": "2026-10-20T00:47:44.878Z"
+    "last_seen_at": "2026-10-21T00:13:40.782Z",
+    "updated_at": "2026-10-21T00:13:40.782Z"
   },
   {
     "id": "4c2cc98df9d221a3d05b0976059ac2e7",
@@ -533,11 +569,11 @@
     "salary_min": null,
     "salary_max": null,
     "currency": null,
-    "posted_at": "2026-09-20T00:49:49.642Z",
+    "posted_at": "2026-09-21T00:16:00.349Z",
     "active": true,
     "first_seen_at": "2026-08-29T09:05:24.640Z",
-    "last_seen_at": "2026-10-20T00:47:44.878Z",
-    "updated_at": "2026-10-20T00:47:44.878Z"
+    "last_seen_at": "2026-10-21T00:13:40.782Z",
+    "updated_at": "2026-10-21T00:13:40.782Z"
   },
   {
     "id": "485ba0589f980485de384cba6dc9f586",
@@ -551,11 +587,11 @@
     "salary_min": null,
     "salary_max": null,
     "currency": null,
-    "posted_at": "2026-09-20T00:49:49.325Z",
+    "posted_at": "2026-09-21T00:15:59.974Z",
     "active": true,
     "first_seen_at": "2026-08-29T09:05:24.640Z",
-    "last_seen_at": "2026-10-20T00:47:44.878Z",
-    "updated_at": "2026-10-20T00:47:44.878Z"
+    "last_seen_at": "2026-10-21T00:13:40.782Z",
+    "updated_at": "2026-10-21T00:13:40.782Z"
   },
   {
     "id": "ebb0cebdd1befc89cc0a8183e3db3737",
@@ -569,11 +605,11 @@
     "salary_min": null,
     "salary_max": null,
     "currency": null,
-    "posted_at": "2026-09-20T00:49:48.198Z",
+    "posted_at": "2026-09-21T00:15:58.258Z",
     "active": true,
     "first_seen_at": "2026-08-28T03:54:32.234Z",
-    "last_seen_at": "2026-10-20T00:47:44.878Z",
-    "updated_at": "2026-10-20T00:47:44.878Z"
+    "last_seen_at": "2026-10-21T00:13:40.782Z",
+    "updated_at": "2026-10-21T00:13:40.782Z"
   },
   {
     "id": "7862ee5ef6b1d4099c91f4133b70da2d",
@@ -587,29 +623,11 @@
     "salary_min": null,
     "salary_max": null,
     "currency": null,
-    "posted_at": "2026-09-20T00:49:27.526Z",
+    "posted_at": "2026-09-21T00:15:05.343Z",
     "active": true,
     "first_seen_at": "2026-08-28T03:54:32.234Z",
-    "last_seen_at": "2026-10-20T00:47:44.878Z",
-    "updated_at": "2026-10-20T00:47:44.878Z"
-  },
-  {
-    "id": "33f297ebd8be7113e0dd3a09e0b57fe6",
-    "title": "MUFG Analyst Programme 2027 – Global Operations",
-    "company": "MUFG",
-    "location": "Hong Kong - Airside, Hong Kong - Airside",
-    "source": "Workday",
-    "apply_url": "https://mufgub.wd3.myworkdayjobs.com/MUFG-Careers/job/Hong-Kong---Airside/MUFG-Analyst-Programme-2027---Global-Operations_10079445-WD-2",
-    "description": "Do you want your voice heard and your actions to count?\nDiscover your opportunity with Mitsubishi UFJ Financial Group (MUFG), one of the world’s leading financial groups. Across the globe, we’re 150,000 colleagues, striving to make a difference for every client, organization, and community we serve. We stand for our values, building long-term relationships, serving society, and fostering shared and sustainable growth for a better world.\nWith a vision to be the world’s most trusted financial group, it’s part of our culture to put people first, listen to new and diverse ideas and collaborate toward greater innovation, speed and agility. This means investing in talent, technologies, and tools that empower you to own your career.\nJoin MUFG, where being inspired is expected and making a meaningful impact is rewarded.\nAbout MUFG Bank\nMUFG Bank, Ltd. is Japan’s premier bank, with a global network spanning around 40 markets. Outside of Japan, the bank offers an extensive scope of commercial and investment banking products and services to businesses, governments and individuals worldwide.\nMUFG Bank’s parent, Mitsubishi UFJ Financial Group, Inc. (MUFG) is one of the world’s leading financial groups. Headquartered in Tokyo and with over 360 years of history, MUFG has a global network with approximately 2,000 locations in more than 40 markets. The Group has about 120,000 employees and offers services including commercial banking, trust banking, securities, credit cards, consumer finance, asset management, and leasing. The Group aims to “be the world’s most trusted financial group” through close collaboration among our operating companies and flexibly respond to all of the financial needs of our customers, serving society, and fostering shared and sustainable growth for a better world. MUFG’s shares trade on the Tokyo, Nagoya, and New York stock exchanges. For more information, visit https://www.mufg.jp/english .\nMUFG Analyst Programme 2027 – Global Operations\nMUFG Bank, Ltd. Hong Kong Branch\nKickstart your career with our prestigious MUFG Analyst Programme - tailored for talented graduates who are keen to embark on a rewarding and challenging career in the banking sector. While developing your expertise through a well-designed curriculum, there will be opportunities to collaborate with our key stakeholders to steer changes and success within MUFG. You will be provided guidance by mentors, interact with senior management and build robust networks to accelerate your growth within a top-tier international bank. Join us and be a part of legacy that empowers you to make a lasting impact.\nWe are currently offering opportunities for you to build a foundation for a successful career in Global Operations. Functions. Gain exposure to the operational backbone of the bank, including deposits and payments, global markets operations, business management and process improvement. The role is suited to candidates who enjoy combining analytical thinking, technology and disciplined execution.\nThe calibre we are looking for\n- Process-oriented, methodical and highly attentive to detail.\n- Comfortable working with data, systems and structured problem-solving.\n- Strong sense of accountability, follow-through and operational risk awareness.\n- Able to communicate clearly and collaborate across business and technology teams.\n- Curious about automation, digitalisation and continuous improvement.\nWhat you can expect in the programme\n- An extensive 2-year job rotation journey across teams & product offices;\n- Network-wide ongoing development programme with potential overseas training opportunity;\n- Outside-in exposure events including company visits and external training;\n- Regular career coaching from HR & direct managers;\n- Wide range of staff engagement activities to build up internal network.\nJob Requirements:\n- Bachelor's degree or higher, with less than one year of postgraduate full-time work experience.\n- Business analytics, information systems, engineering, finance, statistics, data science or related discipline.\n- Experience in data analysis, technology transformation, operations, risk or project work is advantageous.\n- Working knowledge of Excel and confidence learning new systems and tools.\n- Strong team player with excellent interpersonal and communication skills.\n- Proficiency in English and Chinese (Cantonese and/or Mandarin).\n- Self-motivated with a genuine interest in developing a career in banking and finance.\n- Strong analytical and problem-solving skills, learning agility and a can-do attitude.\nApplication Method :\nUp for the challenge with MUFG? Apply through our career website.\nApplication will now be extended to 31 December 2026. You will be contacted for next steps in Jan 2027.\nPersonal data collected will be used for recruitment purposes only. For our Privacy Policy, please visit: https://www.mufgamericas.com/candidate-privacy-policies-by-country\nWe regret to inform that only shortlisted applicants will be notified.\nMitsubishi UFJ Financial Group (MUFG) is an equal opportunity employer. We view our employees as our key assets as they are fundamental to our long-term growth and success. MUFG is committed to hiring based on merit and organsational fit, regardless of race, religion or gender.",
-    "category": null,
-    "salary_min": null,
-    "salary_max": null,
-    "currency": null,
-    "posted_at": "2026-09-20T00:49:05.280Z",
-    "active": true,
-    "first_seen_at": "2026-09-15T00:04:11.096Z",
-    "last_seen_at": "2026-10-20T00:47:44.878Z",
-    "updated_at": "2026-10-20T00:47:44.878Z"
+    "last_seen_at": "2026-10-21T00:13:40.782Z",
+    "updated_at": "2026-10-21T00:13:40.782Z"
   },
   {
     "id": "700c5f7149b62fd66568a6246282b958",
@@ -623,65 +641,11 @@
     "salary_min": null,
     "salary_max": null,
     "currency": null,
-    "posted_at": "2026-09-20T00:49:05.255Z",
+    "posted_at": "2026-09-21T00:15:03.838Z",
     "active": true,
     "first_seen_at": "2026-09-08T14:04:29.177Z",
-    "last_seen_at": "2026-10-20T00:47:44.878Z",
-    "updated_at": "2026-10-20T00:47:44.878Z"
-  },
-  {
-    "id": "a7f631eb5afb56947f3f0257553b3c68",
-    "title": "MUFG Analyst Programme 2027 – Global Corporate Banking",
-    "company": "MUFG",
-    "location": "Hong Kong - Airside, Hong Kong - Airside",
-    "source": "Workday",
-    "apply_url": "https://mufgub.wd3.myworkdayjobs.com/MUFG-Careers/job/Hong-Kong---Airside/MUFG-Analyst-Programme-2027---Global-Corporate-Banking_10079444-WD-1",
-    "description": "Do you want your voice heard and your actions to count?\nDiscover your opportunity with Mitsubishi UFJ Financial Group (MUFG), one of the world’s leading financial groups. Across the globe, we’re 150,000 colleagues, striving to make a difference for every client, organization, and community we serve. We stand for our values, building long-term relationships, serving society, and fostering shared and sustainable growth for a better world.\nWith a vision to be the world’s most trusted financial group, it’s part of our culture to put people first, listen to new and diverse ideas and collaborate toward greater innovation, speed and agility. This means investing in talent, technologies, and tools that empower you to own your career.\nJoin MUFG, where being inspired is expected and making a meaningful impact is rewarded.\nAbout MUFG Bank\nMUFG Bank, Ltd. is Japan’s premier bank, with a global network spanning around 40 markets. Outside of Japan, the bank offers an extensive scope of commercial and investment banking products and services to businesses, governments and individuals worldwide.\nMUFG Bank’s parent, Mitsubishi UFJ Financial Group, Inc. (MUFG) is one of the world’s leading financial groups. Headquartered in Tokyo and with over 360 years of history, MUFG has a global network with approximately 2,000 locations in more than 40 markets. The Group has about 120,000 employees and offers services including commercial banking, trust banking, securities, credit cards, consumer finance, asset management, and leasing. The Group aims to “be the world’s most trusted financial group” through close collaboration among our operating companies and flexibly respond to all of the financial needs of our customers, serving society, and fostering shared and sustainable growth for a better world. MUFG’s shares trade on the Tokyo, Nagoya, and New York stock exchanges. For more information, visit https://www.mufg.jp/english .\nMUFG Analyst Programme 2027 – Global Corporate Banking\nMUFG Bank, Ltd. Hong Kong Branch\nKickstart your career with our prestigious MUFG Analyst Programme - tailored for talented graduates who are keen to embark on a rewarding and challenging career in the banking sector. While developing your expertise through a well-designed curriculum, there will be opportunities to collaborate with our key stakeholders to steer changes and success within MUFG. You will be provided guidance by mentors, interact with senior management and build robust networks to accelerate your growth within a top-tier international bank. Join us and be a part of legacy that empowers you to make a lasting impact.\nWe are currently offering opportunities for you to build a foundation for a successful career in Global Corporate Banking. Work alongside corporate banking colleagues supporting relationship management, client analysis and the development of solutions for local and multinational corporate clients. The role offers exposure to cross-border business, internal product partners and disciplined risk-aware decision-making.\nThe calibre we are looking for\n- Commercial curiosity and a genuine interest in corporate clients and banking solutions.\n- Structured thinking, sound judgement and the ability to connect client needs with broader market developments.\n- Clear communication, stakeholder awareness and confidence working across teams.\n- Strong attention to detail, ownership and respect for risk and controls.\n- Interest in cross-border business and MUFG's regional and global network.\nWhat you can expect in the programme\n- An extensive 2-year job rotation journey across teams & product offices;\n- Network-wide ongoing development programme with potential overseas training opportunity;\n- Outside-in exposure events including company visits and external training;\n- Regular career coaching from HR & direct managers;\n- Wide range of staff engagement activities to build up internal network.\nJob Requirements:\n- Bachelor’s degree or higher with less than 1 year’s postgraduate full time work experience;\n- Students pursuing Business, Finance, Economics, Accounting or other relevant disciplines are preferred;\n- Strong team player with excellent interpersonal, communication and stakeholder-management skills;\n- Demonstrated commercial awareness and an interest in corporate clients, financial markets and cross-border banking solutions;\n- Proficiency in English and Cantonese is required. Fluency in Mandarin would be an advantage;\n- Self-motivated with a genuine interest in pursuing a career in corporate banking and relationship management;\n- Strong analytical and problem-solving skills, with the ability to conduct research and present information clearly; and\n- Willingness to learn, take ownership and demonstrate a proactive, can-do attitude.\nApplication Method :\nUp for the challenge with MUFG? Apply through our career website.\nApplication will now be extended to 31 December 2026. You will be contacted for next steps in Jan 2027.\nPersonal data collected will be used for recruitment purposes only. For our Privacy Policy, please visit: https://www.mufgamericas.com/candidate-privacy-policies-by-country\nWe regret to inform that only shortlisted applicants will be notified.\nMitsubishi UFJ Financial Group (MUFG) is an equal opportunity employer. We view our employees as our key assets as they are fundamental to our long-term growth and success. MUFG is committed to hiring based on merit and organsational fit, regardless of race, religion or gender.",
-    "category": null,
-    "salary_min": null,
-    "salary_max": null,
-    "currency": null,
-    "posted_at": "2026-09-20T00:49:04.856Z",
-    "active": true,
-    "first_seen_at": "2026-09-15T00:04:11.096Z",
-    "last_seen_at": "2026-10-20T00:47:44.878Z",
-    "updated_at": "2026-10-20T00:47:44.878Z"
-  },
-  {
-    "id": "0d3995adedc07fc875d1bc1733edecfe",
-    "title": "MUFG Analyst Programme 2027 – Corporate Functions",
-    "company": "MUFG",
-    "location": "Hong Kong - Airside, Hong Kong - Airside",
-    "source": "Workday",
-    "apply_url": "https://mufgub.wd3.myworkdayjobs.com/MUFG-Careers/job/Hong-Kong---Airside/MUFG-Analyst-Programme-2027---Corporate-Functions_10079443-WD-1",
-    "description": "Do you want your voice heard and your actions to count?\nDiscover your opportunity with Mitsubishi UFJ Financial Group (MUFG), one of the world’s leading financial groups. Across the globe, we’re 150,000 colleagues, striving to make a difference for every client, organization, and community we serve. We stand for our values, building long-term relationships, serving society, and fostering shared and sustainable growth for a better world.\nWith a vision to be the world’s most trusted financial group, it’s part of our culture to put people first, listen to new and diverse ideas and collaborate toward greater innovation, speed and agility. This means investing in talent, technologies, and tools that empower you to own your career.\nJoin MUFG, where being inspired is expected and making a meaningful impact is rewarded.\nAbout MUFG Bank\nMUFG Bank, Ltd. is Japan’s premier bank, with a global network spanning around 40 markets. Outside of Japan, the bank offers an extensive scope of commercial and investment banking products and services to businesses, governments and individuals worldwide.\nMUFG Bank’s parent, Mitsubishi UFJ Financial Group, Inc. (MUFG) is one of the world’s leading financial groups. Headquartered in Tokyo and with over 360 years of history, MUFG has a global network with approximately 2,000 locations in more than 40 markets. The Group has about 120,000 employees and offers services including commercial banking, trust banking, securities, credit cards, consumer finance, asset management, and leasing. The Group aims to “be the world’s most trusted financial group” through close collaboration among our operating companies and flexibly respond to all of the financial needs of our customers, serving society, and fostering shared and sustainable growth for a better world. MUFG’s shares trade on the Tokyo, Nagoya, and New York stock exchanges. For more information, visit https://www.mufg.jp/english .\nMUFG Analyst Programme 2027 – Corporate Functions\nMUFG Bank, Ltd. Hong Kong Branch\nKickstart your career with our prestigious MUFG Analyst Programme - tailored for talented graduates who are keen to embark on a rewarding and challenging career in the banking sector. While developing your expertise through a well-designed curriculum, there will be opportunities to collaborate with our key stakeholders to steer changes and success within MUFG. You will be provided guidance by mentors, interact with senior management and build robust networks to accelerate your growth within a top-tier international bank. Join us and be a part of legacy that empowers you to make a lasting impact.\nWe are currently offering opportunities for you to build a foundation for a successful career in Corporate Functions. Build broad exposure to the functions that enable a well-governed and sustainable bank, such as Operations, Compliance, Risk, Finance, Planning and transformation-related teams. Assignments will depend on business needs and may involve analysis, governance, reporting and stakeholder coordination.\nThe calibre we are looking for\n- Mature, discreet and dependable, with strong professional judgement.\n- Organised and able to manage details while understanding the broader business purpose.\n- Clear written and verbal communication with confidence engaging diverse stakeholders.\n- Strong integrity, control awareness and willingness to challenge constructively.\nWhat you can expect in the programme\n- An extensive 2-year job rotation journey across teams & product offices;\n- Network-wide ongoing development programme with potential overseas training opportunity;\n- Outside-in exposure events including company visits and external training;\n- Regular career coaching from HR & direct managers;\n- Wide range of staff engagement activities to build up internal network.\nJob Requirements:\n- Bachelor's degree or higher, with less than one year of postgraduate full-time work experience.\n- Strong team player with excellent interpersonal and communication skills.\n- Proficiency in English and Chinese (Cantonese and/or Mandarin). Japanese language capability would be advantageous.\n- Self-motivated with a genuine interest in developing a career in banking and finance.\n- Strong analytical and problem-solving skills, learning agility and a can-do attitude.\nApplication Method :\nUp for the challenge with MUFG? Apply through our career website.\nApplication will now be extended to 31 December 2026. You will be contacted for next steps in Jan 2027.\nPersonal data collected will be used for recruitment purposes only. For our Privacy Policy, please visit: https://www.mufgamericas.com/candidate-privacy-policies-by-country\nWe regret to inform that only shortlisted applicants will be notified.\nMitsubishi UFJ Financial Group (MUFG) is an equal opportunity employer. We view our employees as our key assets as they are fundamental to our long-term growth and success. MUFG is committed to hiring based on merit and organsational fit, regardless of race, religion or gender.",
-    "category": null,
-    "salary_min": null,
-    "salary_max": null,
-    "currency": null,
-    "posted_at": "2026-09-20T00:49:04.456Z",
-    "active": true,
-    "first_seen_at": "2026-09-15T00:04:11.096Z",
-    "last_seen_at": "2026-10-20T00:47:44.878Z",
-    "updated_at": "2026-10-20T00:47:44.878Z"
-  },
-  {
-    "id": "9f02c5e15ff4d1d4459bcaf486a6ae6f",
-    "title": "Associate, Credit Management",
-    "company": "MUFG",
-    "location": "Hong Kong - Airside, Hong Kong - Airside",
-    "source": "Workday",
-    "apply_url": "https://mufgub.wd3.myworkdayjobs.com/MUFG-Careers/job/Hong-Kong---Airside/Associate--Credit-Management_10078251-WD",
-    "description": "Do you want your voice heard and your actions to count?\nDiscover your opportunity with Mitsubishi UFJ Financial Group (MUFG), one of the world’s leading financial groups. Across the globe, we’re 150,000 colleagues, striving to make a difference for every client, organization, and community we serve. We stand for our values, building long-term relationships, serving society, and fostering shared and sustainable growth for a better world.\nWith a vision to be the world’s most trusted financial group, it’s part of our culture to put people first, listen to new and diverse ideas and collaborate toward greater innovation, speed and agility. This means investing in talent, technologies, and tools that empower you to own your career.\nJoin MUFG, where being inspired is expected and making a meaningful impact is rewarded.\nPurpose:\nThe Credit Management (CM) function centralizes core credit management and risk leadership, essential for effective credit risk management and escalation. It supports GCIB Coverage and work with Sector Coverage, AIBD functions, as well as relevant APAC teams for efficient task allocation. The role is accountable and responsible for the credit process in Hong Kong, supporting origination efforts and ongoing monitoring with internal team support. Key functions include end-to-end credit preparation, in-country/sector Watchlists, early warning indicators to prepare comprehensive credit analysis, deal structuring and documentation, covenant and other credit control monitoring, credit cost management, and RWA fixes. CM supports GCIB APAC's objectives by ensuring high-quality credit analysis and monitoring post-origination, assessing borrowers' financial performance, and identifying emerging risks. CM also collaborates with MUFG MGS to enhance credit process partnerships and improve quality and efficiency across GCIB APAC, aligning MGS activities with regional processes.\nJob Responsibilities:\n- Support the ongoing growth and portfolio management of customers within Hong Kong.\n- Assist in the onboarding and origination of new clients as part of local, regional, and global growth plans.\n- Prepare credit analysis independently across new and existing clients, with a focus on credit quality monitoring.\n- Conduct annual credit reviews and internal rating reviews, covenant compliance monitoring.\n- Manage customer requests and support Relationship Managers in meeting customer needs.\n- Engage with customers, demonstrating proactivity, responsiveness, and support always.\n- Develop and maintain strong relationships with product partners and a number of other key stakeholders across MUFG’s international network.\n- Coordinate within the network; engage in client interactions for onboarding and account management tasks.\nQualifications and Requirements:\n- Bachelor’s degree holder. Degree in business or commerce and CFA qualification will be an advantage.\n- Minimum 2-5 years’ experience in corporate and institutional lending / debt advisory at a major bank or chartered accounting firm.\n- Candidates from credit rating agencies, investment banks, and investment management firms or corporate treasury teams are welcome.\n- Strong financial knowledge and analysis acumen.\n- Intermediate skills in credit writing, financial analysis and modelling, legal documentation, and debt structuring.\n- Understanding of financial and economic markets in Hong Kong and mainland China\n- Excellent communication skills, both written and verbal.\n- Strong interpersonal and presentation skills.\n- Team player attitude with initiative, drive, and enthusiasm.\n- Analytical mindset with solution-driven approach and problem-solving skills.\n- Ability to work independently and prioritize tasks across various work streams.\nMitsubishi UFJ Financial Group (MUFG) is an equal opportunity employer. We view our employees as our key assets as they are fundamental to our long-term growth and success. MUFG is committed to hiring based on merit and organsational fit, regardless of race, religion or gender.",
-    "category": null,
-    "salary_min": null,
-    "salary_max": null,
-    "currency": null,
-    "posted_at": "2026-09-20T00:49:03.695Z",
-    "active": true,
-    "first_seen_at": "2026-08-28T03:54:32.234Z",
-    "last_seen_at": "2026-10-20T00:47:44.878Z",
-    "updated_at": "2026-10-20T00:47:44.878Z"
+    "last_seen_at": "2026-10-21T00:13:40.782Z",
+    "updated_at": "2026-10-21T00:13:40.782Z"
   },
   {
     "id": "793127fb30691bec818d8f8e9766a08d",
@@ -695,11 +659,83 @@
     "salary_min": null,
     "salary_max": null,
     "currency": null,
-    "posted_at": "2026-09-20T00:48:57.891Z",
+    "posted_at": "2026-09-21T00:15:01.379Z",
     "active": true,
     "first_seen_at": "2026-10-15T12:29:14.899Z",
-    "last_seen_at": "2026-10-20T00:47:44.878Z",
-    "updated_at": "2026-10-20T00:47:44.878Z"
+    "last_seen_at": "2026-10-21T00:13:40.782Z",
+    "updated_at": "2026-10-21T00:13:40.782Z"
+  },
+  {
+    "id": "33f297ebd8be7113e0dd3a09e0b57fe6",
+    "title": "MUFG Analyst Programme 2027 – Global Operations",
+    "company": "MUFG",
+    "location": "Hong Kong - Airside, Hong Kong - Airside",
+    "source": "Workday",
+    "apply_url": "https://mufgub.wd3.myworkdayjobs.com/MUFG-Careers/job/Hong-Kong---Airside/MUFG-Analyst-Programme-2027---Global-Operations_10079445-WD-2",
+    "description": "Do you want your voice heard and your actions to count?\nDiscover your opportunity with Mitsubishi UFJ Financial Group (MUFG), one of the world’s leading financial groups. Across the globe, we’re 150,000 colleagues, striving to make a difference for every client, organization, and community we serve. We stand for our values, building long-term relationships, serving society, and fostering shared and sustainable growth for a better world.\nWith a vision to be the world’s most trusted financial group, it’s part of our culture to put people first, listen to new and diverse ideas and collaborate toward greater innovation, speed and agility. This means investing in talent, technologies, and tools that empower you to own your career.\nJoin MUFG, where being inspired is expected and making a meaningful impact is rewarded.\nAbout MUFG Bank\nMUFG Bank, Ltd. is Japan’s premier bank, with a global network spanning around 40 markets. Outside of Japan, the bank offers an extensive scope of commercial and investment banking products and services to businesses, governments and individuals worldwide.\nMUFG Bank’s parent, Mitsubishi UFJ Financial Group, Inc. (MUFG) is one of the world’s leading financial groups. Headquartered in Tokyo and with over 360 years of history, MUFG has a global network with approximately 2,000 locations in more than 40 markets. The Group has about 120,000 employees and offers services including commercial banking, trust banking, securities, credit cards, consumer finance, asset management, and leasing. The Group aims to “be the world’s most trusted financial group” through close collaboration among our operating companies and flexibly respond to all of the financial needs of our customers, serving society, and fostering shared and sustainable growth for a better world. MUFG’s shares trade on the Tokyo, Nagoya, and New York stock exchanges. For more information, visit https://www.mufg.jp/english .\nMUFG Analyst Programme 2027 – Global Operations\nMUFG Bank, Ltd. Hong Kong Branch\nKickstart your career with our prestigious MUFG Analyst Programme - tailored for talented graduates who are keen to embark on a rewarding and challenging career in the banking sector. While developing your expertise through a well-designed curriculum, there will be opportunities to collaborate with our key stakeholders to steer changes and success within MUFG. You will be provided guidance by mentors, interact with senior management and build robust networks to accelerate your growth within a top-tier international bank. Join us and be a part of legacy that empowers you to make a lasting impact.\nWe are currently offering opportunities for you to build a foundation for a successful career in Global Operations. Functions. Gain exposure to the operational backbone of the bank, including deposits and payments, global markets operations, business management and process improvement. The role is suited to candidates who enjoy combining analytical thinking, technology and disciplined execution.\nThe calibre we are looking for\n- Process-oriented, methodical and highly attentive to detail.\n- Comfortable working with data, systems and structured problem-solving.\n- Strong sense of accountability, follow-through and operational risk awareness.\n- Able to communicate clearly and collaborate across business and technology teams.\n- Curious about automation, digitalisation and continuous improvement.\nWhat you can expect in the programme\n- An extensive 2-year job rotation journey across teams & product offices;\n- Network-wide ongoing development programme with potential overseas training opportunity;\n- Outside-in exposure events including company visits and external training;\n- Regular career coaching from HR & direct managers;\n- Wide range of staff engagement activities to build up internal network.\nJob Requirements:\n- Bachelor's degree or higher, with less than one year of postgraduate full-time work experience.\n- Business analytics, information systems, engineering, finance, statistics, data science or related discipline.\n- Experience in data analysis, technology transformation, operations, risk or project work is advantageous.\n- Working knowledge of Excel and confidence learning new systems and tools.\n- Strong team player with excellent interpersonal and communication skills.\n- Proficiency in English and Chinese (Cantonese and/or Mandarin).\n- Self-motivated with a genuine interest in developing a career in banking and finance.\n- Strong analytical and problem-solving skills, learning agility and a can-do attitude.\nApplication Method :\nUp for the challenge with MUFG? Apply through our career website.\nApplication will now be extended to 31 December 2026. You will be contacted for next steps in Jan 2027.\nPersonal data collected will be used for recruitment purposes only. For our Privacy Policy, please visit: https://www.mufgamericas.com/candidate-privacy-policies-by-country\nWe regret to inform that only shortlisted applicants will be notified.\nMitsubishi UFJ Financial Group (MUFG) is an equal opportunity employer. We view our employees as our key assets as they are fundamental to our long-term growth and success. MUFG is committed to hiring based on merit and organsational fit, regardless of race, religion or gender.",
+    "category": null,
+    "salary_min": null,
+    "salary_max": null,
+    "currency": null,
+    "posted_at": "2026-09-21T00:15:00.382Z",
+    "active": true,
+    "first_seen_at": "2026-09-15T00:04:11.096Z",
+    "last_seen_at": "2026-10-21T00:13:40.782Z",
+    "updated_at": "2026-10-21T00:13:40.782Z"
+  },
+  {
+    "id": "a7f631eb5afb56947f3f0257553b3c68",
+    "title": "MUFG Analyst Programme 2027 – Global Corporate Banking",
+    "company": "MUFG",
+    "location": "Hong Kong - Airside, Hong Kong - Airside",
+    "source": "Workday",
+    "apply_url": "https://mufgub.wd3.myworkdayjobs.com/MUFG-Careers/job/Hong-Kong---Airside/MUFG-Analyst-Programme-2027---Global-Corporate-Banking_10079444-WD-1",
+    "description": "Do you want your voice heard and your actions to count?\nDiscover your opportunity with Mitsubishi UFJ Financial Group (MUFG), one of the world’s leading financial groups. Across the globe, we’re 150,000 colleagues, striving to make a difference for every client, organization, and community we serve. We stand for our values, building long-term relationships, serving society, and fostering shared and sustainable growth for a better world.\nWith a vision to be the world’s most trusted financial group, it’s part of our culture to put people first, listen to new and diverse ideas and collaborate toward greater innovation, speed and agility. This means investing in talent, technologies, and tools that empower you to own your career.\nJoin MUFG, where being inspired is expected and making a meaningful impact is rewarded.\nAbout MUFG Bank\nMUFG Bank, Ltd. is Japan’s premier bank, with a global network spanning around 40 markets. Outside of Japan, the bank offers an extensive scope of commercial and investment banking products and services to businesses, governments and individuals worldwide.\nMUFG Bank’s parent, Mitsubishi UFJ Financial Group, Inc. (MUFG) is one of the world’s leading financial groups. Headquartered in Tokyo and with over 360 years of history, MUFG has a global network with approximately 2,000 locations in more than 40 markets. The Group has about 120,000 employees and offers services including commercial banking, trust banking, securities, credit cards, consumer finance, asset management, and leasing. The Group aims to “be the world’s most trusted financial group” through close collaboration among our operating companies and flexibly respond to all of the financial needs of our customers, serving society, and fostering shared and sustainable growth for a better world. MUFG’s shares trade on the Tokyo, Nagoya, and New York stock exchanges. For more information, visit https://www.mufg.jp/english .\nMUFG Analyst Programme 2027 – Global Corporate Banking\nMUFG Bank, Ltd. Hong Kong Branch\nKickstart your career with our prestigious MUFG Analyst Programme - tailored for talented graduates who are keen to embark on a rewarding and challenging career in the banking sector. While developing your expertise through a well-designed curriculum, there will be opportunities to collaborate with our key stakeholders to steer changes and success within MUFG. You will be provided guidance by mentors, interact with senior management and build robust networks to accelerate your growth within a top-tier international bank. Join us and be a part of legacy that empowers you to make a lasting impact.\nWe are currently offering opportunities for you to build a foundation for a successful career in Global Corporate Banking. Work alongside corporate banking colleagues supporting relationship management, client analysis and the development of solutions for local and multinational corporate clients. The role offers exposure to cross-border business, internal product partners and disciplined risk-aware decision-making.\nThe calibre we are looking for\n- Commercial curiosity and a genuine interest in corporate clients and banking solutions.\n- Structured thinking, sound judgement and the ability to connect client needs with broader market developments.\n- Clear communication, stakeholder awareness and confidence working across teams.\n- Strong attention to detail, ownership and respect for risk and controls.\n- Interest in cross-border business and MUFG's regional and global network.\nWhat you can expect in the programme\n- An extensive 2-year job rotation journey across teams & product offices;\n- Network-wide ongoing development programme with potential overseas training opportunity;\n- Outside-in exposure events including company visits and external training;\n- Regular career coaching from HR & direct managers;\n- Wide range of staff engagement activities to build up internal network.\nJob Requirements:\n- Bachelor’s degree or higher with less than 1 year’s postgraduate full time work experience;\n- Students pursuing Business, Finance, Economics, Accounting or other relevant disciplines are preferred;\n- Strong team player with excellent interpersonal, communication and stakeholder-management skills;\n- Demonstrated commercial awareness and an interest in corporate clients, financial markets and cross-border banking solutions;\n- Proficiency in English and Cantonese is required. Fluency in Mandarin would be an advantage;\n- Self-motivated with a genuine interest in pursuing a career in corporate banking and relationship management;\n- Strong analytical and problem-solving skills, with the ability to conduct research and present information clearly; and\n- Willingness to learn, take ownership and demonstrate a proactive, can-do attitude.\nApplication Method :\nUp for the challenge with MUFG? Apply through our career website.\nApplication will now be extended to 31 December 2026. You will be contacted for next steps in Jan 2027.\nPersonal data collected will be used for recruitment purposes only. For our Privacy Policy, please visit: https://www.mufgamericas.com/candidate-privacy-policies-by-country\nWe regret to inform that only shortlisted applicants will be notified.\nMitsubishi UFJ Financial Group (MUFG) is an equal opportunity employer. We view our employees as our key assets as they are fundamental to our long-term growth and success. MUFG is committed to hiring based on merit and organsational fit, regardless of race, religion or gender.",
+    "category": null,
+    "salary_min": null,
+    "salary_max": null,
+    "currency": null,
+    "posted_at": "2026-09-21T00:14:59.993Z",
+    "active": true,
+    "first_seen_at": "2026-09-15T00:04:11.096Z",
+    "last_seen_at": "2026-10-21T00:13:40.782Z",
+    "updated_at": "2026-10-21T00:13:40.782Z"
+  },
+  {
+    "id": "0d3995adedc07fc875d1bc1733edecfe",
+    "title": "MUFG Analyst Programme 2027 – Corporate Functions",
+    "company": "MUFG",
+    "location": "Hong Kong - Airside, Hong Kong - Airside",
+    "source": "Workday",
+    "apply_url": "https://mufgub.wd3.myworkdayjobs.com/MUFG-Careers/job/Hong-Kong---Airside/MUFG-Analyst-Programme-2027---Corporate-Functions_10079443-WD-1",
+    "description": "Do you want your voice heard and your actions to count?\nDiscover your opportunity with Mitsubishi UFJ Financial Group (MUFG), one of the world’s leading financial groups. Across the globe, we’re 150,000 colleagues, striving to make a difference for every client, organization, and community we serve. We stand for our values, building long-term relationships, serving society, and fostering shared and sustainable growth for a better world.\nWith a vision to be the world’s most trusted financial group, it’s part of our culture to put people first, listen to new and diverse ideas and collaborate toward greater innovation, speed and agility. This means investing in talent, technologies, and tools that empower you to own your career.\nJoin MUFG, where being inspired is expected and making a meaningful impact is rewarded.\nAbout MUFG Bank\nMUFG Bank, Ltd. is Japan’s premier bank, with a global network spanning around 40 markets. Outside of Japan, the bank offers an extensive scope of commercial and investment banking products and services to businesses, governments and individuals worldwide.\nMUFG Bank’s parent, Mitsubishi UFJ Financial Group, Inc. (MUFG) is one of the world’s leading financial groups. Headquartered in Tokyo and with over 360 years of history, MUFG has a global network with approximately 2,000 locations in more than 40 markets. The Group has about 120,000 employees and offers services including commercial banking, trust banking, securities, credit cards, consumer finance, asset management, and leasing. The Group aims to “be the world’s most trusted financial group” through close collaboration among our operating companies and flexibly respond to all of the financial needs of our customers, serving society, and fostering shared and sustainable growth for a better world. MUFG’s shares trade on the Tokyo, Nagoya, and New York stock exchanges. For more information, visit https://www.mufg.jp/english .\nMUFG Analyst Programme 2027 – Corporate Functions\nMUFG Bank, Ltd. Hong Kong Branch\nKickstart your career with our prestigious MUFG Analyst Programme - tailored for talented graduates who are keen to embark on a rewarding and challenging career in the banking sector. While developing your expertise through a well-designed curriculum, there will be opportunities to collaborate with our key stakeholders to steer changes and success within MUFG. You will be provided guidance by mentors, interact with senior management and build robust networks to accelerate your growth within a top-tier international bank. Join us and be a part of legacy that empowers you to make a lasting impact.\nWe are currently offering opportunities for you to build a foundation for a successful career in Corporate Functions. Build broad exposure to the functions that enable a well-governed and sustainable bank, such as Operations, Compliance, Risk, Finance, Planning and transformation-related teams. Assignments will depend on business needs and may involve analysis, governance, reporting and stakeholder coordination.\nThe calibre we are looking for\n- Mature, discreet and dependable, with strong professional judgement.\n- Organised and able to manage details while understanding the broader business purpose.\n- Clear written and verbal communication with confidence engaging diverse stakeholders.\n- Strong integrity, control awareness and willingness to challenge constructively.\nWhat you can expect in the programme\n- An extensive 2-year job rotation journey across teams & product offices;\n- Network-wide ongoing development programme with potential overseas training opportunity;\n- Outside-in exposure events including company visits and external training;\n- Regular career coaching from HR & direct managers;\n- Wide range of staff engagement activities to build up internal network.\nJob Requirements:\n- Bachelor's degree or higher, with less than one year of postgraduate full-time work experience.\n- Strong team player with excellent interpersonal and communication skills.\n- Proficiency in English and Chinese (Cantonese and/or Mandarin). Japanese language capability would be advantageous.\n- Self-motivated with a genuine interest in developing a career in banking and finance.\n- Strong analytical and problem-solving skills, learning agility and a can-do attitude.\nApplication Method :\nUp for the challenge with MUFG? Apply through our career website.\nApplication will now be extended to 31 December 2026. You will be contacted for next steps in Jan 2027.\nPersonal data collected will be used for recruitment purposes only. For our Privacy Policy, please visit: https://www.mufgamericas.com/candidate-privacy-policies-by-country\nWe regret to inform that only shortlisted applicants will be notified.\nMitsubishi UFJ Financial Group (MUFG) is an equal opportunity employer. We view our employees as our key assets as they are fundamental to our long-term growth and success. MUFG is committed to hiring based on merit and organsational fit, regardless of race, religion or gender.",
+    "category": null,
+    "salary_min": null,
+    "salary_max": null,
+    "currency": null,
+    "posted_at": "2026-09-21T00:14:59.597Z",
+    "active": true,
+    "first_seen_at": "2026-09-15T00:04:11.096Z",
+    "last_seen_at": "2026-10-21T00:13:40.782Z",
+    "updated_at": "2026-10-21T00:13:40.782Z"
+  },
+  {
+    "id": "9f02c5e15ff4d1d4459bcaf486a6ae6f",
+    "title": "Associate, Credit Management",
+    "company": "MUFG",
+    "location": "Hong Kong - Airside, Hong Kong - Airside",
+    "source": "Workday",
+    "apply_url": "https://mufgub.wd3.myworkdayjobs.com/MUFG-Careers/job/Hong-Kong---Airside/Associate--Credit-Management_10078251-WD",
+    "description": "Do you want your voice heard and your actions to count?\nDiscover your opportunity with Mitsubishi UFJ Financial Group (MUFG), one of the world’s leading financial groups. Across the globe, we’re 150,000 colleagues, striving to make a difference for every client, organization, and community we serve. We stand for our values, building long-term relationships, serving society, and fostering shared and sustainable growth for a better world.\nWith a vision to be the world’s most trusted financial group, it’s part of our culture to put people first, listen to new and diverse ideas and collaborate toward greater innovation, speed and agility. This means investing in talent, technologies, and tools that empower you to own your career.\nJoin MUFG, where being inspired is expected and making a meaningful impact is rewarded.\nPurpose:\nThe Credit Management (CM) function centralizes core credit management and risk leadership, essential for effective credit risk management and escalation. It supports GCIB Coverage and work with Sector Coverage, AIBD functions, as well as relevant APAC teams for efficient task allocation. The role is accountable and responsible for the credit process in Hong Kong, supporting origination efforts and ongoing monitoring with internal team support. Key functions include end-to-end credit preparation, in-country/sector Watchlists, early warning indicators to prepare comprehensive credit analysis, deal structuring and documentation, covenant and other credit control monitoring, credit cost management, and RWA fixes. CM supports GCIB APAC's objectives by ensuring high-quality credit analysis and monitoring post-origination, assessing borrowers' financial performance, and identifying emerging risks. CM also collaborates with MUFG MGS to enhance credit process partnerships and improve quality and efficiency across GCIB APAC, aligning MGS activities with regional processes.\nJob Responsibilities:\n- Support the ongoing growth and portfolio management of customers within Hong Kong.\n- Assist in the onboarding and origination of new clients as part of local, regional, and global growth plans.\n- Prepare credit analysis independently across new and existing clients, with a focus on credit quality monitoring.\n- Conduct annual credit reviews and internal rating reviews, covenant compliance monitoring.\n- Manage customer requests and support Relationship Managers in meeting customer needs.\n- Engage with customers, demonstrating proactivity, responsiveness, and support always.\n- Develop and maintain strong relationships with product partners and a number of other key stakeholders across MUFG’s international network.\n- Coordinate within the network; engage in client interactions for onboarding and account management tasks.\nQualifications and Requirements:\n- Bachelor’s degree holder. Degree in business or commerce and CFA qualification will be an advantage.\n- Minimum 2-5 years’ experience in corporate and institutional lending / debt advisory at a major bank or chartered accounting firm.\n- Candidates from credit rating agencies, investment banks, and investment management firms or corporate treasury teams are welcome.\n- Strong financial knowledge and analysis acumen.\n- Intermediate skills in credit writing, financial analysis and modelling, legal documentation, and debt structuring.\n- Understanding of financial and economic markets in Hong Kong and mainland China\n- Excellent communication skills, both written and verbal.\n- Strong interpersonal and presentation skills.\n- Team player attitude with initiative, drive, and enthusiasm.\n- Analytical mindset with solution-driven approach and problem-solving skills.\n- Ability to work independently and prioritize tasks across various work streams.\nMitsubishi UFJ Financial Group (MUFG) is an equal opportunity employer. We view our employees as our key assets as they are fundamental to our long-term growth and success. MUFG is committed to hiring based on merit and organsational fit, regardless of race, religion or gender.",
+    "category": null,
+    "salary_min": null,
+    "salary_max": null,
+    "currency": null,
+    "posted_at": "2026-09-21T00:14:58.775Z",
+    "active": true,
+    "first_seen_at": "2026-08-28T03:54:32.234Z",
+    "last_seen_at": "2026-10-21T00:13:40.782Z",
+    "updated_at": "2026-10-21T00:13:40.782Z"
   },
   {
     "id": "6546cf284cfbddcb7ef030df18c25845",
@@ -713,11 +749,11 @@
     "salary_min": null,
     "salary_max": null,
     "currency": null,
-    "posted_at": "2026-09-20T00:48:29.478Z",
+    "posted_at": "2026-09-21T00:14:27.189Z",
     "active": true,
     "first_seen_at": "2026-09-02T23:40:31.243Z",
-    "last_seen_at": "2026-10-20T00:47:44.878Z",
-    "updated_at": "2026-10-20T00:47:44.878Z"
+    "last_seen_at": "2026-10-21T00:13:40.782Z",
+    "updated_at": "2026-10-21T00:13:40.782Z"
   },
   {
     "id": "4a2aa74a261069f908d2b87c74b49c5c",
@@ -731,47 +767,11 @@
     "salary_min": null,
     "salary_max": null,
     "currency": null,
-    "posted_at": "2026-09-20T00:48:29.127Z",
+    "posted_at": "2026-09-21T00:14:26.836Z",
     "active": true,
     "first_seen_at": "2026-10-01T00:54:36.301Z",
-    "last_seen_at": "2026-10-20T00:47:44.878Z",
-    "updated_at": "2026-10-20T00:47:44.878Z"
-  },
-  {
-    "id": "cb558c299659ea342ee8dd7107fb0db4",
-    "title": "Officer – Nominee & Issuer Service Operations",
-    "company": "HKEX",
-    "location": "HK-ONE ES 21/F, HK-ONE ES 21/F",
-    "source": "Workday",
-    "apply_url": "https://hkex.wd3.myworkdayjobs.com/HKEXCareerPage/job/HK-ONE-ES-21F/Officer---Nominee---Issuer-Service-Operations_R004416",
-    "description": "Company Introduction:\nWe’re home to Asia's most dynamic and vibrant capital markets.\nConnecting capital, ideas, inspiration and innovation for deeper, more diverse and liquid global capital markets; providing greater choice and opportunity for our customers, each and every day.\nHKEX is a purpose-driven company. Our commitment to the long-term development of our business and our markets is articulated in our purpose: \"To Connect, Promote and Progress our Markets and the Communities they support for the prosperity of all.\"\nJob Summary:\nThe Issuer Platform Support team manages and supports HKEX's issuer-facing regulatory filing systems, including ESS and DION, which facilitate issuer disclosures on the HKEXnews website. The team handles hotline support, user enquiries, system operations, enhancement projects and testing activities.\nWe are now seeking a high-calibre individual to join our team. The successful candidate will provide operational and user support for HKEX's issuer-facing systems, assist in project and testing activities, and contribute to the continuous enhancement of our services and platforms.\nJob Duties:\nJob Responsibilities\n- Handle enquiries on matters relating to various regulatory filings systems, ensuring timely and professional support\n- Support regulatory filing services to enable listed issuers to publish disclosure documents\n- Assist in project delivery by gathering and documenting user requirements, coordinating and executing user acceptance testing (UAT), and supporting system implementation and rollout activities\n- Provide operational support such as strategic reporting and database management\n- Undertake other ad hoc tasks as assigned by supervisor\nJob Requirements\n- University degree in Finance, Business Administration, Economics, or a related discipline\n- 1-2 years’ relevant experience in reputable financial institutions\n- Good knowledge of the financial service industry and securities market operations\n- Strong organizational skills, task prioritization, attention to detail, and problem-solving skills\n- Self-starter, highly motivated with strong interpersonal and communication skills\n- Proficient in Microsoft Office applications, particularly Excel, Word, and PowerPoint\n- Good command of written and spoken English and Chinese. Proficiency in Putonghua is essential\n- Willing to work shift duty, including early mornings, evenings and public holidays\n- Fresh Graduates are welcome\nHKEX is committed as an Equal Opportunity Employer. Diversity is one of our core values and we look to support, respect diverse perspectives, abilities, culture and experiences within our workplace.\nLocation:\nHKEX - Exchange Square\nShift:\nStandard - 40 Hours (Hong Kong SAR)\nScheduled Weekly Hours:\n40\nWorker Type:\nPermanent",
-    "category": null,
-    "salary_min": null,
-    "salary_max": null,
-    "currency": null,
-    "posted_at": "2026-09-20T00:48:27.607Z",
-    "active": true,
-    "first_seen_at": "2026-09-15T23:48:51.314Z",
-    "last_seen_at": "2026-10-20T00:47:44.878Z",
-    "updated_at": "2026-10-20T00:47:44.878Z"
-  },
-  {
-    "id": "63adc5d86474c74a12a2145da4fc664e",
-    "title": "Market Administrator (Trading Tech Support Analyst)",
-    "company": "TP ICAP",
-    "location": "Hong Kong, Hong Kong",
-    "source": "Workday",
-    "apply_url": "https://tp.wd107.myworkdayjobs.com/TP-ICAP/job/Hong-Kong/Market-Administrator--Trading-Tech-Support-Analyst-_R5395-1",
-    "description": "Group Overview:\nThe TP ICAP Group is a world leading provider of market infrastructure.\nOur purpose is to provide clients with access to global financial and commodities markets, improving price discovery, liquidity, and distribution of data, through responsible and innovative solutions.\nThrough our people and technology, we connect clients to superior liquidity and data solutions.\nThe Group is home to a stable of premium brands. Collectively, TP ICAP is the largest interdealer broker in the world by revenue, the number one Energy & Commodities broker in the world, the world’s leading provider of OTC data, and an award winning all-to-all trading platform.\nThe Group operates from more than 60 offices in 27 countries.  We are 5,300 people strong.  We work as one to achieve our vision of being the world’s most trusted, innovative, liquidity and data solutions specialist.\nRole Overview:\nThe Market Administrator plays a critical role in supporting the front office trading platforms and ensuring seamless trade execution and system performance. This role combines technical expertise, client service, and leadership to manage platform support, incident resolution, and stakeholder engagement. The Senior Market Administrator also mentors junior team members and contributes to strategic initiatives and platform enhancements.\nGuided by TP ICAP’s Triple-A Values—Accountability, Authenticity, and Adaptability —this position fosters a culture of ownership, transparency, and continuous improvement across the team and broader organization\nRole Responsibilities:\nPlatform & Trade Support\n- Provide first- and second-line support for trading platforms, including incident management, trade issue investigation, and resolution.\n- Monitor system logs, outputs, and support chats to proactively identify and resolve issues.\n- Ensure data accuracy and perform ongoing maintenance of platform configurations.\n- Support and test new software releases and upgrades, including out-of-hours coverage when required.\n- Client & Stakeholder Engagement\n- Act as a key liaison with internal stakeholders (brokers, traders, business managers) and external clients (banks, vendors).\n- Handle escalations and maintain strong client relationships with a service-oriented approach.\n- Assist in client onboarding, account maintenance, and credit matrix updates.\nTriple-A Values in Action\n- Accountability: Owns outcomes, delivers on commitments, and ensures operational excellence across all responsibilities.\n- Authenticity: Acts with integrity, communicates transparently, and builds trust with clients and colleagues.\n- Adaptability: Embraces change, responds effectively to evolving business needs, and drives continuous improvement.\n- Leadership & Documentation\n- Lead project initiatives and contribute to workflow and system improvements.\n- Mentor and train associate-level team members.\n- Maintain and enhance team documentation, procedures, and technical manuals.\n- Participate in cross-training and contribute to global knowledge sharing.\n- Technical & Operational Excellence\n- Support deployment and integration of trading platforms (e.g., Java Webstart, STP, API).\n- Liaise with third-party vendors (e.g., ION, Markit, Traiana, ICE, Reuters) as needed.\n- Ensure compliance with internal policies, risk controls, and regulatory requirements.\n- Log and track incidents using ServiceNow and contribute to risk assessments and reviews.\nSkills & Experience\nTechnical Competencies\n- Strong understanding of trade flows and trading systems.\n- Experience with system administration, data processing, and XML/log analysis. Familiarity with network tracing and MS Office tools.\n- High technical competency and ability to troubleshoot complex issues.\nProfessional Attributes\n- Excellent communication skills (verbal and written).\n- Strong client-facing and interpersonal skills.\n- Highly organized, detail-oriented, and proactive.\n- Demonstrated ability to lead, mentor, and work collaboratively in a team.\n- Resilient under pressure and adaptable to fast-paced environments.\nPreferred Background\n- Experience in financial services, preferably in credit, rates, FX or other trading environments.\n- Prior experience in a market support or technical operations role.\n- Knowledge of OTC markets and electronic trading platforms.\n- Profiles with deeper market knowledge can be considered for a Senior Market Administrator role.\nNot The Perfect Fit?\nConcerned that you may not meet the criteria precisely? At TP ICAP, we wholeheartedly believe in fostering inclusivity and cultivating a work environment where everyone can flourish, regardless of your personal or professional background. If you are enthusiastic about this role but find that your experience doesn't align perfectly with every aspect of the job description, we strongly encourage you to apply. You may be the ideal candidate for this position or another opportunity within our organisation. Our dedicated Talent Acquisition team is here to assist you in recognising how your unique skills and abilities can be a valuable contribution. Don't hesitate to take the leap and explore the possibilities. Your potential is what truly matters to us.\nCompany Statement\nWe know that the best innovation happens when diverse people with different perspectives and skills work together in an inclusive atmosphere. That's why we're building a culture where everyone plays a part in making people feel welcome, ready and willing to contribute. TP ICAP Accord - our Employee Network - is a central to this. As well as representing specific groups, TP ICAP Accord helps increase awareness, collaboration, shares best practice, and holds our firm to account for driving continuous cultural improvement.\nLocation\nHong Kong - 21st Floor - One Hennessy - Wan Chai",
-    "category": null,
-    "salary_min": null,
-    "salary_max": null,
-    "currency": null,
-    "posted_at": "2026-09-20T00:48:09.361Z",
-    "active": true,
-    "first_seen_at": "2026-08-29T03:53:52.727Z",
-    "last_seen_at": "2026-10-20T00:47:44.878Z",
-    "updated_at": "2026-10-20T00:47:44.878Z"
+    "last_seen_at": "2026-10-21T00:13:40.782Z",
+    "updated_at": "2026-10-21T00:13:40.782Z"
   },
   {
     "id": "3bb2589a4af763a905e8bea7fc1fb1c3",
@@ -785,11 +785,29 @@
     "salary_min": null,
     "salary_max": null,
     "currency": null,
-    "posted_at": "2026-09-18T23:48:27.239Z",
+    "posted_at": "2026-09-21T00:14:26.114Z",
     "active": true,
     "first_seen_at": "2026-08-28T03:54:32.234Z",
-    "last_seen_at": "2026-10-18T23:47:41.421Z",
-    "updated_at": "2026-10-18T23:47:41.421Z"
+    "last_seen_at": "2026-10-21T00:13:40.782Z",
+    "updated_at": "2026-10-21T00:13:40.782Z"
+  },
+  {
+    "id": "cb558c299659ea342ee8dd7107fb0db4",
+    "title": "Officer – Nominee & Issuer Service Operations",
+    "company": "HKEX",
+    "location": "HK-ONE ES 21/F, HK-ONE ES 21/F",
+    "source": "Workday",
+    "apply_url": "https://hkex.wd3.myworkdayjobs.com/HKEXCareerPage/job/HK-ONE-ES-21F/Officer---Nominee---Issuer-Service-Operations_R004416",
+    "description": "Company Introduction:\nWe’re home to Asia's most dynamic and vibrant capital markets.\nConnecting capital, ideas, inspiration and innovation for deeper, more diverse and liquid global capital markets; providing greater choice and opportunity for our customers, each and every day.\nHKEX is a purpose-driven company. Our commitment to the long-term development of our business and our markets is articulated in our purpose: \"To Connect, Promote and Progress our Markets and the Communities they support for the prosperity of all.\"\nJob Summary:\nThe Issuer Platform Support team manages and supports HKEX's issuer-facing regulatory filing systems, including ESS and DION, which facilitate issuer disclosures on the HKEXnews website. The team handles hotline support, user enquiries, system operations, enhancement projects and testing activities.\nWe are now seeking a high-calibre individual to join our team. The successful candidate will provide operational and user support for HKEX's issuer-facing systems, assist in project and testing activities, and contribute to the continuous enhancement of our services and platforms.\nJob Duties:\nJob Responsibilities\n- Handle enquiries on matters relating to various regulatory filings systems, ensuring timely and professional support\n- Support regulatory filing services to enable listed issuers to publish disclosure documents\n- Assist in project delivery by gathering and documenting user requirements, coordinating and executing user acceptance testing (UAT), and supporting system implementation and rollout activities\n- Provide operational support such as strategic reporting and database management\n- Undertake other ad hoc tasks as assigned by supervisor\nJob Requirements\n- University degree in Finance, Business Administration, Economics, or a related discipline\n- 1-2 years’ relevant experience in reputable financial institutions\n- Good knowledge of the financial service industry and securities market operations\n- Strong organizational skills, task prioritization, attention to detail, and problem-solving skills\n- Self-starter, highly motivated with strong interpersonal and communication skills\n- Proficient in Microsoft Office applications, particularly Excel, Word, and PowerPoint\n- Good command of written and spoken English and Chinese. Proficiency in Putonghua is essential\n- Willing to work shift duty, including early mornings, evenings and public holidays\n- Fresh Graduates are welcome\nHKEX is committed as an Equal Opportunity Employer. Diversity is one of our core values and we look to support, respect diverse perspectives, abilities, culture and experiences within our workplace.\nLocation:\nHKEX - Exchange Square\nShift:\nStandard - 40 Hours (Hong Kong SAR)\nScheduled Weekly Hours:\n40\nWorker Type:\nPermanent",
+    "category": null,
+    "salary_min": null,
+    "salary_max": null,
+    "currency": null,
+    "posted_at": "2026-09-21T00:14:25.747Z",
+    "active": true,
+    "first_seen_at": "2026-09-15T23:48:51.314Z",
+    "last_seen_at": "2026-10-21T00:13:40.782Z",
+    "updated_at": "2026-10-21T00:13:40.782Z"
   },
   {
     "id": "791e55d72f8c6d77d73f7dd3b122472a",
@@ -803,11 +821,29 @@
     "salary_min": null,
     "salary_max": null,
     "currency": null,
-    "posted_at": "2026-09-18T23:48:26.851Z",
+    "posted_at": "2026-09-21T00:14:24.694Z",
     "active": true,
     "first_seen_at": "2026-08-28T03:54:32.234Z",
-    "last_seen_at": "2026-10-18T23:47:41.421Z",
-    "updated_at": "2026-10-18T23:47:41.421Z"
+    "last_seen_at": "2026-10-21T00:13:40.782Z",
+    "updated_at": "2026-10-21T00:13:40.782Z"
+  },
+  {
+    "id": "63adc5d86474c74a12a2145da4fc664e",
+    "title": "Market Administrator (Trading Tech Support Analyst)",
+    "company": "TP ICAP",
+    "location": "Hong Kong, Hong Kong",
+    "source": "Workday",
+    "apply_url": "https://tp.wd107.myworkdayjobs.com/TP-ICAP/job/Hong-Kong/Market-Administrator--Trading-Tech-Support-Analyst-_R5395-1",
+    "description": "Group Overview:\nThe TP ICAP Group is a world leading provider of market infrastructure.\nOur purpose is to provide clients with access to global financial and commodities markets, improving price discovery, liquidity, and distribution of data, through responsible and innovative solutions.\nThrough our people and technology, we connect clients to superior liquidity and data solutions.\nThe Group is home to a stable of premium brands. Collectively, TP ICAP is the largest interdealer broker in the world by revenue, the number one Energy & Commodities broker in the world, the world’s leading provider of OTC data, and an award winning all-to-all trading platform.\nThe Group operates from more than 60 offices in 27 countries.  We are 5,300 people strong.  We work as one to achieve our vision of being the world’s most trusted, innovative, liquidity and data solutions specialist.\nRole Overview:\nThe Market Administrator plays a critical role in supporting the front office trading platforms and ensuring seamless trade execution and system performance. This role combines technical expertise, client service, and leadership to manage platform support, incident resolution, and stakeholder engagement. The Senior Market Administrator also mentors junior team members and contributes to strategic initiatives and platform enhancements.\nGuided by TP ICAP’s Triple-A Values—Accountability, Authenticity, and Adaptability —this position fosters a culture of ownership, transparency, and continuous improvement across the team and broader organization\nRole Responsibilities:\nPlatform & Trade Support\n- Provide first- and second-line support for trading platforms, including incident management, trade issue investigation, and resolution.\n- Monitor system logs, outputs, and support chats to proactively identify and resolve issues.\n- Ensure data accuracy and perform ongoing maintenance of platform configurations.\n- Support and test new software releases and upgrades, including out-of-hours coverage when required.\n- Client & Stakeholder Engagement\n- Act as a key liaison with internal stakeholders (brokers, traders, business managers) and external clients (banks, vendors).\n- Handle escalations and maintain strong client relationships with a service-oriented approach.\n- Assist in client onboarding, account maintenance, and credit matrix updates.\nTriple-A Values in Action\n- Accountability: Owns outcomes, delivers on commitments, and ensures operational excellence across all responsibilities.\n- Authenticity: Acts with integrity, communicates transparently, and builds trust with clients and colleagues.\n- Adaptability: Embraces change, responds effectively to evolving business needs, and drives continuous improvement.\n- Leadership & Documentation\n- Lead project initiatives and contribute to workflow and system improvements.\n- Mentor and train associate-level team members.\n- Maintain and enhance team documentation, procedures, and technical manuals.\n- Participate in cross-training and contribute to global knowledge sharing.\n- Technical & Operational Excellence\n- Support deployment and integration of trading platforms (e.g., Java Webstart, STP, API).\n- Liaise with third-party vendors (e.g., ION, Markit, Traiana, ICE, Reuters) as needed.\n- Ensure compliance with internal policies, risk controls, and regulatory requirements.\n- Log and track incidents using ServiceNow and contribute to risk assessments and reviews.\nSkills & Experience\nTechnical Competencies\n- Strong understanding of trade flows and trading systems.\n- Experience with system administration, data processing, and XML/log analysis. Familiarity with network tracing and MS Office tools.\n- High technical competency and ability to troubleshoot complex issues.\nProfessional Attributes\n- Excellent communication skills (verbal and written).\n- Strong client-facing and interpersonal skills.\n- Highly organized, detail-oriented, and proactive.\n- Demonstrated ability to lead, mentor, and work collaboratively in a team.\n- Resilient under pressure and adaptable to fast-paced environments.\nPreferred Background\n- Experience in financial services, preferably in credit, rates, FX or other trading environments.\n- Prior experience in a market support or technical operations role.\n- Knowledge of OTC markets and electronic trading platforms.\n- Profiles with deeper market knowledge can be considered for a Senior Market Administrator role.\nNot The Perfect Fit?\nConcerned that you may not meet the criteria precisely? At TP ICAP, we wholeheartedly believe in fostering inclusivity and cultivating a work environment where everyone can flourish, regardless of your personal or professional background. If you are enthusiastic about this role but find that your experience doesn't align perfectly with every aspect of the job description, we strongly encourage you to apply. You may be the ideal candidate for this position or another opportunity within our organisation. Our dedicated Talent Acquisition team is here to assist you in recognising how your unique skills and abilities can be a valuable contribution. Don't hesitate to take the leap and explore the possibilities. Your potential is what truly matters to us.\nCompany Statement\nWe know that the best innovation happens when diverse people with different perspectives and skills work together in an inclusive atmosphere. That's why we're building a culture where everyone plays a part in making people feel welcome, ready and willing to contribute. TP ICAP Accord - our Employee Network - is a central to this. As well as representing specific groups, TP ICAP Accord helps increase awareness, collaboration, shares best practice, and holds our firm to account for driving continuous cultural improvement.\nLocation\nHong Kong - 21st Floor - One Hennessy - Wan Chai",
+    "category": null,
+    "salary_min": null,
+    "salary_max": null,
+    "currency": null,
+    "posted_at": "2026-09-21T00:14:07.612Z",
+    "active": true,
+    "first_seen_at": "2026-08-29T03:53:52.727Z",
+    "last_seen_at": "2026-10-21T00:13:40.782Z",
+    "updated_at": "2026-10-21T00:13:40.782Z"
   },
   {
     "id": "649070b889665ab20d254a7ee7dd0375",
@@ -864,24 +900,6 @@
     "updated_at": "2026-10-17T23:36:56.561Z"
   },
   {
-    "id": "e53fdc2860f1966bdece07bea65d0176",
-    "title": "2027 Quantitative Trader Graduate (DV Equities)",
-    "company": "DV Trading",
-    "location": "Hong Kong",
-    "source": "Greenhouse",
-    "apply_url": "https://job-boards.greenhouse.io/dvtrading/jobs/4691298005",
-    "description": "About Us:\nFounded two decades ago and headquartered in Chicago, the DV Group of financial services firms has grown to more than 600 people across North America, Europe and Asia. Since becoming an independent proprietary trading firm in 2016, DV Trading has scaled rapidly using its own capital, strategies and risk management to provide liquidity to markets worldwide. DV Group affiliates today include two broker-dealers, a cryptocurrency market maker and a growing investment adviser.\nDV Equities is the group's Asia-Pacific equities and futures market-making business, trading cash equities, ETFs, index futures and related products on exchanges across the region.\nOverview:\nAs a Quantitative Trader Graduate, you will join our DV Equities desk and participate in the execution and risk management of systematic trading strategies across global equity markets, learning our proprietary methodologies and systems through hands-on experience. You will work closely with senior traders and quantitative researchers to develop, refine, and monitor data-driven trading models. This role is designed for graduates with a strong quantitative foundation, a genuine curiosity about markets, and a willingness to grow in a fast-paced environment.\nResponsibilities:\n- Work closely with senior traders to learn proprietary methodologies and quantitative trading systems\n- Participate in the execution and risk management of systematic trading strategies, including trade execution and risk layoffs\n- Build, maintain, and improve quantitative trading models using historical market and orderbook data\n- Analyze large datasets to identify patterns, inefficiencies, and new alpha opportunities for systematic strategies\n- Enhance existing strategies and identify new opportunities through data-driven research\n- Liaise between the trading desk, internal teams, and OTC relationships\n- Monitor live trading performance and iterate on models based on real-time market feedback\n- Additional responsibilities may be driven by the individual's interests and skills\nRequirements:\n- Currently pursuing a Bachelor's, Master's, or PhD in a quantitative field (Mathematics, Statistics, Economics, Computer Science, Physics, Engineering, or related), with an expected graduation by Summer 2027\n- Strong proficiency in Python; experience with SQL, statistical modeling, or C++ is highly preferred\n- Strong foundation in math, probability, and statistics\n- Genuine interest in financial markets, algorithmic trading, and market microstructure\n- Demonstrated ability to learn quickly and perform in a fast-paced, high-pressure environment\n- Ability to maintain composure and communicate clearly under pressure\n- Exceptional problem-solving ability and multitasking skills\n- Prior internship experience in trading, quantitative research, or data analysis is a plus\nDV is not accepting unsolicited resumes from search firms. Only search firms with valid, written agreements with DV should submit resumes in response to DV’s posted positions. All resumes submitted by search firms to DV via e-mail, the Internet, personal delivery, facsimile, or any other method without a valid written agreement shall be deemed the sole property of DV, and no fee will be paid in the event the candidate is hired by DV. DV is proud to be an equal opportunity employer and committed to creating an inclusive environment for all employees.",
-    "category": "DV Equities",
-    "salary_min": null,
-    "salary_max": null,
-    "currency": null,
-    "posted_at": "2026-09-17T02:05:23-04:00",
-    "active": true,
-    "first_seen_at": "2026-10-20T00:47:44.878Z",
-    "last_seen_at": "2026-10-20T00:47:44.878Z",
-    "updated_at": "2026-10-20T00:47:44.878Z"
-  },
-  {
     "id": "e01b766865473590ac117f71ce101706",
     "title": "Cubist Quantitative Researcher",
     "company": "Point72",
@@ -896,8 +914,8 @@
     "posted_at": "2026-09-16T08:28:13-04:00",
     "active": true,
     "first_seen_at": "2026-10-15T14:17:25.493Z",
-    "last_seen_at": "2026-10-20T00:47:44.878Z",
-    "updated_at": "2026-10-20T00:47:44.878Z"
+    "last_seen_at": "2026-10-21T00:13:40.782Z",
+    "updated_at": "2026-10-21T00:13:40.782Z"
   },
   {
     "id": "6a532d05ee701af901958b708ece94fc",
@@ -950,8 +968,8 @@
     "posted_at": "2026-09-15T23:48:30.862Z",
     "active": true,
     "first_seen_at": "2026-09-15T23:48:51.314Z",
-    "last_seen_at": "2026-10-20T00:47:44.878Z",
-    "updated_at": "2026-10-20T00:47:44.878Z"
+    "last_seen_at": "2026-10-21T00:13:40.782Z",
+    "updated_at": "2026-10-21T00:13:40.782Z"
   },
   {
     "id": "4f7ca7402d6daa47b1634fc84287307e",
@@ -968,8 +986,8 @@
     "posted_at": "2026-09-15T17:33:58-04:00",
     "active": true,
     "first_seen_at": "2026-10-15T14:17:25.493Z",
-    "last_seen_at": "2026-10-20T00:47:44.878Z",
-    "updated_at": "2026-10-20T00:47:44.878Z"
+    "last_seen_at": "2026-10-21T00:13:40.782Z",
+    "updated_at": "2026-10-21T00:13:40.782Z"
   },
   {
     "id": "59a047f87595c4f9a4397de509507144",
@@ -1094,8 +1112,8 @@
     "posted_at": "2026-09-10T03:33:27-04:00",
     "active": true,
     "first_seen_at": "2026-09-10T23:32:33.961Z",
-    "last_seen_at": "2026-10-20T00:47:44.878Z",
-    "updated_at": "2026-10-20T00:47:44.878Z"
+    "last_seen_at": "2026-10-21T00:13:40.782Z",
+    "updated_at": "2026-10-21T00:13:40.782Z"
   },
   {
     "id": "d44af1c4ddb8d78c944984aea8d41414",
@@ -1220,8 +1238,8 @@
     "posted_at": "2026-09-04T08:20:25-04:00",
     "active": true,
     "first_seen_at": "2026-10-15T12:59:16.519Z",
-    "last_seen_at": "2026-10-20T00:47:44.878Z",
-    "updated_at": "2026-10-20T00:47:44.878Z"
+    "last_seen_at": "2026-10-21T00:13:40.782Z",
+    "updated_at": "2026-10-21T00:13:40.782Z"
   },
   {
     "id": "houlihan-lokey-financial-analyst-financial-restructuring-hong-kong-20260904",
@@ -1274,8 +1292,8 @@
     "posted_at": "2026-09-01T04:41:30.489+00:00",
     "active": true,
     "first_seen_at": "2026-09-01T23:39:53.995Z",
-    "last_seen_at": "2026-10-20T00:47:44.878Z",
-    "updated_at": "2026-10-20T00:47:44.878Z"
+    "last_seen_at": "2026-10-21T00:13:40.782Z",
+    "updated_at": "2026-10-21T00:13:40.782Z"
   },
   {
     "id": "4f9a67b86791e73afc9fb4703dcaa1db",
@@ -1292,8 +1310,8 @@
     "posted_at": "2026-08-31T23:25:22-04:00",
     "active": true,
     "first_seen_at": "2026-10-15T14:17:25.493Z",
-    "last_seen_at": "2026-10-20T00:47:44.878Z",
-    "updated_at": "2026-10-20T00:47:44.878Z"
+    "last_seen_at": "2026-10-21T00:13:40.782Z",
+    "updated_at": "2026-10-21T00:13:40.782Z"
   },
   {
     "id": "faf8a0a81095bb1556f7cd23e37637f3",
@@ -1418,8 +1436,8 @@
     "posted_at": "2026-08-20T03:43:59-04:00",
     "active": true,
     "first_seen_at": "2026-10-15T14:17:25.493Z",
-    "last_seen_at": "2026-10-20T00:47:44.878Z",
-    "updated_at": "2026-10-20T00:47:44.878Z"
+    "last_seen_at": "2026-10-21T00:13:40.782Z",
+    "updated_at": "2026-10-21T00:13:40.782Z"
   },
   {
     "id": "c78162c9449cbd7aa1b837cd880d9e40",
