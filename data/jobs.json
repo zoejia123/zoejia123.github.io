@@ -72,24 +72,6 @@
     "updated_at": "2026-11-08T02:36:11.471748+00:00"
   },
   {
-    "id": "994ef01b7e8e7de1106ce4771a0b3d06",
-    "company": "MCP Asset Management Company Limited",
-    "title": "Junior Accountant (Fund and Corporate)",
-    "location": "Causeway Bay, Hong Kong",
-    "posted_at": "2026-10-28",
-    "apply_url": "https://www.recruit.com.hk/job-detail/mcp-asset-management-company-limited/junior-accountant-fund-and-corporate/L0608731010",
-    "category": "Fund Accounting / Fresh graduate",
-    "source": "Recruit.com.hk",
-    "description": "职位摘要；完整要求请以 Apply 原始招聘页面为准。\n\n独立资产管理公司的基金与企业会计岗位。明确接受0–3年经验及应届生；本科，会计、金融相关专业及账务知识优先。要求英语和粤语。\n\nSummary: Support fund NAV reviews, cash movements, annual audits and corporate financial reporting. Help with payments, regulatory reporting and process improvements. Requires MS Office proficiency; VBA/Python, Bloomberg and fund experience are advantages rather than mandatory prerequisites. Full time. Apply with a CV and expected salary via the original advertisement.\n\nVerified: 2026-11-08. Source posting date: 2026-10-28.",
-    "salary_min": null,
-    "salary_max": null,
-    "currency": null,
-    "active": true,
-    "first_seen_at": "2026-11-08T02:36:11.471748+00:00",
-    "last_seen_at": "2026-11-08T02:36:11.471748+00:00",
-    "updated_at": "2026-11-08T02:36:11.471748+00:00"
-  },
-  {
     "id": "65616f613af3fef73a0ea724a3063361",
     "title": "Associate, Client Service (Bahasa, Thai, Vietnamese, Japanese) - 2027 Intake",
     "company": "Third Bridge",
@@ -106,6 +88,24 @@
     "first_seen_at": "2026-10-29T01:21:56.702Z",
     "last_seen_at": "2026-10-29T01:21:56.702Z",
     "updated_at": "2026-10-29T01:21:56.702Z"
+  },
+  {
+    "id": "994ef01b7e8e7de1106ce4771a0b3d06",
+    "company": "MCP Asset Management Company Limited",
+    "title": "Junior Accountant (Fund and Corporate)",
+    "location": "Causeway Bay, Hong Kong",
+    "posted_at": "2026-10-28",
+    "apply_url": "https://www.recruit.com.hk/job-detail/mcp-asset-management-company-limited/junior-accountant-fund-and-corporate/L0608731010",
+    "category": "Fund Accounting / Fresh graduate",
+    "source": "Recruit.com.hk",
+    "description": "职位摘要；完整要求请以 Apply 原始招聘页面为准。\n\n独立资产管理公司的基金与企业会计岗位。明确接受0–3年经验及应届生；本科，会计、金融相关专业及账务知识优先。要求英语和粤语。\n\nSummary: Support fund NAV reviews, cash movements, annual audits and corporate financial reporting. Help with payments, regulatory reporting and process improvements. Requires MS Office proficiency; VBA/Python, Bloomberg and fund experience are advantages rather than mandatory prerequisites. Full time. Apply with a CV and expected salary via the original advertisement.\n\nVerified: 2026-11-08. Source posting date: 2026-10-28.",
+    "salary_min": null,
+    "salary_max": null,
+    "currency": null,
+    "active": true,
+    "first_seen_at": "2026-11-08T02:36:11.471748+00:00",
+    "last_seen_at": "2026-11-08T02:36:11.471748+00:00",
+    "updated_at": "2026-11-08T02:36:11.471748+00:00"
   },
   {
     "id": "b2142462c66cc695e85abbb2d1cb6fe9",
